@@ -1,0 +1,947 @@
+Hostname,Customer,Application,Eth0,Eth1,Env,Release,VIP,CPU,Mem,PDC,DAR 
+bhru202.bhr.kadaster.nl,plp,jap-splunk,10.250.123.230,,bhr,PLP_BEHEER_2_0_21_0,,4,15.67 GB,PLP beheertooling,,bhr.kadaster.nl,36,Amsterdam
+bhru204.bhr.kadaster.nl,plp,jap-splunk,10.250.123.229,,bhr,PLP_BEHEER_2_0_21_0,,2,7.80 GB,PLP beheertooling,,bhr.kadaster.nl,36,Amsterdam
+bhru205.bhr.kadaster.nl,plp,jap-splunk,10.250.123.228,,bhr,PLP_BEHEER_2_0_21_0,,4,6.81 GB,PLP beheertooling,,bhr.kadaster.nl,1059,Almere
+bhru206.bhr.kadaster.nl,plp,jap-splunk,10.250.123.227,,bhr,PLP_BEHEER_2_0_21_0,,4,6.81 GB,PLP beheertooling,,bhr.kadaster.nl,1060,Amsterdam
+bhru207.bhr.kadaster.nl,plp,jap-splunk,10.250.123.226,,bhr,PLP_BEHEER_2_0_21_0,,4,6.81 GB,PLP beheertooling,,bhr.kadaster.nl,1060,Almere
+bhru208.bhr.kadaster.nl,plp,jap-splunk,10.250.123.225,,bhr,PLP_BEHEER_2_0_21_0,,4,6.81 GB,PLP beheertooling,,bhr.kadaster.nl,1060,Amsterdam
+bhru210.bhr.kadaster.nl,plp,plp_repo_server,10.250.123.118,,bhr,PLP_BEHEER_2_0_21_0,,1,1.83 GB,PLP beheertooling,,bhr.kadaster.nl,245,Amsterdam
+bhru212.bhr.kadaster.nl,dba,orabhr,10.250.123.164,,bhr,PLP_ORA_1_1_6_1,,4,23.54 GB,PLP beheertooling,,bhr.kadaster.nl,844,Amsterdam
+bhru213.bhr.kadaster.nl,dba,pemsrvr,10.250.123.101,,bhr,HDP_1_1_2_0,,2,3.86 GB,PLP beheertooling,,bhr.kadaster.nl,248,Almere
+bhru214.bhr.kadaster.nl,dba,pem,10.250.123.132,,bhr,HDP_1_1_2_0,10.91.119.62,2,3.86 GB,PLP beheertooling,,bhr.kadaster.nl,148,Amsterdam
+bhru217.bhr.kadaster.nl,plp,dba-orabhr,10.250.123.48,,bhr,PLP_ORA_2_0_1_0,,4,23.60 GB,PLP beheertooling,,bhr.kadaster.nl,394,Almere
+bhru220.bhr.kadaster.nl,plp,jap-splunk,10.250.123.61,,bhr,PLP_BEHEER_2_0_21_0,,8,7.80 GB,PLP beheertooling,,bhr.kadaster.nl,1141,Amsterdam
+bhru221.bhr.kadaster.nl,plp,jap-splunk,10.250.123.59,,bhr,PLP_BEHEER_2_0_21_0,,8,7.80 GB,PLP beheertooling,,bhr.kadaster.nl,1141,Almere
+bhru222.bhr.kadaster.nl,plp,jap-splunk,10.250.123.62,,bhr,PLP_BEHEER_2_0_21_0,,8,7.80 GB,PLP beheertooling,,bhr.kadaster.nl,1141,Amsterdam
+bhru223.bhr.kadaster.nl,plp,jap-splunk,10.250.123.60,,bhr,PLP_BEHEER_2_0_21_0,,8,7.80 GB,PLP beheertooling,,bhr.kadaster.nl,1141,Almere
+bhru226.bhr.kadaster.nl,plp,dba-orabhr,10.250.123.47,,bhr,PLP_ORA_2_0_1_0,,4,23.60 GB,PLP beheertooling,,bhr.kadaster.nl,394,Amsterdam
+bhru228.bhr.kadaster.nl,dba,dba-rpmrepo,10.250.123.39,,bhr,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP beheertooling,,bhr.kadaster.nl,208,Amsterdam
+csu222.cs.kadaster.nl,pi,px3,10.91.1.222,10.253.123.47,prod,SOL_3_1_2_0,sapxip02,4,63.05 GB,SAP-basis&interfaces,,cs.kadaster.nl,243,Amsterdam
+csu223.cs.kadaster.nl,bw,ib1,10.91.1.223,10.253.121.100,prod,SOL_3_1_2_0,sapbwi09/sapbwi07,2,31.49 GB,SAP-BW (Management info) ,,cs.kadaster.nl,179,Almere
+csu224.cs.kadaster.nl,pi,px3,10.91.1.224,10.253.123.170,prod,SOL_3_1_2_0,sapxip04,4,48.25 GB,SAP-basis&interfaces,,cs.kadaster.nl,213,Amsterdam
+csu226.cs.kadaster.nl,pi,px3,10.91.1.226,10.253.123.48,prod,SOL_3_1_2_0,sapxip06,4,48.25 GB,SAP-basis&interfaces,,cs.kadaster.nl,211,Amsterdam
+csu228.cs.kadaster.nl,pi,px3,10.91.1.228,10.253.123.171,prod,SOL_3_1_2_0,sapxip08,4,48.25 GB,SAP-basis&interfaces,,cs.kadaster.nl,213,Amsterdam
+csu230.cs.kadaster.nl,pi,px3,10.91.1.230,10.253.123.57,prod,SOL_3_1_2_0,sapxip00/esb,1,7.81 GB,SAP-basis&interfaces,,cs.kadaster.nl,131,Amsterdam
+csu231.cs.kadaster.nl,pi,dx3,10.91.1.231,10.253.121.34,prod,SOL_3_1_2_0,sapxid00/sapxid02,2,15.70 GB,SAP-basis&interfaces,,cs.kadaster.nl,147,Almere
+csu232.cs.kadaster.nl,crm,qc1,10.91.1.232,10.253.120.88,prod,SOL_3_1_2_0,sapcrq16/sapcrq15,2,31.49 GB,SAP-CRM-KCC (Klanten management) ,,cs.kadaster.nl,179,Amsterdam
+csu233.cs.kadaster.nl,pi,ix3,10.91.1.233,10.253.120.105,prod,SOL_3_1_2_0,sapxii00/sapxii02,2,15.70 GB,SAP-basis&interfaces,,cs.kadaster.nl,147,Almere
+csu234.cs.kadaster.nl,pi,qx3,10.91.1.234,10.253.123.105,prod,SOL_3_1_2_0,sapxiq00/sapxiq02,2,15.70 GB,SAP-basis&interfaces,,cs.kadaster.nl,147,Amsterdam
+csu239.cs.kadaster.nl,crm,ic1,10.91.1.239,10.253.120.95,prod,SOL_3_1_2_0,sapcri12/sapcri13,2,15.70 GB,SAP-CRM-KCC (Klanten management) ,,cs.kadaster.nl,147,Almere
+csu241.cs.kadaster.nl,crm,dc1,10.91.1.241,10.253.120.97,prod,SOL_3_1_2_0,sapcrd06/sapcrd05,2,15.70 GB,SAP-CRM-KCC (Klanten management) ,,cs.kadaster.nl,147,Almere
+csu245.cs.kadaster.nl,crm,pc1,10.91.1.245,10.253.120.42,prod,SOL_3_1_2_0,/sapcrp10,4,48.25 GB,SAP-CRM-BKK (Klachten management) ,,cs.kadaster.nl,213,Almere
+csu247.cs.kadaster.nl,crm,pc1,10.91.1.247,10.253.120.40,prod,SOL_3_1_2_0,sapcrp12,4,48.25 GB,SAP-CRM-BKK (Klachten management) ,,cs.kadaster.nl,213,Almere
+csu249.cs.kadaster.nl,crm,pc1,10.91.1.249,10.253.120.39,prod,SOL_3_1_2_0,sapcrp14,4,48.25 GB,SAP-CRM-BKK (Klachten management) ,,cs.kadaster.nl,213,Almere
+csu251.cs.kadaster.nl,crm,pc1,10.91.1.251,10.253.120.38,prod,SOL_3_1_2_0,sapcrp16,4,48.25 GB,SAP-CRM-BKK (Klachten management) ,,cs.kadaster.nl,213,Almere
+csu253.cs.kadaster.nl,crm,pc1,10.91.1.253,10.253.120.41,prod,SOL_3_1_2_0,sapcrp11/sap-crm,1,7.81 GB,SAP-CRM-BKK (Klachten management) ,,cs.kadaster.nl,131,Almere
+csu266.cs.kadaster.nl,wf_geo,qx1,10.91.8.6,10.253.120.96,prod,SOL_3_1_2_0,sapwgq55/sapwgq54,2,15.70 GB,SAP-basis&interfaces,,cs.kadaster.nl,147,Amsterdam
+csu267.cs.kadaster.nl,woz,qx4,10.91.8.7,10.253.120.149,prod,SOL_3_1_2_0,/sapxiq22,2,7.81 GB,LV WOZ,,cs.kadaster.nl,131,Almere
+csu268.cs.kadaster.nl,jap,jap-nfs,10.91.8.8,10.253.120.199,prod,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP Kadaster beheertooling,,cs.kadaster.nl,38,Amsterdam
+csu269.cs.kadaster.nl,mdm,pm1,10.91.8.9,10.253.120.193,prod,SOL_3_1_2_0,/sapmdp00,2,15.70 GB,Master Data Management,,cs.kadaster.nl,147,Almere
+csu270.cs.kadaster.nl,kadnl,kadnl-web,10.91.8.10,10.253.122.242,prod,JAP_4_0_11_0,10.91.119.173,2,3.87 GB,Kadaster.nl,kadnl-dar:9.20.3.27,cs.kadaster.nl,28,Amsterdam
+csu272.cs.kadaster.nl,woz,woz-ot-cto,10.91.8.12,10.253.122.168,prod,PLP_OT_1_0_9_0,10.91.119.108,2,3.86 GB,LV WOZ CTO,,cs.kadaster.nl,31,Amsterdam
+csu275.cs.kadaster.nl,ecc,prd,10.91.8.15,10.253.120.247,prod,SOL_3_1_2_0,/sapr3p00,4,48.25 GB,SAP-ECC-FICO (Financien) ,,cs.kadaster.nl,213,Almere
+csu276.cs.kadaster.nl,bgt,bgt-gopubwf,10.91.8.16,10.253.123.118,prod,EAP_4_1_2_0,10.91.119.63,1,1.96 GB,BGT-LV,bgt-gpw-jboss-dar:0.0.7,cs.kadaster.nl,28,Amsterdam
+csu277.cs.kadaster.nl,loc,brk-loc4,10.91.8.17,10.253.123.161,prod,JAP_4_0_11_0,10.91.119.20,2,3.87 GB,BRK-BAG Locatie,brk-loc-dar:1.5.2.0,cs.kadaster.nl,28,Almere
+csu279.cs.kadaster.nl,roo,roo-geosec-pilot,10.91.8.19,10.253.122.118,prod,PLP_ROO_1_0_12_0,10.91.119.134,4,7.80 GB,RO-Online Pilot,roo-plp-geosec-dar:2.2.6.004,cs.kadaster.nl,28,Almere
+csu280.cs.kadaster.nl,wf_rz,qw1,10.91.8.20,10.253.120.89,prod,SOL_3_1_2_0,sapwrq93/sapwrq92,2,15.70 GB,SAP-basis&interfaces,,cs.kadaster.nl,147,Amsterdam
+csu281.cs.kadaster.nl,woz,woz-dl-uit,10.91.8.21,10.253.123.90,prod,PLP_OT_1_0_9_0,10.91.119.220,2,3.86 GB,LV WOZ,,cs.kadaster.nl,31,Almere
+csu284.cs.kadaster.nl,bw,pb1,10.91.8.24,10.253.120.244,prod,SOL_3_1_2_0,/sapbwp00,4,48.25 GB,SAP-BW (Management info) ,,cs.kadaster.nl,213,Amsterdam
+csu285.cs.kadaster.nl,srm,ds5,10.91.8.25,10.253.121.87,prod,SOL_3_1_2_0,sapsrd25/sapsrd27,2,15.70 GB,SAP-SRM (Inkoop) ,,cs.kadaster.nl,147,Almere
+csu288.cs.kadaster.nl,pdok,pdok-eto-gsnlvector,10.91.8.28,10.253.123.149,prod,JAP_4_0_11_0,10.91.119.185,2,3.87 GB,PDOK,,cs.kadaster.nl,28,Amsterdam
+csu289.cs.kadaster.nl,wf_geo,px1,10.91.8.29,10.253.120.44,prod,SOL_3_1_2_0,sapwgp57/sapwgp56,2,15.70 GB,SAP-basis&interfaces,,cs.kadaster.nl,147,Almere
+csu290.cs.kadaster.nl,woz,woz-ot-ato,10.91.8.30,10.253.122.171,prod,PLP_OT_1_0_9_0,10.91.119.89,2,3.86 GB,LV WOZ ATO,,cs.kadaster.nl,31,Amsterdam
+csu291.cs.kadaster.nl,wf_rz,dw1,10.91.8.31,10.253.121.50,prod,SOL_3_1_2_0,sapwrd91/sapwrd90,2,15.70 GB,SAP-basis&interfaces,,cs.kadaster.nl,147,Almere
+csu293.cs.kadaster.nl,roo,roo-val,10.91.8.33,10.253.122.111,prod,PLP_ROO_1_0_12_0,10.91.119.225,4,7.80 GB,RO-online,roo-plp-val-dar:2.2.6.004,cs.kadaster.nl,28,Almere
+csu294.cs.kadaster.nl,dms,qe1,10.91.8.34,10.253.122.10,prod,SOL_3_1_2_0,sapecq51/sapecq50,2,15.58 GB,Generieke Archief Oplossing,,cs.kadaster.nl,147,Amsterdam
+csu296.cs.kadaster.nl,pdok,pdok-eto-dm,10.91.8.36,10.253.123.88,prod,JAP_4_0_11_0,10.91.119.94,4,3.87 GB,PDOK,,cs.kadaster.nl,28,Amsterdam
+csu298.cs.kadaster.nl,dms,pe1,10.91.8.38,10.253.121.132,prod,SOL_3_1_2_0,sapecp11/sapecp10,2,31.49 GB,Generieke Archief Oplossing,,cs.kadaster.nl,179,Amsterdam
+csu299.cs.kadaster.nl,ecc,ir1,10.91.8.39,10.253.121.102,prod,SOL_3_1_2_0,sapr3i03/sapr3i02,2,15.70 GB,SAP-ECC-FICO (Financien) ,,cs.kadaster.nl,147,Almere
+csu300.cs.kadaster.nl,bw,qb1,10.91.8.40,10.253.121.67,prod,SOL_3_1_2_0,sapbwq34/sapbwq30,2,31.49 GB,SAP-BW (Management info) ,,cs.kadaster.nl,179,Amsterdam
+csu303.cs.kadaster.nl,kadnl,kadnl-edit,10.91.8.43,10.253.122.241,prod,JAP_4_0_11_0,10.91.119.221,2,3.87 GB,Kadaster.nl,kadnl-dar:9.20.3.27,cs.kadaster.nl,28,Almere
+csu304.cs.kadaster.nl,woz,px4,10.91.8.44,10.253.123.95,prod,SOL_3_1_2_0,sapxip24,2,15.70 GB,LV WOZ,,cs.kadaster.nl,147,Amsterdam
+csu306.cs.kadaster.nl,sld,pl1,10.91.8.46,10.253.123.60,prod,SOL_3_1_2_0,sapslp62/sapslp60,2,15.70 GB,SAP-basis&interfaces,,cs.kadaster.nl,147,Amsterdam
+csu307.cs.kadaster.nl,dba,roodb,10.91.8.47,10.253.123.10,prod,HDP_1_1_2_0,10.91.119.92,8,31.43 GB,RO-online,,cs.kadaster.nl,388,Almere
+csu308.cs.kadaster.nl,bw,pb1,10.91.8.48,10.253.120.243,prod,SOL_3_1_2_0,/sapbwp04,4,48.25 GB,SAP-BW (Management info) ,,cs.kadaster.nl,213,Amsterdam
+csu311.cs.kadaster.nl,wf_geo,dx1,10.91.8.51,10.253.121.64,prod,SOL_3_1_2_0,sapwgd53/sapwgd52,2,15.70 GB,SAP-basis&interfaces,,cs.kadaster.nl,147,Almere
+csu313.cs.kadaster.nl,kadnl,kadnl-nfs,10.91.8.53,10.253.123.175,prod,PLP_BEHEER_2_0_21_0,,1,1.96 GB,Kadaster.nl,,cs.kadaster.nl,38,Almere
+csu315.cs.kadaster.nl,jap,jap-platform-4,10.91.8.55,10.253.120.204,prod,JAP_4_0_11_0,10.91.119.235,1,1.96 GB,PLP beheertooling,java-example-app-dar:2.0.0.8,cs.kadaster.nl,28,Almere
+csu316.cs.kadaster.nl,mdm,qm1,10.91.8.56,10.253.120.189,prod,SOL_3_1_2_0,/sapmdq00,2,7.81 GB,Master Data Management,,cs.kadaster.nl,131,Amsterdam
+csu317.cs.kadaster.nl,roo,roo-web-pilot,10.91.8.57,10.253.122.119,prod,PLP_ROO_1_0_12_0,10.91.119.249,2,3.86 GB,RO-Online Pilot,roo-plp-web-pilot-dar:2.2.6.004,cs.kadaster.nl,28,Almere
+csu318.cs.kadaster.nl,cua,pz1,10.91.8.58,10.253.123.76,prod,SOL_3_1_2_0,sapcup51/sapcup50,2,15.70 GB,SAP-basis&interfaces,,cs.kadaster.nl,147,Amsterdam
+csu320.cs.kadaster.nl,roo,roo-geosec,10.91.8.60,10.253.122.102,prod,PLP_ROO_1_0_12_0,10.91.119.87,4,7.80 GB,RO-online,roo-plp-geosec-dar:2.2.6.004,cs.kadaster.nl,28,Amsterdam
+csu321.cs.kadaster.nl,bw,db1,10.91.8.61,10.253.121.106,prod,SOL_3_1_2_0,sapbwd22/sapbwd20,2,15.70 GB,SAP-BW (Management info) ,,cs.kadaster.nl,147,Almere
+csu322.cs.kadaster.nl,srm,qs5,10.91.8.62,10.253.121.68,prod,SOL_3_1_2_0,sapsrq37/sapsrq35,2,15.70 GB,SAP-SRM (Inkoop) ,,cs.kadaster.nl,147,Amsterdam
+csu323.cs.kadaster.nl,woz,woz-as-ato,10.91.8.63,10.253.123.123,prod,JAP_3_1_3_0,10.91.119.55,2,3.86 GB,LV WOZ ATO,wozas-ato-appl-dar:7.1.2.0,cs.kadaster.nl,31,Almere
+csu324.cs.kadaster.nl,dms,psapcs,10.91.8.64,10.253.122.228,prod,SOL_3_1_3_0,,2,7.81 GB,Generieke Archief Oplossing,,cs.kadaster.nl,64,Amsterdam
+csu325.cs.kadaster.nl,srm,ps5,10.91.8.65,10.253.121.5,prod,SOL_3_1_2_0,sapsrp22/sapsrp20,2,31.49 GB,SAP-SRM (Inkoop) ,,cs.kadaster.nl,179,Almere
+csu326.cs.kadaster.nl,bw,qb2,10.91.8.66,10.253.121.71,prod,SOL_3_1_2_0,sapbwq11/sapbwq10,2,15.70 GB,SAP-BW (Management info) ,,cs.kadaster.nl,147,Amsterdam
+csu327.cs.kadaster.nl,roo,roo-val-pilot,10.91.8.67,10.253.122.120,prod,PLP_ROO_1_0_12_0,10.91.119.28,4,7.80 GB,RO-Online Pilot,roo-plp-val-dar:2.2.6.004,cs.kadaster.nl,28,Almere
+csu329.cs.kadaster.nl,dms,ie1,10.91.8.69,10.253.122.11,prod,SOL_3_1_2_0,sapeci01/sapeci00,2,15.58 GB,Generieke Archief Oplossing,,cs.kadaster.nl,147,Almere
+csu330.cs.kadaster.nl,bw,pb1,10.91.8.70,10.253.120.242,prod,SOL_3_1_2_0,/sapbwp02,1,7.81 GB,SAP-BW (Management info) ,,cs.kadaster.nl,131,Amsterdam
+csu331.cs.kadaster.nl,klic,klic-poc,10.91.8.71,10.253.123.1,prod,JAP_4_0_11_0,10.91.119.91,1,1.96 GB,KLIC,,cs.kadaster.nl,28,Almere
+csu332.cs.kadaster.nl,bgt,bgt-app-rs,10.91.8.72,10.253.123.15,prod,JAP_4_0_11_0,10.91.119.74,2,3.87 GB,BGT-LV,,cs.kadaster.nl,28,Amsterdam
+csu333.cs.kadaster.nl,woz,woz-as-ct2,10.91.8.73,10.253.123.5,prod,JAP_3_1_3_0,10.91.119.21,2,3.86 GB,LV WOZ CTO,wozas-ct2-appl-dar:7.1.2.0,cs.kadaster.nl,31,Almere
+csu334.cs.kadaster.nl,woz,woz-as-ct2,10.91.8.74,10.253.123.184,prod,JAP_3_1_3_0,10.91.119.21,2,3.86 GB,LV WOZ CTO,wozas-ct2-appl-dar:7.1.2.0,cs.kadaster.nl,31,Amsterdam
+csu337.cs.kadaster.nl,ecc,dev,10.91.8.77,10.253.121.116,prod,SOL_3_1_2_0,sapr3d01/sapr3d00,2,15.70 GB,SAP-ECC-FICO (Financien) ,,cs.kadaster.nl,147,Almere
+csu341.cs.kadaster.nl,ecc,prd,10.91.8.81,10.253.120.245,prod,SOL_3_1_2_0,/sapr3p02,4,48.25 GB,SAP-ECC-FICO (Financien) ,,cs.kadaster.nl,213,Almere
+csu342.cs.kadaster.nl,solman,ps1,10.91.8.82,10.253.120.191,prod,SOL_3_1_2_0,sapsop72/sapsop70,4,63.05 GB,Application Lifecycle Management (ALM),,cs.kadaster.nl,213,Amsterdam
+csu343.cs.kadaster.nl,ota,ota-nfs,10.91.8.83,10.253.121.171,prod,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP Kadaster beheertooling,jenkins-ci:1.582.0.0,cs.kadaster.nl,565,Almere
+csu344.cs.kadaster.nl,roo,roo-geoip2,10.91.8.84,10.253.122.112,prod,PLP_ROO_1_0_12_0,10.91.119.5,4,7.80 GB,RO-online,roo-plp-geoip-unreg-dar:2.2.6.004,cs.kadaster.nl,28,Amsterdam
+csu348.cs.kadaster.nl,ecc,qas,10.91.8.88,10.253.121.40,prod,SOL_3_1_2_0,sapr3q12,2,15.70 GB,SAP-ECC-FICO (Financien) ,,cs.kadaster.nl,147,Amsterdam
+csu349.cs.kadaster.nl,dms,de1,10.91.8.89,10.253.122.14,prod,SOL_3_1_2_0,sapecd41/sapecd40,2,15.58 GB,Generieke Archief Oplossing,,cs.kadaster.nl,147,Almere
+csu350.cs.kadaster.nl,woz,px4,10.91.8.90,10.253.123.73,prod,SOL_3_1_2_0,sapxip20,1,7.81 GB,LV WOZ,,cs.kadaster.nl,131,Amsterdam
+csu351.cs.kadaster.nl,woz,qx4,10.91.8.91,10.253.120.148,prod,SOL_3_1_2_0,sapxiq24,2,7.81 GB,LV WOZ,,cs.kadaster.nl,131,Almere
+csu353.cs.kadaster.nl,roo,roo-geoip2,10.91.8.93,10.253.122.113,prod,PLP_ROO_1_0_12_0,10.91.119.5,4,7.80 GB,RO-online,roo-plp-geoip-unreg-dar:2.2.6.004,cs.kadaster.nl,28,Almere
+csu354.cs.kadaster.nl,ecc,qas,10.91.8.94,10.253.121.41,prod,SOL_3_1_2_0,sapr3q11/sapr3q10,2,31.49 GB,SAP-ECC-FICO (Financien) ,,cs.kadaster.nl,179,Amsterdam
+csu355.cs.kadaster.nl,pdok,pdok-fme,10.91.8.95,10.253.123.190,prod,PLP_PDOK_1_0_6_0,,8,15.70 GB,PDOK,,cs.kadaster.nl,528,Almere
+csu358.cs.kadaster.nl,lki,lki-wdv-app,10.91.8.98,10.253.123.115,prod,JAP_4_0_11_0,10.91.119.212,1,1.96 GB,LKI,wdv-dar:2.1.0.1,cs.kadaster.nl,28,Amsterdam
+csu359.cs.kadaster.nl,ecc,prd,10.91.8.99,10.253.120.246,prod,SOL_3_1_2_0,sapr3p01/ecc,1,7.81 GB,SAP-ECC-FICO (Financien) ,,cs.kadaster.nl,131,Almere
+csu360.cs.kadaster.nl,lvbag,lvbag-vs-em,10.91.8.100,10.253.123.23,prod,JAP_4_0_11_0,10.91.119.166,1,1.96 GB,BAG-LV,,cs.kadaster.nl,28,Amsterdam
+csu361.cs.kadaster.nl,wf_rz,pw1,10.91.8.101,10.253.120.43,prod,SOL_3_1_2_0,sapwrp91/sapwrp90,2,15.70 GB,SAP-basis&interfaces,,cs.kadaster.nl,147,Almere
+csu362.cs.kadaster.nl,woz,woz-sw,10.91.8.102,10.253.122.225,prod,JAP_3_1_3_0,10.91.119.59,2,3.86 GB,LV WOZ,wozsw-prd-appl-dar:7.1.4.0,cs.kadaster.nl,31,Amsterdam
+csu363.cs.kadaster.nl,sld,dl1,10.91.8.103,10.253.120.71,prod,SOL_3_1_2_0,sapsld62/sapsld60,2,15.70 GB,SAP-basis&interfaces,,cs.kadaster.nl,147,Almere
+csu366.cs.kadaster.nl,roo,roo-val,10.91.8.156,10.253.122.110,prod,PLP_ROO_1_0_12_0,10.91.119.225,4,7.80 GB,RO-online,roo-plp-val-dar:2.2.6.004,cs.kadaster.nl,28,Amsterdam
+csu367.cs.kadaster.nl,pdok,pdok-loket,10.91.8.157,10.253.123.169,prod,PLP_PDOK_1_0_7_0,,2,3.87 GB,PDOK,pdok-loket-dar:1.0.3.4,cs.kadaster.nl,58,Almere
+csu369.cs.kadaster.nl,pdok,pdok-eto-gsnlvector,10.91.8.159,10.253.123.152,prod,JAP_4_0_11_0,10.91.119.185,2,3.87 GB,PDOK,,cs.kadaster.nl,28,Almere
+csu370.cs.kadaster.nl,klic,klic-poc,10.91.8.160,10.253.122.253,prod,JAP_4_0_11_0,10.91.119.91,1,1.96 GB,KLIC,,cs.kadaster.nl,28,Amsterdam
+csu371.cs.kadaster.nl,woz,ix4,10.91.8.161,10.253.120.153,prod,SOL_3_1_2_0,sapxii04/sapxii03,2,7.81 GB,LV WOZ,,cs.kadaster.nl,131,Almere
+csu372.cs.kadaster.nl,woz,px4,10.91.8.162,10.253.123.94,prod,SOL_3_1_2_0,/sapxip22,2,15.70 GB,LV WOZ,,cs.kadaster.nl,147,Amsterdam
+csu376.cs.kadaster.nl,bgt,bgt-gpw-eto,10.91.8.166,10.253.123.136,prod,JAP_4_0_11_0,10.91.119.153,1,1.96 GB,BGT-LV,,cs.kadaster.nl,28,Amsterdam
+csu378.cs.kadaster.nl,pdok,pdok-eto-geowebcache,10.91.8.168,10.253.123.154,prod,JAP_4_0_11_0,10.91.119.66,2,3.87 GB,PDOK,,cs.kadaster.nl,28,Amsterdam
+csu379.cs.kadaster.nl,bgt,bgt-app-cs,10.91.8.169,10.253.123.71,prod,JAP_4_0_11_0,10.91.119.130,2,3.87 GB,BGT-LV,,cs.kadaster.nl,28,Almere
+csu380.cs.kadaster.nl,pdok,pdok-eto-fme,10.91.8.170,10.253.123.148,prod,PLP_PDOK_1_0_6_0,,8,15.70 GB,PDOK,,cs.kadaster.nl,128,Amsterdam
+csu381.cs.kadaster.nl,woz,woz-ot-cto,10.91.8.171,10.253.123.91,prod,PLP_OT_1_0_9_0,10.91.119.108,2,3.86 GB,LV WOZ CTO,,cs.kadaster.nl,31,Almere
+csu386.cs.kadaster.nl,dba,wkpb-db,10.91.8.176,10.253.121.212,prod,HDP_1_1_2_0,10.91.119.73,4,7.80 GB,WKPB-LV,,cs.kadaster.nl,1828,Amsterdam
+csu387.cs.kadaster.nl,roo,roo-geosec,10.91.8.177,10.253.122.79,prod,PLP_ROO_1_0_12_0,10.91.119.87,4,7.80 GB,RO-online,roo-plp-geosec-dar:2.2.6.004,cs.kadaster.nl,28,Almere
+csu388.cs.kadaster.nl,roo,roo-geosec,10.91.8.178,10.253.122.100,prod,PLP_ROO_1_0_12_0,10.91.119.87,4,7.80 GB,RO-online,roo-plp-geosec-dar:2.2.6.004,cs.kadaster.nl,28,Amsterdam
+csu389.cs.kadaster.nl,kadnl,kadnl-web,10.91.8.179,10.253.123.81,prod,JAP_4_0_11_0,10.91.119.173,2,3.87 GB,Kadaster.nl,kadnl-dar:9.20.3.27,cs.kadaster.nl,28,Almere
+csu390.cs.kadaster.nl,woz,woz-as-eto,10.91.8.180,10.253.123.6,prod,JAP_3_1_3_0,10.91.119.183,2,3.86 GB,LV WOZ ETO,wozas-eto-appl-dar:7.1.2.0,cs.kadaster.nl,31,Amsterdam
+csu391.cs.kadaster.nl,wf_rz,iw1,10.91.8.181,10.253.121.49,prod,SOL_3_1_2_0,sapwri01/sapwri00,2,15.70 GB,SAP-basis&interfaces,,cs.kadaster.nl,147,Almere
+csu392.cs.kadaster.nl,roo,roo-geoip1,10.91.8.182,10.253.122.114,prod,PLP_ROO_1_0_12_0,10.91.119.10,4,7.80 GB,RO-online,roo-plp-geoip-dar:2.2.6.004,cs.kadaster.nl,28,Amsterdam
+csu393.cs.kadaster.nl,roo,roo-geosec,10.91.8.183,10.253.122.103,prod,PLP_ROO_1_0_12_0,10.91.119.87,4,7.80 GB,RO-online,roo-plp-geosec-dar:2.2.6.004,cs.kadaster.nl,28,Almere
+csu394.cs.kadaster.nl,roo,roo-imp,10.91.8.184,10.253.122.116,prod,PLP_ROO_1_0_12_0,10.91.119.24,4,7.80 GB,RO-online,roo-plp-imp-dar:2.2.6.004,cs.kadaster.nl,28,Amsterdam
+csu397.cs.kadaster.nl,woz,qx4,10.91.8.187,10.253.120.150,prod,SOL_3_1_2_0,sapxiq20,2,7.81 GB,LV WOZ,,cs.kadaster.nl,131,Almere
+csu398.cs.kadaster.nl,bw,qb1,10.91.8.188,10.253.121.66,prod,SOL_3_1_2_0,sapbwq38,2,31.49 GB,SAP-BW (Management info) ,,cs.kadaster.nl,179,Amsterdam
+csu399.cs.kadaster.nl,roo,roo-geoip2-pilot,10.91.8.189,10.253.122.123,prod,PLP_ROO_1_0_12_0,10.91.119.186,4,7.80 GB,RO-Online Pilot,roo-plp-geoip-unreg-dar:2.2.6.004,cs.kadaster.nl,28,Almere
+csu400.cs.kadaster.nl,bgt,bgt-app,10.91.8.190,10.253.123.131,prod,JAP_3_1_3_0,10.91.119.95,2,3.86 GB,BGT-LV,bgt-dar:2.0.60.06,cs.kadaster.nl,31,Amsterdam
+csu401.cs.kadaster.nl,roo,roo-geoip1-pilot,10.91.8.191,10.253.122.124,prod,PLP_ROO_1_0_12_0,10.91.119.159,4,7.80 GB,RO-Online Pilot,roo-plp-geoip-dar:2.2.6.004,cs.kadaster.nl,28,Almere
+csu402.cs.kadaster.nl,roo,roo-web,10.91.8.192,10.253.122.108,prod,PLP_ROO_1_0_12_0,10.91.119.156,2,3.86 GB,RO-online,roo-plp-web-dar:2.2.6.004,cs.kadaster.nl,28,Amsterdam
+csu403.cs.kadaster.nl,roo,roo-imp-pilot,10.91.8.193,10.253.122.122,prod,PLP_ROO_1_0_12_0,10.91.119.67,4,7.80 GB,RO-Online Pilot,roo-plp-imp-dar:2.2.6.004,cs.kadaster.nl,28,Almere
+csu404.cs.kadaster.nl,crm,qc1,10.91.8.194,10.253.120.87,prod,SOL_3_1_2_0,sapcrq18,2,15.70 GB,SAP-CRM-KCC (Klanten management) ,,cs.kadaster.nl,147,Amsterdam
+csu405.cs.kadaster.nl,woz,woz-as-ct1,10.91.8.195,10.253.123.132,prod,JAP_3_1_3_0,10.91.119.145,2,3.86 GB,LV WOZ CTO,wozas-ct1-appl-dar:7.1.2.0,cs.kadaster.nl,31,Almere
+csu406.cs.kadaster.nl,woz,woz-as-ct1,10.91.8.196,10.253.123.133,prod,JAP_3_1_3_0,10.91.119.145,2,3.86 GB,LV WOZ CTO,wozas-ct1-appl-dar:7.1.2.0,cs.kadaster.nl,31,Amsterdam
+csu410.cs.kadaster.nl,roo,roo-nfs,10.91.8.200,10.253.122.117,prod,PLP_ROO_1_0_12_0,,1,1.96 GB,RO-online,,cs.kadaster.nl,2028,Amsterdam
+csu411.cs.kadaster.nl,roo,roo-nfs-pilot,10.91.8.201,10.253.122.121,prod,PLP_ROO_1_0_12_0,,1,1.96 GB,RO-Online Pilot,,cs.kadaster.nl,1028,Almere
+csu412.cs.kadaster.nl,roo,roo-geoip1,10.91.8.202,10.253.122.77,prod,PLP_ROO_1_0_12_0,10.91.119.10,4,7.80 GB,RO-online,roo-plp-geoip-dar:2.2.6.004,cs.kadaster.nl,28,Amsterdam
+csu414.cs.kadaster.nl,pi,qx3,10.91.8.204,10.253.123.109,prod,SOL_3_1_2_0,sapxiq04,2,15.70 GB,SAP-basis&interfaces,,cs.kadaster.nl,147,Amsterdam
+csu415.cs.kadaster.nl,roo,roo-web,10.91.8.205,10.253.122.109,prod,PLP_ROO_1_0_12_0,10.91.119.156,2,3.86 GB,RO-online,roo-plp-web-dar:2.2.6.004,cs.kadaster.nl,28,Almere
+csu417.cs.kadaster.nl,bw,db2,10.91.8.107,10.253.121.74,prod,SOL_3_1_2_0,sapbwd11/sapbwd10,2,15.70 GB,SAP-BW (Management info) ,,cs.kadaster.nl,147,Almere
+csu421.cs.kadaster.nl,dba,roodb-pilot,10.91.8.111,10.253.123.7,prod,HDP_1_1_2_0,10.91.119.233,4,15.67 GB,RO-Online Pilot,,cs.kadaster.nl,148,Almere
+csu423.cs.kadaster.nl,woz,woz-as,10.91.8.113,10.253.123.177,prod,JAP_3_1_3_0,10.91.119.239,2,3.86 GB,LV WOZ,wozas-prd-appl-dar:7.1.2.0,cs.kadaster.nl,31,Almere
+csu424.cs.kadaster.nl,dms,qsapcs,10.91.8.114,10.253.122.229,prod,SOL_3_1_3_0,,2,7.81 GB,Generieke Archief Oplossing,,cs.kadaster.nl,64,Amsterdam
+csu425.cs.kadaster.nl,woz,woz-ot-eto,10.91.8.115,10.253.122.170,prod,PLP_OT_1_0_9_0,10.91.119.200,2,3.86 GB,LV WOZ ETO,,cs.kadaster.nl,31,Almere
+csu426.cs.kadaster.nl,woz,woz-ot,10.91.8.116,10.253.123.84,prod,PLP_OT_1_0_9_0,10.91.119.71,2,3.86 GB,LV WOZ,,cs.kadaster.nl,31,Amsterdam
+csu427.cs.kadaster.nl,dba,wkpb-db,10.91.8.117,10.253.121.213,prod,HDP_1_1_2_0,10.91.119.73,4,7.80 GB,WKPB-LV,,cs.kadaster.nl,1828,Almere
+csu429.cs.kadaster.nl,srm,is5,10.91.8.119,10.253.121.86,prod,SOL_3_1_2_0,sapsri01/sapsri00,2,15.70 GB,SAP-SRM (Inkoop) ,,cs.kadaster.nl,147,Almere
+csu431.cs.kadaster.nl,bgt,bgt-app-rs,10.91.8.121,10.253.123.4,prod,JAP_4_0_11_0,10.91.119.74,2,3.87 GB,BGT-LV,,cs.kadaster.nl,28,Almere
+csu432.cs.kadaster.nl,pdok,pdok-eto-intern,10.91.8.122,10.253.123.147,prod,WSP_1_0_7_0,10.91.119.14,1,1.96 GB,PDOK,,cs.kadaster.nl,28,Amsterdam
+csu433.cs.kadaster.nl,lvbag,lvbag-digilevering,10.91.8.123,10.253.123.142,prod,JAP_4_0_11_0,10.91.119.133,1,1.96 GB,BAG-LV,,cs.kadaster.nl,28,Almere
+csu434.cs.kadaster.nl,woz,woz-as-ato,10.91.8.124,10.253.123.124,prod,JAP_3_1_3_0,10.91.119.55,2,3.86 GB,LV WOZ ATO,wozas-ato-appl-dar:7.1.2.0,cs.kadaster.nl,31,Amsterdam
+csu435.cs.kadaster.nl,dba,pdok-appsdb,10.91.8.125,10.253.122.188,prod,HDP_1_1_2_0,10.91.119.224,2,3.86 GB,PDOK,,cs.kadaster.nl,151,Almere
+csu436.cs.kadaster.nl,roo,roo-geosec,10.91.8.126,10.253.122.80,prod,PLP_ROO_1_0_12_0,10.91.119.87,4,7.80 GB,RO-online,roo-plp-geosec-dar:2.2.6.004,cs.kadaster.nl,28,Amsterdam
+csu437.cs.kadaster.nl,roo,roo-geoip1,10.91.8.127,10.253.122.115,prod,PLP_ROO_1_0_12_0,10.91.119.10,4,7.80 GB,RO-online,roo-plp-geoip-dar:2.2.6.004,cs.kadaster.nl,28,Almere
+csu440.cs.kadaster.nl,ota,ota-jenkins-slave,10.91.8.130,10.253.120.155,prod,WSP_1_0_7_0,10.91.119.102,2,3.87 GB,OTA,jenkins-ci:1.582.0.0,cs.kadaster.nl,28,Amsterdam
+csu441.cs.kadaster.nl,dms,dsapcs,10.91.8.131,10.253.123.176,prod,SOL_3_1_3_0,,2,1.96 GB,Generieke Archief Oplossing,,cs.kadaster.nl,52,Almere
+csu442.cs.kadaster.nl,klic,klic-blg,10.91.8.132,10.253.120.145,prod,JAP_4_0_11_0,10.91.119.240,2,3.87 GB,KLIC,blg-frontend-dar:2.0.0.16,cs.kadaster.nl,28,Amsterdam
+csu443.cs.kadaster.nl,woz,woz-sw,10.91.8.133,10.253.122.224,prod,JAP_3_1_3_0,10.91.119.59,2,3.86 GB,LV WOZ,wozsw-prd-appl-dar:7.1.4.0,cs.kadaster.nl,31,Almere
+csu444.cs.kadaster.nl,dba,pdok-appsdb,10.91.8.134,10.253.122.189,prod,HDP_1_1_2_0,10.91.119.224,2,3.86 GB,PDOK,,cs.kadaster.nl,151,Amsterdam
+csu447.cs.kadaster.nl,roo,roo-geoip1,10.91.8.137,10.253.122.78,prod,PLP_ROO_1_0_12_0,10.91.119.10,4,7.80 GB,RO-online,roo-plp-geoip-dar:2.2.6.004,cs.kadaster.nl,28,Almere
+csu448.cs.kadaster.nl,loc,brk-loc4,10.91.8.138,10.253.123.160,prod,JAP_4_0_11_0,10.91.119.20,2,3.87 GB,BRK-BAG Locatie,brk-loc-dar:1.5.2.0,cs.kadaster.nl,28,Amsterdam
+csu449.cs.kadaster.nl,wf_geo,ix1,10.91.8.139,10.253.121.63,prod,SOL_3_1_2_0,sapwgi01/sapwgi00,2,15.70 GB,SAP-basis&interfaces,,cs.kadaster.nl,147,Almere
+csu450.cs.kadaster.nl,dba,roodb,10.91.8.140,10.253.123.9,prod,HDP_1_1_2_0,10.91.119.92,8,31.43 GB,RO-online,,cs.kadaster.nl,388,Amsterdam
+csu452.cs.kadaster.nl,kadnl,kadnl-edit,10.91.8.142,10.253.122.252,prod,JAP_4_0_11_0,10.91.119.221,2,3.87 GB,Kadaster.nl,kadnl-dar:9.20.3.27,cs.kadaster.nl,28,Amsterdam
+csu453.cs.kadaster.nl,woz,dx4,10.91.8.143,10.253.121.35,prod,SOL_3_1_2_0,sapxid03/sapxid04,2,7.81 GB,LV WOZ,,cs.kadaster.nl,131,Almere
+csu454.cs.kadaster.nl,woz,woz-ot-eto,10.91.8.144,10.253.122.167,prod,PLP_OT_1_0_9_0,10.91.119.200,2,3.86 GB,LV WOZ ETO,,cs.kadaster.nl,31,Amsterdam
+csu458.cs.kadaster.nl,bgt,bgt-gpw,10.91.8.148,10.253.123.112,prod,JAP_4_0_11_0,10.91.119.17,1,1.96 GB,BGT-LV,,cs.kadaster.nl,28,Amsterdam
+csu459.cs.kadaster.nl,roo,roo-geosec,10.91.8.149,10.253.122.101,prod,PLP_ROO_1_0_12_0,10.91.119.87,4,7.80 GB,RO-online,roo-plp-geosec-dar:2.2.6.004,cs.kadaster.nl,28,Almere
+csu460.cs.kadaster.nl,dba,roodb-pilot,10.91.8.150,10.253.123.8,prod,HDP_1_1_2_0,10.91.119.233,4,15.67 GB,RO-Online Pilot,,cs.kadaster.nl,148,Amsterdam
+csu462.cs.kadaster.nl,klic,klic-gbkn,10.91.8.152,10.253.120.141,prod,JAP_4_0_11_0,10.91.119.140,3,5.84 GB,KLIC,klic-gbkn-geoserver-dar:2.0.0.4,cs.kadaster.nl,28,Amsterdam
+csu465.cs.kadaster.nl,dba,dbproxy-ora,10.91.8.155,10.253.122.18,prod,PLP_ORA_2_0_1_0,,1,1.83 GB,PLP beheertooling,bgt-controle-dar:2.0.60.06;brk-mutatieservice-dar:1.5.1.101;grenscorrectie-dar:0.0.0.54-20141016-164937;splits-dar:4.1.3.1;splits-eto-dar:4.1.2.1,cs.kadaster.nl,65,Almere
+csu466.cs.kadaster.nl,loc,brk-lko4,10.91.8.206,10.253.123.164,prod,JAP_4_0_11_0,10.91.119.111,2,3.87 GB,BRK-BAG Locatie,brk-lko-dar:1.1.6.0,cs.kadaster.nl,28,Amsterdam
+csu469.cs.kadaster.nl,bw,ib2,10.91.8.209,10.253.121.75,prod,SOL_3_1_2_0,sapbwi11/sapbwi10,2,15.70 GB,SAP-BW (Management info) ,,cs.kadaster.nl,147,Almere
+csu470.cs.kadaster.nl,bgt,bgt-app-csrseto,10.91.8.210,10.253.123.3,prod,JAP_4_0_11_0,10.91.119.242,2,3.87 GB,BGT-LV,,cs.kadaster.nl,28,Amsterdam
+csu471.cs.kadaster.nl,woz,woz-as-eto,10.91.8.211,10.253.123.183,prod,JAP_3_1_3_0,10.91.119.183,2,3.86 GB,LV WOZ ETO,wozas-eto-appl-dar:7.1.2.0,cs.kadaster.nl,31,Almere
+csu472.cs.kadaster.nl,pdok,pdok-eto-nfs,10.91.8.212,10.253.123.153,prod,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PDOK,,cs.kadaster.nl,228,Amsterdam
+csu476.cs.kadaster.nl,nhr,nhr-appl,10.91.8.216,10.253.123.158,prod,JAP_4_0_11_0,10.91.119.181,1,1.96 GB,OR-KR,orkr-nhr-service-dar:0.0.1.15,cs.kadaster.nl,28,Amsterdam
+csu477.cs.kadaster.nl,loc,brk-lko4,10.91.8.217,10.253.123.165,prod,JAP_4_0_11_0,10.91.119.111,2,3.87 GB,BRK-BAG Locatie,brk-lko-dar:1.1.6.0,cs.kadaster.nl,28,Almere
+csu478.cs.kadaster.nl,jap,jap-platform-4,10.91.8.218,10.253.120.205,prod,JAP_4_0_11_0,10.91.119.235,1,1.96 GB,PLP beheertooling,java-example-app-dar:2.0.0.8,cs.kadaster.nl,28,Amsterdam
+csu479.cs.kadaster.nl,pdok,pdok-eto-intern,10.91.8.219,10.253.123.145,prod,WSP_1_0_7_0,10.91.119.14,1,1.96 GB,PDOK,,cs.kadaster.nl,28,Almere
+csu480.cs.kadaster.nl,lvbag,lvbag-digilevering,10.91.8.220,10.253.123.143,prod,JAP_4_0_11_0,10.91.119.133,1,1.96 GB,BAG-LV,,cs.kadaster.nl,28,Amsterdam
+csu481.cs.kadaster.nl,woz,woz-ot-ato,10.91.8.221,10.253.122.169,prod,PLP_OT_1_0_9_0,10.91.119.89,2,3.86 GB,LV WOZ ATO,,cs.kadaster.nl,31,Almere
+csu482.cs.kadaster.nl,klic,klic-blg-zoek,10.91.8.222,10.253.123.121,prod,JAP_4_0_11_0,10.91.119.164,3,5.84 GB,KLIC,blg-backend-dar:2.0.0.1,cs.kadaster.nl,28,Amsterdam
+csu486.cs.kadaster.nl,bgt,bgt-app-cs,10.91.8.226,10.253.123.70,prod,JAP_4_0_11_0,10.91.119.130,2,3.87 GB,BGT-LV,,cs.kadaster.nl,28,Amsterdam
+csu487.cs.kadaster.nl,pdok,pdok-eto-dm,10.91.8.227,10.253.123.146,prod,JAP_4_0_11_0,10.91.119.94,4,3.87 GB,PDOK,,cs.kadaster.nl,28,Almere
+csu488.cs.kadaster.nl,wkpb,wkpb-lv,10.91.8.228,10.253.120.181,prod,JAP_4_0_11_0,10.91.119.121,1,1.96 GB,WKPB-LV,,cs.kadaster.nl,28,Amsterdam
+csu489.cs.kadaster.nl,bgt,bgt-app-csrseto,10.91.8.229,10.253.123.2,prod,JAP_4_0_11_0,10.91.119.242,2,3.87 GB,BGT-LV,,cs.kadaster.nl,28,Almere
+csu490.cs.kadaster.nl,woz,woz-as,10.91.8.230,10.253.123.172,prod,JAP_3_1_3_0,10.91.119.239,2,3.86 GB,LV WOZ,wozas-prd-appl-dar:7.1.2.0,cs.kadaster.nl,31,Amsterdam
+csu491.cs.kadaster.nl,klic,klic-blg-zoek,10.91.8.231,10.253.123.74,prod,JAP_4_0_11_0,10.91.119.164,3,5.84 GB,KLIC,blg-backend-dar:2.0.0.1,cs.kadaster.nl,28,Almere
+csu493.cs.kadaster.nl,dba,wkpbc,10.91.8.233,10.253.122.45,prod,HDP_1_1_2_0,10.91.119.82,2,3.86 GB,WKPB-LV,,cs.kadaster.nl,148,Almere
+csu497.cs.kadaster.nl,nhr,nhr-appl,10.91.8.237,10.253.123.159,prod,JAP_4_0_11_0,10.91.119.181,1,1.96 GB,OR-KR,orkr-nhr-service-dar:0.0.1.15,cs.kadaster.nl,28,Almere
+csu498.cs.kadaster.nl,klic,klic-adr,10.91.8.238,10.253.120.152,prod,JAP_4_0_11_0,10.91.119.192,2,3.87 GB,KLIC,adr-dar:2.0.0.20,cs.kadaster.nl,28,Amsterdam
+csu499.cs.kadaster.nl,solman,ds1,10.91.8.239,10.253.121.43,prod,SOL_3_1_2_0,sapsod72/sapsod70,2,15.70 GB,Application Lifecycle Management (ALM),,cs.kadaster.nl,147,Almere
+csu500.cs.kadaster.nl,bgt,bgt-gopubwf-eto,10.91.8.240,10.253.123.139,prod,EAP_4_1_2_0,10.91.119.113,1,1.96 GB,BGT-LV,bgt-gpw-jboss-dar:0.0.7,cs.kadaster.nl,28,Amsterdam
+csu501.cs.kadaster.nl,cua,qz1,10.91.8.241,10.253.123.83,prod,SOL_3_1_2_0,csvh051/csvh023,2,7.81 GB,SAP-basis&interfaces,,cs.kadaster.nl,94,Almere
+csu502.cs.kadaster.nl,wov,wov-app,10.91.8.242,10.253.120.198,prod,JAP_4_0_11_0,10.91.119.229,1,1.96 GB,WOZ-viewer,woz-viewer-dar:1.0.0.12,cs.kadaster.nl,28,Amsterdam
+csu503.cs.kadaster.nl,lvbag,lvbag-vs-em,10.91.8.243,10.253.123.24,prod,JAP_4_0_11_0,10.91.119.166,1,1.96 GB,BAG-LV,,cs.kadaster.nl,28,Almere
+csu505.cs.kadaster.nl,dba,wkpbe,10.91.8.245,10.253.122.25,prod,HDP_1_1_2_0,10.91.119.85,2,3.86 GB,WKPB-LV,,cs.kadaster.nl,388,Almere
+csu506.cs.kadaster.nl,pdok,pdok-eto-loket,10.91.8.246,10.253.123.144,prod,PLP_PDOK_1_0_7_0,,1,1.96 GB,PDOK,pdok-loket-dar:1.0.3.4,cs.kadaster.nl,38,Amsterdam
+csu507.cs.kadaster.nl,woz,woz-ot,10.91.8.247,10.253.123.89,prod,PLP_OT_1_0_9_0,10.91.119.71,2,3.86 GB,LV WOZ,,cs.kadaster.nl,31,Almere
+csu508.cs.kadaster.nl,bw,pb2,10.91.8.248,10.253.121.70,prod,SOL_3_1_2_0,sapbwp11/sapbwp10,2,31.49 GB,SAP-BW (Management info) ,,cs.kadaster.nl,179,Amsterdam
+csu510.cs.kadaster.nl,loc,brk-aka4,10.91.8.250,10.253.123.102,prod,JAP_4_0_11_0,10.91.119.213,1,1.96 GB,BRK-BAG Locatie,,cs.kadaster.nl,28,Amsterdam
+csu511.cs.kadaster.nl,pdok,pdok-eto-geowebcache,10.91.8.251,10.253.123.155,prod,JAP_4_0_11_0,10.91.119.66,2,3.87 GB,PDOK,,cs.kadaster.nl,28,Almere
+csu512.cs.kadaster.nl,ota,ota-pipeline,10.91.8.252,10.253.120.157,prod,JAP_4_0_11_0,10.91.119.110,2,3.87 GB,OTA,jenkins-ci:1.582.0.0,cs.kadaster.nl,28,Amsterdam
+csu513.cs.kadaster.nl,dms,isapcs,10.91.8.253,10.253.123.82,prod,SOL_3_1_3_0,,2,7.81 GB,Generieke Archief Oplossing,,cs.kadaster.nl,64,Almere
+csu514.cs.kadaster.nl,klic,klic-geo,10.91.9.1,10.253.120.139,prod,JAP_4_0_11_0,10.91.119.112,3,5.84 GB,KLIC,klic-geoserver-dar:2.0.0.1,cs.kadaster.nl,28,Amsterdam
+csu516.cs.kadaster.nl,javateam,java-example-jap4,10.91.9.3,10.253.120.127,prod,JAP_4_0_11_0,10.91.119.231,1,1.96 GB,GAA,java-example-app-dar:2.0.0.8,cs.kadaster.nl,28,Amsterdam
+csu517.cs.kadaster.nl,wov,wov-app,10.91.9.4,10.253.120.197,prod,JAP_4_0_11_0,10.91.119.229,1,1.96 GB,WOZ-viewer,woz-viewer-dar:1.0.0.12,cs.kadaster.nl,28,Almere
+csu518.cs.kadaster.nl,klic,klic-lev,10.91.9.5,10.253.120.107,prod,JAP_4_0_11_0,10.91.119.203,3,5.84 GB,KLIC,klic-backend-dar:2.0.0.11,cs.kadaster.nl,28,Amsterdam
+csu519.cs.kadaster.nl,wkpb,wkpb-lv,10.91.9.6,10.253.120.182,prod,JAP_4_0_11_0,10.91.119.121,1,1.96 GB,WKPB-LV,,cs.kadaster.nl,28,Almere
+csu520.cs.kadaster.nl,klic,klic-lev,10.91.9.7,10.253.120.106,prod,JAP_4_0_11_0,10.91.119.203,3,5.84 GB,KLIC,klic-backend-dar:2.0.0.11,cs.kadaster.nl,28,Amsterdam
+csu522.cs.kadaster.nl,klic,klic-ntd,10.91.9.9,10.253.120.104,prod,JAP_4_0_11_0,10.91.119.64,2,3.87 GB,KLIC,klic-ntd-dar:2.0.0.4,cs.kadaster.nl,28,Amsterdam
+csu524.cs.kadaster.nl,klic,klic-web,10.91.9.11,10.253.120.102,prod,JAP_4_0_11_0,10.91.119.131,2,3.87 GB,KLIC,klic-frontend-dar:2.0.0.24,cs.kadaster.nl,28,Amsterdam
+csu525.cs.kadaster.nl,kpv,kpv-frontend-opl,10.91.9.12,10.253.123.79,prod,JAP_4_0_11_0,10.91.119.32,2,3.87 GB,Kadastrale Perceelsvorming (KPV),grenscorrectie-dar:0.0.0.54-20141016-164937,cs.kadaster.nl,28,Almere
+csu526.cs.kadaster.nl,lvbag,lvbag-vs-bw,10.91.9.13,10.253.120.93,prod,JAP_4_0_11_0,10.91.119.103,1,1.96 GB,BAG-LV,bag-vs-dar:4.0.0.8,cs.kadaster.nl,28,Amsterdam
+csu527.cs.kadaster.nl,geo,geo-gbkn,10.91.9.14,10.253.123.59,prod,JAP_3_1_3_0,10.91.119.99,3,5.82 GB,GBKN,gbkn-geoserver-dar:1.1.1.2,cs.kadaster.nl,31,Almere
+csu528.cs.kadaster.nl,bgt,bgt-app-controle,10.91.9.15,10.253.120.82,prod,JAP_3_1_3_0,10.91.119.40,2,3.86 GB,BGT-LV,bgt-controle-dar:2.0.60.06,cs.kadaster.nl,31,Amsterdam
+csu530.cs.kadaster.nl,sapgw,dg1,10.91.9.17,10.253.120.45,prod,SOL_3_1_2_0,sapgwd01/sapgwd00,2,7.81 GB,SAP-basis&interfaces,,cs.kadaster.nl,94,Amsterdam
+csu531.cs.kadaster.nl,bke,bke-ggi,10.91.9.18,10.253.123.46,prod,JAP_4_0_11_0,10.91.119.222,1,1.96 GB,BRK leveringen,leveringservice-dar:0.0.25;eventmanager-dar:0.0.0.9,cs.kadaster.nl,28,Almere
+csu532.cs.kadaster.nl,gaa,gaa-test-app,10.91.9.19,10.253.120.70,prod,JAP_4_0_11_0,10.91.119.142,1,1.96 GB,GAA,gaa-test-app-dar:1.0.2.1,cs.kadaster.nl,28,Amsterdam
+csu533.cs.kadaster.nl,bke,bke-mutatie,10.91.9.20,10.253.123.42,prod,JAP_4_0_11_0,10.91.119.122,2,3.87 GB,BRK leveringen,productieservice-mutatie-dar:2.1.0.10;mutatiesensor-dar:2.0.11,cs.kadaster.nl,28,Almere
+csu534.cs.kadaster.nl,gvf,gvf-app,10.91.9.21,10.253.120.68,prod,JAP_4_0_11_0,10.91.119.230,2,3.87 GB,Componenten GVF,,cs.kadaster.nl,28,Amsterdam
+csu536.cs.kadaster.nl,aa,aa-mmalware,10.91.9.23,10.253.120.65,prod,JAP_3_1_3_0,10.91.119.189,1,1.96 GB,AA,massale-mail-malware-dar:1.0.10,cs.kadaster.nl,31,Amsterdam
+csu540.cs.kadaster.nl,kpv,kpv-frontend-opl,10.91.9.27,10.253.123.78,prod,JAP_4_0_11_0,10.91.119.32,2,3.87 GB,Kadastrale Perceelsvorming (KPV),grenscorrectie-dar:0.0.0.54-20141016-164937,cs.kadaster.nl,28,Amsterdam
+csu541.cs.kadaster.nl,bke,bke-stand,10.91.9.28,10.253.123.39,prod,JAP_4_0_11_0,10.91.119.31,2,3.87 GB,BRK leveringen,productieservice-stand-dar:2.1.0.13,cs.kadaster.nl,28,Almere
+csu542.cs.kadaster.nl,geo,geo-gbkn,10.91.9.29,10.253.123.54,prod,JAP_3_1_3_0,10.91.119.99,3,5.82 GB,GBKN,gbkn-geoserver-dar:1.1.1.2,cs.kadaster.nl,31,Amsterdam
+csu543.cs.kadaster.nl,ota,ota-pipeline,10.91.9.30,10.253.120.156,prod,JAP_4_0_11_0,10.91.119.110,2,3.87 GB,OTA,jenkins-ci:1.582.0.0,cs.kadaster.nl,28,Almere
+csu544.cs.kadaster.nl,bke,bke-ggi,10.91.9.31,10.253.123.191,prod,JAP_4_0_11_0,10.91.119.222,1,1.96 GB,BRK leveringen,leveringservice-dar:0.0.25;eventmanager-dar:0.0.0.9,cs.kadaster.nl,28,Amsterdam
+csu545.cs.kadaster.nl,ota,ota-jenkins-slave,10.91.9.32,10.253.120.154,prod,WSP_1_0_7_0,10.91.119.102,2,3.87 GB,OTA,jenkins-ci:1.582.0.0,cs.kadaster.nl,28,Almere
+csu546.cs.kadaster.nl,bke,bke-mutatie,10.91.9.33,10.253.123.44,prod,JAP_4_0_11_0,10.91.119.122,2,3.87 GB,BRK leveringen,productieservice-mutatie-dar:2.1.0.10;mutatiesensor-dar:2.0.11,cs.kadaster.nl,28,Amsterdam
+csu547.cs.kadaster.nl,klic,klic-adr,10.91.9.34,10.253.120.151,prod,JAP_4_0_11_0,10.91.119.192,2,3.87 GB,KLIC,adr-dar:2.0.0.20,cs.kadaster.nl,28,Almere
+csu548.cs.kadaster.nl,bke,bke-stand,10.91.9.35,10.253.123.41,prod,JAP_4_0_11_0,10.91.119.31,2,3.87 GB,BRK leveringen,productieservice-stand-dar:2.1.0.13,cs.kadaster.nl,28,Amsterdam
+csu550.cs.kadaster.nl,bke,bke-bestelgebied,10.91.9.37,10.253.123.38,prod,JAP_4_0_11_0,10.91.119.175,2,3.87 GB,BRK leveringen,gebied-beheer-dar:0.0.0.9,cs.kadaster.nl,28,Amsterdam
+csu551.cs.kadaster.nl,klic,klic-blg,10.91.9.38,10.253.120.144,prod,JAP_4_0_11_0,10.91.119.240,2,3.87 GB,KLIC,blg-frontend-dar:2.0.0.16,cs.kadaster.nl,28,Almere
+csu552.cs.kadaster.nl,woz,woz-dl-uit,10.91.9.39,10.253.123.85,prod,PLP_OT_1_0_9_0,10.91.119.220,2,3.86 GB,LV WOZ,,cs.kadaster.nl,31,Amsterdam
+csu553.cs.kadaster.nl,klic,klic-gbkn,10.91.9.40,10.253.120.140,prod,JAP_4_0_11_0,10.91.119.140,3,5.84 GB,KLIC,klic-gbkn-geoserver-dar:2.0.0.4,cs.kadaster.nl,28,Almere
+csu554.cs.kadaster.nl,kpv,kpv-frontend,10.91.9.41,10.253.123.34,prod,JAP_4_0_11_0,10.91.119.204,2,3.87 GB,Kadastrale Perceelsvorming (KPV),,cs.kadaster.nl,28,Amsterdam
+csu555.cs.kadaster.nl,klic,klic-geo,10.91.9.42,10.253.120.138,prod,JAP_4_0_11_0,10.91.119.112,3,5.84 GB,KLIC,klic-geoserver-dar:2.0.0.1,cs.kadaster.nl,28,Almere
+csu556.cs.kadaster.nl,kpv,kpv-process,10.91.9.43,10.253.123.31,prod,JAP_4_0_11_0,10.91.119.4,2,3.87 GB,Kadastrale Perceelsvorming (KPV),,cs.kadaster.nl,28,Amsterdam
+csu557.cs.kadaster.nl,javateam,java-example-jap4,10.91.9.44,10.253.120.126,prod,JAP_4_0_11_0,10.91.119.231,1,1.96 GB,GAA,java-example-app-dar:2.0.0.8,cs.kadaster.nl,28,Almere
+csu558.cs.kadaster.nl,kpv,kpv-services,10.91.9.45,10.253.123.30,prod,JAP_4_0_11_0,10.91.119.214,2,3.87 GB,Kadastrale Perceelsvorming (KPV),,cs.kadaster.nl,28,Amsterdam
+csu559.cs.kadaster.nl,klic,klic-lev,10.91.9.46,10.253.120.109,prod,JAP_4_0_11_0,10.91.119.203,3,5.84 GB,KLIC,klic-backend-dar:2.0.0.11,cs.kadaster.nl,28,Almere
+csu560.cs.kadaster.nl,kpv,kpv-web,10.91.9.47,10.253.123.26,prod,WSP_1_0_7_0,10.91.119.194,2,3.87 GB,Kadastrale Perceelsvorming (KPV),,cs.kadaster.nl,28,Amsterdam
+csu561.cs.kadaster.nl,klic,klic-lev,10.91.9.48,10.253.120.108,prod,JAP_4_0_11_0,10.91.119.203,3,5.84 GB,KLIC,klic-backend-dar:2.0.0.11,cs.kadaster.nl,28,Almere
+csu563.cs.kadaster.nl,klic,klic-ntd,10.91.9.50,10.253.120.103,prod,JAP_4_0_11_0,10.91.119.64,2,3.87 GB,KLIC,klic-ntd-dar:2.0.0.4,cs.kadaster.nl,28,Almere
+csu565.cs.kadaster.nl,klic,klic-web,10.91.9.52,10.253.120.101,prod,JAP_4_0_11_0,10.91.119.131,2,3.87 GB,KLIC,klic-frontend-dar:2.0.0.24,cs.kadaster.nl,28,Almere
+csu567.cs.kadaster.nl,lvbag,lvbag-vs-bw,10.91.9.54,10.253.120.94,prod,JAP_4_0_11_0,10.91.119.103,1,1.96 GB,BAG-LV,bag-vs-dar:4.0.0.8,cs.kadaster.nl,28,Almere
+csu569.cs.kadaster.nl,bgt,bgt-app-controle,10.91.9.56,10.253.120.83,prod,JAP_3_1_3_0,10.91.119.40,2,3.86 GB,BGT-LV,bgt-controle-dar:2.0.60.06,cs.kadaster.nl,31,Almere
+csu571.cs.kadaster.nl,bke,bke-bestelgebied,10.91.9.58,10.253.123.37,prod,JAP_4_0_11_0,10.91.119.175,2,3.87 GB,BRK leveringen,gebied-beheer-dar:0.0.0.9,cs.kadaster.nl,28,Almere
+csu573.cs.kadaster.nl,gaa,gaa-test-app,10.91.9.60,10.253.120.69,prod,JAP_4_0_11_0,10.91.119.142,1,1.96 GB,GAA,gaa-test-app-dar:1.0.2.1,cs.kadaster.nl,28,Almere
+csu575.cs.kadaster.nl,gvf,gvf-app,10.91.9.62,10.253.120.67,prod,JAP_4_0_11_0,10.91.119.230,2,3.87 GB,Componenten GVF,,cs.kadaster.nl,28,Almere
+csu577.cs.kadaster.nl,aa,aa-mmalware,10.91.9.64,10.253.120.66,prod,JAP_3_1_3_0,10.91.119.189,1,1.96 GB,AA,massale-mail-malware-dar:1.0.10,cs.kadaster.nl,31,Almere
+csu579.cs.kadaster.nl,iad,iad-web,10.91.9.66,10.253.120.63,prod,JAP_4_0_11_0,10.91.119.187,1,1.96 GB,Inzage Archief Documenten ,iad-dar:1.3.0.25,cs.kadaster.nl,28,Almere
+csu581.cs.kadaster.nl,lvbag,lvbag-web,10.91.9.68,10.253.120.61,prod,WSP_1_0_7_0,10.91.119.2,1,1.96 GB,BAG-LV,bag-wsp-dar:1.0.1.0,cs.kadaster.nl,28,Almere
+csu583.cs.kadaster.nl,bgt,bgt-gopubwf-eto,10.91.9.70,10.253.123.140,prod,EAP_4_1_2_0,10.91.119.113,1,1.96 GB,BGT-LV,bgt-gpw-jboss-dar:0.0.7,cs.kadaster.nl,28,Almere
+csu585.cs.kadaster.nl,bgt,bgt-gpw-eto,10.91.9.72,10.253.121.238,prod,JAP_4_0_11_0,10.91.119.153,1,1.96 GB,BGT-LV,,cs.kadaster.nl,28,Almere
+csu587.cs.kadaster.nl,bgt,bgt-app,10.91.9.74,10.253.123.130,prod,JAP_3_1_3_0,10.91.119.95,2,3.86 GB,BGT-LV,bgt-dar:2.0.60.06,cs.kadaster.nl,31,Almere
+csu591.cs.kadaster.nl,bgt,bgt-gpw,10.91.9.78,10.253.123.111,prod,JAP_4_0_11_0,10.91.119.17,1,1.96 GB,BGT-LV,,cs.kadaster.nl,28,Almere
+csu593.cs.kadaster.nl,bgt,bgt-gopubwf,10.91.9.80,10.253.123.113,prod,EAP_4_1_2_0,10.91.119.63,1,1.96 GB,BGT-LV,bgt-gpw-jboss-dar:0.0.7,cs.kadaster.nl,28,Almere
+csu595.cs.kadaster.nl,lki,lki-wdv-app,10.91.9.82,10.253.123.114,prod,JAP_4_0_11_0,10.91.119.212,1,1.96 GB,LKI,wdv-dar:2.1.0.1,cs.kadaster.nl,28,Almere
+csu597.cs.kadaster.nl,loc,brk-aka4,10.91.9.84,10.253.123.103,prod,JAP_4_0_11_0,10.91.119.213,1,1.96 GB,BRK-BAG Locatie,,cs.kadaster.nl,28,Almere
+csu599.cs.kadaster.nl,kpv,kpv-frontend,10.91.9.86,10.253.123.33,prod,JAP_4_0_11_0,10.91.119.204,2,3.87 GB,Kadastrale Perceelsvorming (KPV),,cs.kadaster.nl,28,Almere
+csu600.cs.kadaster.nl,iad,iad-web,10.91.9.87,10.253.120.64,prod,JAP_4_0_11_0,10.91.119.187,1,1.96 GB,Inzage Archief Documenten ,iad-dar:1.3.0.25,cs.kadaster.nl,28,Amsterdam
+csu601.cs.kadaster.nl,splits,splits-app-eto,10.91.9.88,10.253.120.59,prod,JAP_4_0_11_0,10.91.119.1,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-eto-dar:4.1.2.1,cs.kadaster.nl,28,Almere
+csu602.cs.kadaster.nl,lvbag,lvbag-web,10.91.9.89,10.253.120.62,prod,WSP_1_0_7_0,10.91.119.2,1,1.96 GB,BAG-LV,bag-wsp-dar:1.0.1.0,cs.kadaster.nl,28,Amsterdam
+csu603.cs.kadaster.nl,splits,splits-app-web,10.91.9.90,10.253.120.56,prod,JAP_4_0_11_0,10.91.119.172,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-dar:4.1.3.1,cs.kadaster.nl,28,Almere
+csu604.cs.kadaster.nl,splits,splits-app-eto,10.91.9.91,10.253.120.58,prod,JAP_4_0_11_0,10.91.119.1,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-eto-dar:4.1.2.1,cs.kadaster.nl,28,Amsterdam
+csu605.cs.kadaster.nl,splits,splits-geos-gbkn-wfs,10.91.9.92,10.253.120.55,prod,JAP_4_0_11_0,10.91.119.49,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-gbkn-wfs-geoserver-dar:4.1.0.3,cs.kadaster.nl,28,Almere
+csu606.cs.kadaster.nl,splits,splits-app-web,10.91.9.93,10.253.120.57,prod,JAP_4_0_11_0,10.91.119.172,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-dar:4.1.3.1,cs.kadaster.nl,28,Amsterdam
+csu607.cs.kadaster.nl,splits,splits-geos-gbkn-wms,10.91.9.94,10.253.120.52,prod,JAP_4_0_11_0,10.91.119.81,3,5.84 GB,Kadastrale Perceelsvorming (KPV),splits-gbkn-wms-geoserver-dar:4.1.0.3,cs.kadaster.nl,28,Almere
+csu608.cs.kadaster.nl,splits,splits-geos-gbkn-wfs,10.91.9.95,10.253.120.54,prod,JAP_4_0_11_0,10.91.119.49,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-gbkn-wfs-geoserver-dar:4.1.0.3,cs.kadaster.nl,28,Amsterdam
+csu609.cs.kadaster.nl,splits,splits-geos-perc-wfs,10.91.9.96,10.253.120.50,prod,JAP_4_0_11_0,10.91.119.211,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-perceel-wfs-geoserver-dar:4.1.1.0,cs.kadaster.nl,28,Almere
+csu610.cs.kadaster.nl,splits,splits-geos-gbkn-wms,10.91.9.97,10.253.120.53,prod,JAP_4_0_11_0,10.91.119.81,3,5.84 GB,Kadastrale Perceelsvorming (KPV),splits-gbkn-wms-geoserver-dar:4.1.0.3,cs.kadaster.nl,28,Amsterdam
+csu611.cs.kadaster.nl,splits,splits-geos-perc-wms,10.91.9.98,10.253.120.48,prod,JAP_4_0_11_0,10.91.119.72,3,5.84 GB,Kadastrale Perceelsvorming (KPV),splits-perceel-wms-geoserver-dar:4.1.1.1,cs.kadaster.nl,28,Almere
+csu612.cs.kadaster.nl,splits,splits-geos-perc-wfs,10.91.9.99,10.253.120.51,prod,JAP_4_0_11_0,10.91.119.211,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-perceel-wfs-geoserver-dar:4.1.1.0,cs.kadaster.nl,28,Amsterdam
+csu613.cs.kadaster.nl,splits,splits-process,10.91.9.100,10.253.120.46,prod,JAP_4_0_11_0,10.91.119.120,3,5.84 GB,Kadastrale Perceelsvorming (KPV),brk-mutatieservice-dar:1.5.1.101,cs.kadaster.nl,28,Almere
+csu614.cs.kadaster.nl,splits,splits-geos-perc-wms,10.91.9.101,10.253.120.49,prod,JAP_4_0_11_0,10.91.119.72,3,5.84 GB,Kadastrale Perceelsvorming (KPV),splits-perceel-wms-geoserver-dar:4.1.1.1,cs.kadaster.nl,28,Amsterdam
+csu615.cs.kadaster.nl,bgt,bgt-app-eto,10.91.9.102,10.253.120.29,prod,JAP_3_1_3_0,10.91.119.85,2,3.86 GB,BGT-LV,,cs.kadaster.nl,31,Almere
+csu616.cs.kadaster.nl,splits,splits-process,10.91.9.103,10.253.120.47,prod,JAP_4_0_11_0,10.91.119.120,3,5.84 GB,Kadastrale Perceelsvorming (KPV),brk-mutatieservice-dar:1.5.1.101,cs.kadaster.nl,28,Amsterdam
+csu617.cs.kadaster.nl,lvbag,lvbag-vs-audit,10.91.9.104,10.253.120.25,prod,JAP_4_0_11_0,10.91.119.30,1,1.96 GB,BAG-LV,bag-audit-dar:2.10.1.1,cs.kadaster.nl,28,Almere
+csu618.cs.kadaster.nl,bgt,bgt-app-eto,10.91.9.105,10.253.120.30,prod,JAP_3_1_3_0,10.91.119.85,2,3.86 GB,BGT-LV,,cs.kadaster.nl,31,Amsterdam
+csu619.cs.kadaster.nl,sapgw,ig1,10.91.9.106,10.253.120.19,prod,SOL_3_1_2_0,sapgwi01/sapgwi00,2,7.81 GB,SAP-basis&interfaces,,cs.kadaster.nl,94,Almere
+csu620.cs.kadaster.nl,lvbag,lvbag-vs-audit,10.91.9.107,10.253.120.26,prod,JAP_4_0_11_0,10.91.119.30,1,1.96 GB,BAG-LV,bag-audit-dar:2.10.1.1,cs.kadaster.nl,28,Amsterdam
+csu621.cs.kadaster.nl,sapgw,qg1,10.91.9.108,10.253.120.18,prod,SOL_3_1_2_0,sapgwq01/sapgwq00,2,7.81 GB,SAP-basis&interfaces,,cs.kadaster.nl,94,Almere
+csu622.cs.kadaster.nl,sapgw,pg1,10.91.9.109,10.253.120.17,prod,SOL_3_1_2_0,sapgwp01/sapgwp00,2,7.81 GB,SAP-basis&interfaces,,cs.kadaster.nl,94,Amsterdam
+csu623.cs.kadaster.nl,lki,lki-brk-ws,10.91.9.110,10.253.120.16,prod,JAP_4_0_11_0,10.91.119.163,2,3.87 GB,LKI,lki-brk-ws-dar:1.0.0.6,cs.kadaster.nl,28,Almere
+csu624.cs.kadaster.nl,lki,lki-brk-ws,10.91.9.111,10.253.120.15,prod,JAP_4_0_11_0,10.91.119.163,2,3.87 GB,LKI,lki-brk-ws-dar:1.0.0.6,cs.kadaster.nl,28,Amsterdam
+csu625.cs.kadaster.nl,lki,lki-hvk-process,10.91.9.112,10.253.120.13,prod,JAP_4_0_11_0,10.91.119.11,2,3.87 GB,LKI,hvk-aanvragen-dar:1.0.0.42,cs.kadaster.nl,28,Almere
+csu626.cs.kadaster.nl,lki,lki-hvk-process,10.91.9.113,10.253.120.14,prod,JAP_4_0_11_0,10.91.119.11,2,3.87 GB,LKI,hvk-aanvragen-dar:1.0.0.42,cs.kadaster.nl,28,Amsterdam
+csu627.cs.kadaster.nl,lki,lki-process,10.91.9.114,10.253.120.11,prod,JAP_4_0_11_0,10.91.119.191,2,3.87 GB,LKI,brk-fingis-mutatieservice-dar:1.3.0.4,cs.kadaster.nl,28,Almere
+csu628.cs.kadaster.nl,lki,lki-process,10.91.9.115,10.253.120.12,prod,JAP_4_0_11_0,10.91.119.191,2,3.87 GB,LKI,brk-fingis-mutatieservice-dar:1.3.0.4,cs.kadaster.nl,28,Amsterdam
+csu629.cs.kadaster.nl,pdok,pdok-intern,10.91.9.116,10.253.120.1,prod,WSP_1_0_7_0,10.91.119.101,1,1.96 GB,PDOK,pdok-intern-dar:1.0.4.2,cs.kadaster.nl,28,Almere
+csu630.cs.kadaster.nl,pdok,pdok-intern,10.91.9.117,10.253.120.2,prod,WSP_1_0_7_0,10.91.119.101,1,1.96 GB,PDOK,pdok-intern-dar:1.0.4.2,cs.kadaster.nl,28,Amsterdam
+csu631.cs.kadaster.nl,gds,gds-app,10.91.9.118,10.253.121.250,prod,JAP_3_1_3_0,10.91.119.252,2,3.86 GB,Generieke Download Service (GDS2),gds-dar:2.7.0.8,cs.kadaster.nl,31,Almere
+csu632.cs.kadaster.nl,gds,gds-app,10.91.9.119,10.253.120.254,prod,JAP_3_1_3_0,10.91.119.252,2,3.86 GB,Generieke Download Service (GDS2),gds-dar:2.7.0.8,cs.kadaster.nl,31,Amsterdam
+csu633.cs.kadaster.nl,isps,isps-apprecht-ws,10.91.9.120,10.253.121.251,prod,JAP_4_0_11_0,10.91.119.182,1,1.96 GB,ISPS,isps-app-dar:0.0.0.9,cs.kadaster.nl,28,Almere
+csu634.cs.kadaster.nl,isps,isps-apprecht-ws,10.91.9.121,10.253.121.249,prod,JAP_4_0_11_0,10.91.119.182,1,1.96 GB,ISPS,isps-app-dar:0.0.0.9,cs.kadaster.nl,28,Amsterdam
+csu635.cs.kadaster.nl,dba,epc-db,10.91.9.122,10.253.121.248,prod,HDP_1_1_2_0,10.91.119.12,2,3.86 GB,EPC,,cs.kadaster.nl,151,Almere
+csu636.cs.kadaster.nl,dba,epc-db,10.91.9.123,10.253.121.252,prod,HDP_1_1_2_0,10.91.119.12,2,3.86 GB,EPC,,cs.kadaster.nl,151,Amsterdam
+csu637.cs.kadaster.nl,dba,pdok-db,10.91.9.124,10.253.121.223,prod,HDP_1_1_2_0,10.91.119.3,8,31.43 GB,PDOK,,cs.kadaster.nl,871,Almere
+csu638.cs.kadaster.nl,pdok,pdok-nfs,10.91.9.125,10.253.121.237,prod,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP Kadaster beheertooling,pdok-nfs-dar:1.0.1.6,cs.kadaster.nl,7916,Amsterdam
+csu639.cs.kadaster.nl,dba,pdok-dbngr,10.91.9.126,10.253.121.222,prod,HDP_1_1_2_0,10.91.119.241,2,3.86 GB,PDOK,,cs.kadaster.nl,511,Almere
+csu640.cs.kadaster.nl,dba,pdok-db,10.91.9.127,10.253.121.228,prod,HDP_1_1_2_0,10.91.119.3,8,31.43 GB,PDOK,,cs.kadaster.nl,871,Amsterdam
+csu642.cs.kadaster.nl,dba,pdok-dbngr,10.91.9.129,10.253.121.224,prod,HDP_1_1_2_0,10.91.119.241,2,3.86 GB,PDOK,,cs.kadaster.nl,511,Amsterdam
+csu645.cs.kadaster.nl,pdok,pdok-viewer,10.91.9.132,10.253.123.246,prod,WSP_1_0_7_0,10.91.119.193,2,3.87 GB,PDOK,pdok-viewer-dar:1.0.2.57,cs.kadaster.nl,28,Almere
+csu646.cs.kadaster.nl,pdok,pdok-nfstiles,10.91.9.133,10.253.123.254,prod,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP Kadaster beheertooling,pdok-nfstiles-dar:1.0.0.0,cs.kadaster.nl,3978,Amsterdam
+csu647.cs.kadaster.nl,pdok,pdok-apps,10.91.9.134,10.253.123.244,prod,JAP_4_0_11_0,10.91.119.50,2,3.87 GB,PDOK,pdok-apps-dar:1.0.1.32,cs.kadaster.nl,28,Almere
+csu649.cs.kadaster.nl,pdok,pdok-dginvector,10.91.9.136,10.253.123.240,prod,JAP_4_0_11_0,10.91.119.22,4,3.87 GB,PDOK,pdok-dginvector-dar:1.0.1.14,cs.kadaster.nl,28,Almere
+csu650.cs.kadaster.nl,pdok,pdok-viewer,10.91.9.137,10.253.123.247,prod,WSP_1_0_7_0,10.91.119.193,2,3.87 GB,PDOK,pdok-viewer-dar:1.0.2.57,cs.kadaster.nl,28,Amsterdam
+csu651.cs.kadaster.nl,pdok,pdok-dginvector,10.91.9.138,10.253.123.241,prod,JAP_4_0_11_0,10.91.119.22,4,3.87 GB,PDOK,pdok-dginvector-dar:1.0.1.14,cs.kadaster.nl,28,Almere
+csu652.cs.kadaster.nl,pdok,pdok-apps,10.91.9.139,10.253.123.245,prod,JAP_4_0_11_0,10.91.119.50,2,3.87 GB,PDOK,pdok-apps-dar:1.0.1.32,cs.kadaster.nl,28,Amsterdam
+csu653.cs.kadaster.nl,pdok,pdok-dmpublic,10.91.9.140,10.253.123.239,prod,JAP_4_0_11_0,10.91.119.141,4,3.87 GB,PDOK,pdok-dmpublic-dar:3.0.0.91,cs.kadaster.nl,28,Almere
+csu654.cs.kadaster.nl,pdok,pdok-dginvector,10.91.9.141,10.253.123.243,prod,JAP_4_0_11_0,10.91.119.22,4,3.87 GB,PDOK,pdok-dginvector-dar:1.0.1.14,cs.kadaster.nl,28,Amsterdam
+csu655.cs.kadaster.nl,pdok,pdok-dmregie,10.91.9.142,10.253.123.236,prod,JAP_4_0_11_0,10.91.119.232,4,3.87 GB,PDOK,pdok-dmregie-dar:3.0.0.91;pdok-catalogus:1.0.0.33,cs.kadaster.nl,28,Almere
+csu656.cs.kadaster.nl,pdok,pdok-dginvector,10.91.9.143,10.253.123.242,prod,JAP_4_0_11_0,10.91.119.22,4,3.87 GB,PDOK,pdok-dginvector-dar:1.0.1.14,cs.kadaster.nl,28,Amsterdam
+csu657.cs.kadaster.nl,pdok,pdok-geowebcache,10.91.9.144,10.253.123.221,prod,JAP_4_0_11_0,10.91.119.93,2,3.87 GB,PDOK,pdok-geowebcache-dar:1.0.1.25,cs.kadaster.nl,28,Almere
+csu658.cs.kadaster.nl,pdok,pdok-dmpublic,10.91.9.145,10.253.123.238,prod,JAP_4_0_11_0,10.91.119.141,4,3.87 GB,PDOK,pdok-dmpublic-dar:3.0.0.91,cs.kadaster.nl,28,Amsterdam
+csu659.cs.kadaster.nl,pdok,pdok-gsinvector,10.91.9.146,10.253.123.220,prod,JAP_4_0_11_0,10.91.119.65,4,3.87 GB,PDOK,pdok-gsinvector-dar:1.0.1.79,cs.kadaster.nl,28,Almere
+csu660.cs.kadaster.nl,pdok,pdok-dmregie,10.91.9.147,10.253.123.231,prod,JAP_4_0_11_0,10.91.119.232,4,3.87 GB,PDOK,pdok-dmregie-dar:3.0.0.91;pdok-catalogus:1.0.0.33,cs.kadaster.nl,28,Amsterdam
+csu661.cs.kadaster.nl,pdok,pdok-gsinvector,10.91.9.148,10.253.123.214,prod,JAP_4_0_11_0,10.91.119.65,4,3.87 GB,PDOK,pdok-gsinvector-dar:1.0.1.79,cs.kadaster.nl,28,Almere
+csu662.cs.kadaster.nl,pdok,pdok-geowebcache,10.91.9.149,10.253.123.230,prod,JAP_4_0_11_0,10.91.119.93,2,3.87 GB,PDOK,pdok-geowebcache-dar:1.0.1.25,cs.kadaster.nl,28,Amsterdam
+csu663.cs.kadaster.nl,pdok,pdok-ngr,10.91.9.150,10.253.123.206,prod,JAP_4_0_11_0,10.91.119.184,4,3.87 GB,PDOK,pdok-ngr-dar:1.0.1.9,cs.kadaster.nl,28,Almere
+csu664.cs.kadaster.nl,pdok,pdok-gsinvector,10.91.9.151,10.253.123.213,prod,JAP_4_0_11_0,10.91.119.65,4,3.87 GB,PDOK,pdok-gsinvector-dar:1.0.1.79,cs.kadaster.nl,28,Amsterdam
+csu665.cs.kadaster.nl,pdok,pdok-staging-tiling,10.91.9.152,10.253.123.204,prod,JAP_4_0_11_0,10.91.119.104,4,3.87 GB,PDOK,pdok-staging-tiling-dar:1.0.0.12,cs.kadaster.nl,28,Almere
+csu666.cs.kadaster.nl,pdok,pdok-gsinvector,10.91.9.153,10.253.123.218,prod,JAP_4_0_11_0,10.91.119.65,4,3.87 GB,PDOK,pdok-gsinvector-dar:1.0.1.79,cs.kadaster.nl,28,Amsterdam
+csu667.cs.kadaster.nl,pdok,pdok-gsnlvector,10.91.9.154,10.253.123.195,prod,JAP_4_0_11_0,10.91.119.13,2,3.87 GB,PDOK,pdok-gsnlvector-dar:1.0.1.79,cs.kadaster.nl,28,Almere
+csu668.cs.kadaster.nl,pdok,pdok-ngr,10.91.9.155,10.253.123.207,prod,JAP_4_0_11_0,10.91.119.184,4,3.87 GB,PDOK,pdok-ngr-dar:1.0.1.9,cs.kadaster.nl,28,Amsterdam
+csu669.cs.kadaster.nl,pdok,pdok-gsnlvector,10.91.9.156,10.253.123.186,prod,JAP_4_0_11_0,10.91.119.13,2,3.87 GB,PDOK,pdok-gsnlvector-dar:1.0.1.79,cs.kadaster.nl,28,Almere
+csu670.cs.kadaster.nl,pdok,pdok-staging-tiling,10.91.9.157,10.253.123.205,prod,JAP_4_0_11_0,10.91.119.104,4,3.87 GB,PDOK,pdok-staging-tiling-dar:1.0.0.12,cs.kadaster.nl,28,Amsterdam
+csu671.cs.kadaster.nl,pdok,pdok-gsnlraster,10.91.9.158,10.253.123.217,prod,JAP_4_0_11_0,10.91.119.132,2,3.87 GB,PDOK,pdok-gsnlraster-dar:1.0.1.79,cs.kadaster.nl,28,Almere
+csu672.cs.kadaster.nl,pdok,pdok-gsnlvector,10.91.9.159,10.253.123.198,prod,JAP_4_0_11_0,10.91.119.13,2,3.87 GB,PDOK,pdok-gsnlvector-dar:1.0.1.79,cs.kadaster.nl,28,Amsterdam
+csu673.cs.kadaster.nl,kpv,kpv-process,10.91.9.160,10.253.123.32,prod,JAP_4_0_11_0,10.91.119.4,2,3.87 GB,Kadastrale Perceelsvorming (KPV),,cs.kadaster.nl,28,Almere
+csu674.cs.kadaster.nl,pdok,pdok-gsnlvector,10.91.9.161,10.253.123.235,prod,JAP_4_0_11_0,10.91.119.13,2,3.87 GB,PDOK,pdok-gsnlvector-dar:1.0.1.79,cs.kadaster.nl,28,Amsterdam
+csu675.cs.kadaster.nl,kpv,kpv-services,10.91.9.162,10.253.123.27,prod,JAP_4_0_11_0,10.91.119.214,2,3.87 GB,Kadastrale Perceelsvorming (KPV),,cs.kadaster.nl,28,Almere
+csu676.cs.kadaster.nl,pdok,pdok-gsnlraster,10.91.9.163,10.253.123.216,prod,JAP_4_0_11_0,10.91.119.132,2,3.87 GB,PDOK,pdok-gsnlraster-dar:1.0.1.79,cs.kadaster.nl,28,Amsterdam
+csu677.cs.kadaster.nl,kpv,kpv-web,10.91.9.164,10.253.123.22,prod,WSP_1_0_7_0,10.91.119.194,2,3.87 GB,Kadastrale Perceelsvorming (KPV),,cs.kadaster.nl,28,Almere
+csu890.bhr.kadaster.nl,plp,plp_deployit_server,10.94.1.90,10.245.123.234,bhr,PLP_KADASTER_1_0_1_0,,2,7.81 GB,PLP Kadaster beheertooling,iad-dar:1.3.0.5;bag-audit-dar:2.10.1.1;leveringservice-dar:0.0.23;gds-dar:3.0.0.6;eventmanager-dar:0.0.0.9;adr-dar:2.0.0.18;brk-mutatieservice-dar:1.5.1.19;lki-brk-ws-dar:1.0.1.0;wdv-dar:2.1.0.2;hvk-aanvragen-dar:1.0.0.42;mutatiesensor-dar:2.0.11;PLP-Tomcat-dar:2_0_17_0-20140625-134720;splits-dar:4.1.0.29,bhr.kadaster.nl,48,Amsterdam
+csu892.bhr.kadaster.nl,plp,plp_orchestration_server,10.94.1.92,10.245.123.233,bhr,PLP_BEHEER_2_0_21_0,,2,1.96 GB,PLP beheertooling,,bhr.kadaster.nl,28,Amsterdam
+csu895.cs.kadaster.nl,plp,jap-splunk,10.94.1.95,10.253.123.208,bhr,PLP_BEHEER_2_0_21_0,,2,3.86 GB,PLP beheertooling,,cs.kadaster.nl,36,Almere
+csu896.cs.kadaster.nl,plp,jap-splunk,10.94.1.96,10.253.123.209,bhr,PLP_BEHEER_2_0_21_0,,2,3.86 GB,PLP beheertooling,,cs.kadaster.nl,36,Amsterdam
+csu898.bhr.kadaster.nl,plp,plp_orchestration_server,10.94.1.98,10.245.123.240,bhr,PLP_BEHEER_2_0_21_0,,2,1.96 GB,PLP beheertooling,iad-dar:1.3.0.26-20141121-013307;gvf-app-dar:2.0.0.9-20141029-164429;bag-audit-dar:2.13.0.3-20141120-083035;bag-wsp-dar:1.0.1.1-20141113-074331;cdit-dashboard-dar:1.0.0.26;eventmanager-dar:0.0.0.9;adr-dar:2.0.0.21;grenscorrectie-eto-dar:0.0.44.95;PLP-tomcat:2.0;hvk-aanvragen-dar:1.0.0.42;splits-dar:4.1.4.0;pdok-intern-dar:1.0.4.8;pdok-viewer-dar:1.0.2.57;leveringservice-dar:0.0.25;gds-dar:2.7.0.8;brk-mutatieservice-dar:1.5.2.32;grenscorrectie-dar:0.0.44.95;lki-brk-ws-dar:1.0.1.0;wdv-dar:2.1.0.2;mutatiesensor-dar:2.0.11;gebied-beheer-dar:0.0.0.10-20141120-223038,bhr.kadaster.nl,65,Amsterdam
+csu899.bhr.kadaster.nl,plp,plp_deployit_server_2,10.94.1.99,10.245.123.221,bhr,PLP_KADASTER_1_0_1_0,,2,7.81 GB,PLP Kadaster beheertooling,,bhr.kadaster.nl,48,Almere
+ftu265.fto.kadaster.nl,roo,roo-val,10.60.57.5,10.252.122.10,fto,PLP_ROO_1_0_12_0,10.60.119.183,4,7.80 GB,RO-online,roo-plp-val-dar:2.2.7.203,fto.kadaster.nl,28,Almere
+ftu266.fto.kadaster.nl,dba,pdok-appsdb,10.60.57.6,10.252.121.227,fto,HDP_1_1_2_0,10.60.118.3,2,3.86 GB,PDOK,,fto.kadaster.nl,151,Amsterdam
+ftu267.fto.kadaster.nl,roo,roo-web,10.60.57.7,10.252.122.17,fto,PLP_ROO_1_0_12_0,10.60.119.176,2,3.86 GB,RO-online,roo-plp-web-dar:2.2.7.203,fto.kadaster.nl,28,Almere
+ftu272.fto.kadaster.nl,aa,aa-mail,10.60.57.12,10.252.121.224,fto,JAP_4_0_12_0,10.60.118.1,1,1.96 GB,AA,massale-mail-malware-dar:1.1.0-20140915-091235,fto.kadaster.nl,28,Amsterdam
+ftu279.fto.kadaster.nl,pdok,pdok-nfs,10.60.57.19,10.252.120.225,fto,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP Kadaster beheertooling,pdok-nfs-dar:1.0.1.6,fto.kadaster.nl,7965,Almere
+ftu287.fto.kadaster.nl,roo,roo-geoip1,10.60.57.27,10.252.121.91,fto,PLP_ROO_1_0_12_0,10.60.119.144,1,1.96 GB,RO-online,roo-plp-geoip-dar:2.2.7.203,fto.kadaster.nl,28,Almere
+ftu293.fto.kadaster.nl,pdok,pdok-nfstiles,10.60.57.33,10.252.120.224,fto,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP Kadaster beheertooling,pdok-nfstiles-dar:1.0.0.0,fto.kadaster.nl,4015,Almere
+ftu295.fto.kadaster.nl,kadnl,kadnl-nfs,10.60.57.35,10.252.121.52,fto,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP Kadaster beheertooling,,fto.kadaster.nl,75,Almere
+ftu297.fto.kadaster.nl,dba,roodb,10.60.57.37,10.252.122.201,fto,HDP_1_1_2_0,10.60.119.189,8,31.43 GB,RO-online,,fto.kadaster.nl,268,Almere
+ftu300.fto.kadaster.nl,bgt,bgt-app-cs,10.60.57.40,10.252.121.252,fto,JAP_4_0_12_0,10.60.119.151,2,3.87 GB,BGT-LV,bgt-controle-dar:2.0.63.05,fto.kadaster.nl,28,Amsterdam
+ftu303.fto.kadaster.nl,bgt,bgt-app-cs,10.60.57.43,10.252.121.240,fto,JAP_4_0_12_0,10.60.119.151,2,3.87 GB,BGT-LV,bgt-controle-dar:2.0.63.05,fto.kadaster.nl,28,Almere
+ftu304.fto.kadaster.nl,roo,roo-web,10.60.57.44,10.252.122.16,fto,PLP_ROO_1_0_12_0,10.60.119.176,2,3.86 GB,RO-online,roo-plp-web-dar:2.2.7.203,fto.kadaster.nl,28,Amsterdam
+ftu306.fto.kadaster.nl,dba,pdok-ngrdb,10.60.57.46,10.252.120.193,fto,HDP_1_1_2_0,10.60.119.152,2,3.86 GB,PDOK,,fto.kadaster.nl,508,Amsterdam
+ftu313.fto.kadaster.nl,dba,pdok-db,10.60.57.53,10.252.120.243,fto,HDP_1_1_2_0,10.60.119.216,8,31.43 GB,PDOK,,fto.kadaster.nl,868,Almere
+ftu317.fto.kadaster.nl,pdok,pdok-fme,10.60.57.57,10.252.120.229,fto,PLP_PDOK_1_0_7_0,,8,15.70 GB,PDOK,,fto.kadaster.nl,565,Almere
+ftu319.fto.kadaster.nl,roo,roo-geoip2,10.60.57.59,10.252.122.35,fto,PLP_ROO_1_0_12_0,10.60.119.251,4,7.80 GB,RO-online,roo-plp-geoip-unreg-dar:2.2.7.203,fto.kadaster.nl,28,Almere
+ftu328.fto.kadaster.nl,dba,roodb,10.60.57.68,10.252.122.202,fto,HDP_1_1_2_0,10.60.119.189,8,31.43 GB,RO-online,,fto.kadaster.nl,268,Amsterdam
+ftu333.fto.kadaster.nl,roo,roo-geosec,10.60.57.73,10.252.122.15,fto,PLP_ROO_1_0_12_0,10.60.119.143,4,7.80 GB,RO-online,roo-plp-geosec-dar:2.2.7.203,fto.kadaster.nl,28,Almere
+ftu337.fto.kadaster.nl,kik,kik-inzage,10.60.57.77,10.252.121.225,fto,JAP_4_0_12_0,10.60.118.2,1,1.96 GB,KIK Inzage (obv POL),kikinzage-dar:2.0.0.6,fto.kadaster.nl,28,Almere
+ftu339.fto.kadaster.nl,roo,roo-nfs,10.60.57.79,10.252.122.53,fto,PLP_ROO_1_0_12_0,,1,1.96 GB,RO-online,,fto.kadaster.nl,2065,Almere
+ftu343.fto.kadaster.nl,dba,pdok-appsdb,10.60.57.83,10.252.121.229,fto,HDP_1_1_2_0,10.60.118.3,2,3.86 GB,PDOK,,fto.kadaster.nl,151,Almere
+ftu348.fto.kadaster.nl,roo,roo-geoip1,10.60.57.88,10.252.121.90,fto,PLP_ROO_1_0_12_0,10.60.119.144,1,1.96 GB,RO-online,roo-plp-geoip-dar:2.2.7.203,fto.kadaster.nl,28,Amsterdam
+ftu352.fto.kadaster.nl,kik,kik-inzage,10.60.57.92,10.252.121.231,fto,JAP_4_0_12_0,10.60.118.2,1,1.96 GB,KIK Inzage (obv POL),kikinzage-dar:2.0.0.6,fto.kadaster.nl,28,Amsterdam
+ftu359.fto.kadaster.nl,roo,roo-imp,10.60.57.99,10.252.122.11,fto,PLP_ROO_1_0_12_0,10.60.119.243,4,7.80 GB,RO-online,roo-plp-imp-dar:2.2.7.203,fto.kadaster.nl,28,Almere
+ftu362.fto.kadaster.nl,roo,roo-geosec,10.60.57.102,10.252.122.13,fto,PLP_ROO_1_0_12_0,10.60.119.143,4,7.80 GB,RO-online,roo-plp-geosec-dar:2.2.7.203,fto.kadaster.nl,28,Amsterdam
+ftu366.fto.kadaster.nl,bgt,bgt-app-rs,10.60.57.106,10.252.121.246,fto,JAP_4_0_12_0,10.60.119.142,2,3.87 GB,BGT-LV,bgt-dar:2.0.63.05,fto.kadaster.nl,28,Amsterdam
+ftu367.fto.kadaster.nl,klic,klic-poc,10.60.57.107,10.252.121.236,fto,JAP_4_0_12_0,10.60.119.200,1,1.96 GB,KLIC,,fto.kadaster.nl,28,Almere
+ftu368.fto.kadaster.nl,klic,klic-poc,10.60.57.108,10.252.121.221,fto,JAP_4_0_12_0,10.60.119.200,1,1.96 GB,KLIC,,fto.kadaster.nl,28,Amsterdam
+ftu369.fto.kadaster.nl,kadnl,kadnl-edit,10.60.57.109,10.252.121.230,fto,JAP_4_0_12_0,10.60.119.157,2,3.87 GB,Kadaster.nl,kadnl-dar:9.20.3.27,fto.kadaster.nl,28,Almere
+ftu370.fto.kadaster.nl,kadnl,kadnl-edit,10.60.57.110,10.252.121.223,fto,JAP_4_0_12_0,10.60.119.157,2,3.87 GB,Kadaster.nl,kadnl-dar:9.20.3.27,fto.kadaster.nl,28,Amsterdam
+ftu371.fto.kadaster.nl,kadnl,kadnl-web,10.60.57.111,10.252.121.222,fto,JAP_4_0_12_0,10.60.119.154,1,1.96 GB,Kadaster.nl,kadnl-dar:9.20.3.27,fto.kadaster.nl,28,Almere
+ftu372.fto.kadaster.nl,kadnl,kadnl-web,10.60.57.112,10.252.121.233,fto,JAP_4_0_12_0,10.60.119.154,1,1.96 GB,Kadaster.nl,kadnl-dar:9.20.3.27,fto.kadaster.nl,28,Amsterdam
+ftu380.fto.kadaster.nl,roo,roo-geoip2,10.60.57.120,10.252.122.33,fto,PLP_ROO_1_0_12_0,10.60.119.251,4,7.80 GB,RO-online,roo-plp-geoip-unreg-dar:2.2.7.203,fto.kadaster.nl,28,Amsterdam
+ftu385.fto.kadaster.nl,bgt,bgt-app-rs,10.60.57.125,10.252.121.235,fto,JAP_4_0_12_0,10.60.119.142,2,3.87 GB,BGT-LV,bgt-dar:2.0.63.05,fto.kadaster.nl,28,Almere
+ftu394.fto.kadaster.nl,jap,jap-platform-4,10.60.57.134,10.252.121.33,fto,JAP_4_0_12_0,10.60.119.226,1,1.96 GB,PLP beheertooling,java-example-app-dar:2.0.0.8,fto.kadaster.nl,28,Amsterdam
+ftu396.fto.kadaster.nl,roo,roo-val,10.60.57.136,10.252.122.9,fto,PLP_ROO_1_0_12_0,10.60.119.183,4,7.80 GB,RO-online,roo-plp-val-dar:2.2.7.203,fto.kadaster.nl,28,Amsterdam
+ftu413.fto.kadaster.nl,pdok,pdok-loket,10.60.57.153,10.252.120.191,fto,PLP_PDOK_1_0_7_0,,1,1.96 GB,PDOK,pdok-loket-dar:1.0.3.4,fto.kadaster.nl,75,Almere
+ftu421.fto.kadaster.nl,dba,dbproxy-ora,10.60.57.161,10.252.121.162,fto,PLP_ORA_2_0_1_0,,1,1.83 GB,PLP beheertooling,bgt-controle-dar:2.0.63.05;brk-mutatieservice-dar:1.5.2.32;grenscorrectie-eto-dar:0.0.44.95;grenscorrectie-dar:0.0.44.95;bgt-dar:2.0.63.05;dbo-bhd-dar:1.1.0.2;splits-dar:4.1.4.0;splits-eto-dar:4.1.4.0,fto.kadaster.nl,65,Almere
+ftu423.fto.kadaster.nl,aa,aa-mail,10.60.57.163,10.252.121.228,fto,JAP_4_0_12_0,10.60.118.1,1,1.96 GB,AA,massale-mail-malware-dar:1.1.0-20140915-091235,fto.kadaster.nl,28,Almere
+ftu428.fto.kadaster.nl,dba,pdok-db,10.60.57.168,10.252.120.242,fto,HDP_1_1_2_0,10.60.119.216,8,31.43 GB,PDOK,,fto.kadaster.nl,868,Amsterdam
+ftu455.fto.kadaster.nl,dba,wkpba,10.60.57.195,10.252.121.164,fto,HDP_1_1_2_0,10.60.119.164,2,3.86 GB,WKPB-LV,,fto.kadaster.nl,148,Almere
+ftu465.fto.kadaster.nl,jap,jap-platform-4,10.60.57.205,10.252.121.32,fto,JAP_4_0_12_0,10.60.119.226,1,1.96 GB,PLP beheertooling,java-example-app-dar:2.0.0.8,fto.kadaster.nl,28,Almere
+ftu466.fto.kadaster.nl,geo,geo-gbkn,10.60.57.206,10.252.121.13,fto,JAP_3_1_3_0,10.60.119.190,3,5.82 GB,GBKN,gbkn-geoserver-dar:1.1.1.2,fto.kadaster.nl,31,Amsterdam
+ftu467.fto.kadaster.nl,geo,geo-gbkn,10.60.57.207,10.252.121.12,fto,JAP_3_1_3_0,10.60.119.190,3,5.82 GB,GBKN,gbkn-geoserver-dar:1.1.1.2,fto.kadaster.nl,31,Almere
+ftu468.fto.kadaster.nl,wov,wov-app,10.60.57.208,10.252.121.10,fto,JAP_4_0_12_0,10.60.119.141,1,1.96 GB,WOZ-viewer,woz-viewer-dar:2.1.0.2,fto.kadaster.nl,28,Amsterdam
+ftu469.fto.kadaster.nl,wov,wov-app,10.60.57.209,10.252.121.9,fto,JAP_4_0_12_0,10.60.119.141,1,1.96 GB,WOZ-viewer,woz-viewer-dar:2.1.0.2,fto.kadaster.nl,28,Almere
+ftu470.fto.kadaster.nl,lki,lki-hvk-process,10.60.57.210,10.252.120.174,fto,JAP_4_0_12_0,10.60.119.225,2,3.87 GB,LKI,hvk-aanvragen-dar:1.0.0.42,fto.kadaster.nl,28,Amsterdam
+ftu471.fto.kadaster.nl,lki,lki-hvk-process,10.60.57.211,10.252.120.175,fto,JAP_4_0_12_0,10.60.119.225,2,3.87 GB,LKI,hvk-aanvragen-dar:1.0.0.42,fto.kadaster.nl,28,Almere
+ftu472.fto.kadaster.nl,wkpb,wkpb-lv,10.60.57.212,10.252.121.6,fto,JAP_4_0_12_0,10.60.119.175,1,1.96 GB,WKPB-LV,,fto.kadaster.nl,28,Amsterdam
+ftu473.fto.kadaster.nl,wkpb,wkpb-lv,10.60.57.213,10.252.121.5,fto,JAP_4_0_12_0,10.60.119.175,1,1.96 GB,WKPB-LV,,fto.kadaster.nl,28,Almere
+ftu474.fto.kadaster.nl,aa,aa-mmalware,10.60.57.214,10.252.121.3,fto,JAP_3_1_3_0,10.60.119.166,1,1.96 GB,AA,,fto.kadaster.nl,31,Amsterdam
+ftu475.fto.kadaster.nl,aa,aa-mmalware,10.60.57.215,10.252.121.4,fto,JAP_3_1_3_0,10.60.119.166,1,1.96 GB,AA,,fto.kadaster.nl,31,Almere
+ftu476.fto.kadaster.nl,iad,iad-web,10.60.57.216,10.252.121.2,fto,JAP_4_0_12_0,10.60.119.199,1,1.96 GB,Inzage Archief Documenten ,iad-dar:1.3.0.25,fto.kadaster.nl,28,Amsterdam
+ftu477.fto.kadaster.nl,iad,iad-web,10.60.57.217,10.252.121.1,fto,JAP_4_0_12_0,10.60.119.199,1,1.96 GB,Inzage Archief Documenten ,iad-dar:1.3.0.25,fto.kadaster.nl,28,Almere
+ftu478.fto.kadaster.nl,kpv,kpv-frontend-opl,10.60.57.218,10.252.120.17,fto,JAP_4_0_12_0,10.60.119.242,2,3.87 GB,Kadastrale Perceelsvorming (KPV),grenscorrectie-eto-dar:0.0.44.95,fto.kadaster.nl,28,Amsterdam
+ftu479.fto.kadaster.nl,kpv,kpv-frontend-opl,10.60.57.219,10.252.120.16,fto,JAP_4_0_12_0,10.60.119.242,2,3.87 GB,Kadastrale Perceelsvorming (KPV),grenscorrectie-eto-dar:0.0.44.95,fto.kadaster.nl,28,Almere
+ftu480.fto.kadaster.nl,lki,lki-wdv-app,10.60.57.220,10.252.120.253,fto,JAP_4_0_12_0,10.60.119.184,1,1.96 GB,LKI,wdv-dar:2.1.0.2,fto.kadaster.nl,28,Amsterdam
+ftu481.fto.kadaster.nl,lki,lki-wdv-app,10.60.57.221,10.252.120.252,fto,JAP_4_0_12_0,10.60.119.184,1,1.96 GB,LKI,wdv-dar:2.1.0.2,fto.kadaster.nl,28,Almere
+ftu482.fto.kadaster.nl,gds,gds-app,10.60.57.222,10.252.120.251,fto,JAP_3_1_3_0,10.60.119.204,1,1.96 GB,Generieke Download Service (GDS2),gds-dar:2.7.0.8,fto.kadaster.nl,31,Amsterdam
+ftu483.fto.kadaster.nl,gds,gds-app,10.60.57.223,10.252.120.250,fto,JAP_3_1_3_0,10.60.119.204,1,1.96 GB,Generieke Download Service (GDS2),gds-dar:2.7.0.8,fto.kadaster.nl,31,Almere
+ftu484.fto.kadaster.nl,splits,splits-geos-perc-wms,10.60.57.224,10.252.120.241,fto,JAP_4_0_12_0,10.60.119.169,3,5.84 GB,Kadastrale Perceelsvorming (KPV),splits-perceel-wms-geoserver-dar:4.1.1.4,fto.kadaster.nl,28,Amsterdam
+ftu485.fto.kadaster.nl,splits,splits-geos-perc-wms,10.60.57.225,10.252.120.240,fto,JAP_4_0_12_0,10.60.119.169,3,5.84 GB,Kadastrale Perceelsvorming (KPV),splits-perceel-wms-geoserver-dar:4.1.1.4,fto.kadaster.nl,28,Almere
+ftu486.fto.kadaster.nl,splits,splits-geos-perc-wfs,10.60.57.226,10.252.120.239,fto,JAP_4_0_12_0,10.60.119.206,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-perceel-wfs-geoserver-dar:4.1.1.2,fto.kadaster.nl,28,Amsterdam
+ftu487.fto.kadaster.nl,splits,splits-geos-perc-wfs,10.60.57.227,10.252.120.238,fto,JAP_4_0_12_0,10.60.119.206,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-perceel-wfs-geoserver-dar:4.1.1.2,fto.kadaster.nl,28,Almere
+ftu488.fto.kadaster.nl,splits,splits-geos-gbkn-wms,10.60.57.228,10.252.120.237,fto,JAP_4_0_12_0,10.60.119.181,3,5.84 GB,Kadastrale Perceelsvorming (KPV),splits-gbkn-wms-geoserver-dar:4.1.0.3,fto.kadaster.nl,28,Amsterdam
+ftu489.fto.kadaster.nl,splits,splits-geos-gbkn-wms,10.60.57.229,10.252.120.236,fto,JAP_4_0_12_0,10.60.119.181,3,5.84 GB,Kadastrale Perceelsvorming (KPV),splits-gbkn-wms-geoserver-dar:4.1.0.3,fto.kadaster.nl,28,Almere
+ftu490.fto.kadaster.nl,splits,splits-geos-gbkn-wfs,10.60.57.230,10.252.120.231,fto,JAP_4_0_12_0,10.60.119.135,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-gbkn-wfs-geoserver-dar:4.1.0.3,fto.kadaster.nl,28,Amsterdam
+ftu491.fto.kadaster.nl,splits,splits-geos-gbkn-wfs,10.60.57.231,10.252.120.230,fto,JAP_4_0_12_0,10.60.119.135,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-gbkn-wfs-geoserver-dar:4.1.0.3,fto.kadaster.nl,28,Almere
+ftu495.fto.kadaster.nl,dba,pdok-ngrdb,10.60.57.235,10.252.120.192,fto,HDP_1_1_2_0,10.60.119.152,2,3.86 GB,PDOK,,fto.kadaster.nl,508,Almere
+ftu496.fto.kadaster.nl,woz,woz-pdok-koppeling,10.60.57.236,10.252.120.188,fto,JAP_4_0_12_0,10.60.119.229,1,1.96 GB,LV WOZ,,fto.kadaster.nl,28,Amsterdam
+ftu497.fto.kadaster.nl,woz,woz-pdok-koppeling,10.60.57.237,10.252.120.187,fto,JAP_4_0_12_0,10.60.119.229,1,1.96 GB,LV WOZ,,fto.kadaster.nl,28,Almere
+ftu498.fto.kadaster.nl,lvbag,lvbag-vs-audit,10.60.57.238,10.252.120.185,fto,JAP_4_0_12_0,10.60.119.235,1,1.96 GB,BAG-LV,bag-audit-dar:2.13.0.2,fto.kadaster.nl,28,Amsterdam
+ftu499.fto.kadaster.nl,lvbag,lvbag-vs-audit,10.60.57.239,10.252.120.184,fto,JAP_4_0_12_0,10.60.119.235,1,1.96 GB,BAG-LV,bag-audit-dar:2.13.0.2,fto.kadaster.nl,28,Almere
+ftu500.fto.kadaster.nl,lki,lki-brk-ws,10.60.57.240,10.252.120.171,fto,JAP_4_0_12_0,10.60.119.203,2,3.87 GB,LKI,lki-brk-ws-dar:1.0.0.6,fto.kadaster.nl,28,Amsterdam
+ftu501.fto.kadaster.nl,lki,lki-brk-ws,10.60.57.241,10.252.120.170,fto,JAP_4_0_12_0,10.60.119.203,2,3.87 GB,LKI,lki-brk-ws-dar:1.0.0.6,fto.kadaster.nl,28,Almere
+ftu502.fto.kadaster.nl,lki,lki-process,10.60.57.242,10.252.120.168,fto,JAP_4_0_12_0,10.60.119.246,2,3.87 GB,LKI,brk-fingis-mutatieservice-dar:1.3.0.4,fto.kadaster.nl,28,Amsterdam
+ftu503.fto.kadaster.nl,lki,lki-process,10.60.57.243,10.252.120.169,fto,JAP_4_0_12_0,10.60.119.246,2,3.87 GB,LKI,brk-fingis-mutatieservice-dar:1.3.0.4,fto.kadaster.nl,28,Almere
+ftu504.fto.kadaster.nl,splits,splits-app-web,10.60.57.244,10.252.120.166,fto,JAP_4_0_12_0,10.60.119.209,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-dar:4.1.4.0,fto.kadaster.nl,28,Amsterdam
+ftu505.fto.kadaster.nl,splits,splits-app-web,10.60.57.245,10.252.120.167,fto,JAP_4_0_12_0,10.60.119.209,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-dar:4.1.4.0,fto.kadaster.nl,28,Almere
+ftu506.fto.kadaster.nl,splits,splits-app-eto,10.60.57.246,10.252.120.164,fto,JAP_4_0_12_0,10.60.119.138,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-eto-dar:4.1.4.0,fto.kadaster.nl,28,Amsterdam
+ftu507.fto.kadaster.nl,splits,splits-app-eto,10.60.57.247,10.252.120.165,fto,JAP_4_0_12_0,10.60.119.138,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-eto-dar:4.1.4.0,fto.kadaster.nl,28,Almere
+ftu508.fto.kadaster.nl,splits,splits-process,10.60.57.248,10.252.120.163,fto,JAP_4_0_12_0,10.60.119.212,3,5.84 GB,Kadastrale Perceelsvorming (KPV),brk-mutatieservice-dar:1.5.2.32,fto.kadaster.nl,28,Amsterdam
+ftu509.fto.kadaster.nl,splits,splits-process,10.60.57.249,10.252.120.162,fto,JAP_4_0_12_0,10.60.119.212,3,5.84 GB,Kadastrale Perceelsvorming (KPV),brk-mutatieservice-dar:1.5.2.32,fto.kadaster.nl,28,Almere
+ftu510.fto.kadaster.nl,pdok,pdok-perftest,10.60.57.250,10.252.120.161,fto,PLP_YODA_1_0_5_0,,4,3.87 GB,PDOK,,fto.kadaster.nl,48,Amsterdam
+ftu511.fto.kadaster.nl,klic,klic-adr,10.60.57.251,10.252.120.157,fto,JAP_4_0_12_0,10.60.119.195,2,3.87 GB,KLIC,adr-dar:2.0.0.20,fto.kadaster.nl,28,Almere
+ftu512.fto.kadaster.nl,klic,klic-adr,10.60.57.252,10.252.120.158,fto,JAP_4_0_12_0,10.60.119.195,2,3.87 GB,KLIC,adr-dar:2.0.0.20,fto.kadaster.nl,28,Amsterdam
+ftu513.fto.kadaster.nl,klic,klic-blg-zoek,10.60.57.253,10.252.120.156,fto,JAP_4_0_12_0,10.60.119.186,2,3.87 GB,KLIC,blg-backend-dar:2.0.0.1,fto.kadaster.nl,28,Almere
+ftu514.fto.kadaster.nl,klic,klic-blg-zoek,10.60.57.254,10.252.120.155,fto,JAP_4_0_12_0,10.60.119.186,2,3.87 GB,KLIC,blg-backend-dar:2.0.0.1,fto.kadaster.nl,28,Amsterdam
+ftu519.fto.kadaster.nl,klic,klic-gbkn,10.60.62.1,10.252.120.154,fto,JAP_4_0_12_0,10.60.119.137,3,5.84 GB,KLIC,klic-gbkn-geoserver-dar:2.0.0.4,fto.kadaster.nl,28,Almere
+ftu520.fto.kadaster.nl,klic,klic-gbkn,10.60.62.2,10.252.120.153,fto,JAP_4_0_12_0,10.60.119.137,3,5.84 GB,KLIC,klic-gbkn-geoserver-dar:2.0.0.4,fto.kadaster.nl,28,Amsterdam
+ftu521.fto.kadaster.nl,klic,klic-geo,10.60.62.3,10.252.120.152,fto,JAP_4_0_12_0,10.60.119.214,3,5.84 GB,KLIC,klic-geoserver-dar:2.0.0.1,fto.kadaster.nl,28,Almere
+ftu522.fto.kadaster.nl,klic,klic-geo,10.60.62.4,10.252.120.151,fto,JAP_4_0_12_0,10.60.119.214,3,5.84 GB,KLIC,klic-geoserver-dar:2.0.0.1,fto.kadaster.nl,28,Amsterdam
+ftu523.fto.kadaster.nl,klic,klic-lev,10.60.62.5,10.252.120.136,fto,JAP_4_0_12_0,10.60.119.211,3,5.84 GB,KLIC,klic-backend-dar:2.0.0.12,fto.kadaster.nl,28,Almere
+ftu524.fto.kadaster.nl,klic,klic-lev,10.60.62.6,10.252.120.137,fto,JAP_4_0_12_0,10.60.119.211,3,5.84 GB,KLIC,klic-backend-dar:2.0.0.12,fto.kadaster.nl,28,Amsterdam
+ftu525.fto.kadaster.nl,klic,klic-nbs,10.60.62.7,10.252.120.145,fto,JAP_4_0_12_0,10.60.119.254,2,3.87 GB,KLIC,klic-netbeheerdersimulator-dar:2.0.0.3,fto.kadaster.nl,28,Almere
+ftu526.fto.kadaster.nl,klic,klic-nbs,10.60.62.8,10.252.120.147,fto,JAP_4_0_12_0,10.60.119.254,2,3.87 GB,KLIC,klic-netbeheerdersimulator-dar:2.0.0.3,fto.kadaster.nl,28,Amsterdam
+ftu527.fto.kadaster.nl,klic,klic-nbs,10.60.62.9,10.252.120.146,fto,JAP_4_0_12_0,10.60.119.254,2,3.87 GB,KLIC,klic-netbeheerdersimulator-dar:2.0.0.3,fto.kadaster.nl,28,Almere
+ftu528.fto.kadaster.nl,klic,klic-nbs,10.60.62.10,10.252.120.148,fto,JAP_4_0_12_0,10.60.119.254,2,3.87 GB,KLIC,klic-netbeheerdersimulator-dar:2.0.0.3,fto.kadaster.nl,28,Amsterdam
+ftu529.fto.kadaster.nl,klic,klic-ntd,10.60.62.11,10.252.120.143,fto,JAP_4_0_12_0,10.60.119.220,2,3.87 GB,KLIC,klic-ntd-dar:2.0.0.7,fto.kadaster.nl,28,Almere
+ftu530.fto.kadaster.nl,klic,klic-ntd,10.60.62.12,10.252.120.144,fto,JAP_4_0_12_0,10.60.119.220,2,3.87 GB,KLIC,klic-ntd-dar:2.0.0.7,fto.kadaster.nl,28,Amsterdam
+ftu531.fto.kadaster.nl,klic,klic-web,10.60.62.13,10.252.120.141,fto,JAP_4_0_12_0,10.60.119.177,2,3.87 GB,KLIC,klic-frontend-dar:2.0.0.25,fto.kadaster.nl,28,Almere
+ftu532.fto.kadaster.nl,klic,klic-web,10.60.62.14,10.252.120.142,fto,JAP_4_0_12_0,10.60.119.177,2,3.87 GB,KLIC,klic-frontend-dar:2.0.0.25,fto.kadaster.nl,28,Amsterdam
+ftu533.fto.kadaster.nl,klic,klic-blg,10.60.62.15,10.252.120.138,fto,JAP_4_0_12_0,10.60.119.217,2,3.87 GB,KLIC,blg-frontend-dar:2.0.0.16,fto.kadaster.nl,28,Almere
+ftu534.fto.kadaster.nl,klic,klic-blg,10.60.62.16,10.252.120.139,fto,JAP_4_0_12_0,10.60.119.217,2,3.87 GB,KLIC,blg-frontend-dar:2.0.0.16,fto.kadaster.nl,28,Amsterdam
+ftu535.fto.kadaster.nl,lvbag,lvbag-vs-bw,10.60.62.17,10.252.120.134,fto,JAP_4_0_12_0,10.60.119.180,1,1.96 GB,BAG-LV,bag-vs-dar:4.0.0.8,fto.kadaster.nl,28,Almere
+ftu536.fto.kadaster.nl,lvbag,lvbag-vs-bw,10.60.62.18,10.252.120.135,fto,JAP_4_0_12_0,10.60.119.180,1,1.96 GB,BAG-LV,bag-vs-dar:4.0.0.8,fto.kadaster.nl,28,Amsterdam
+ftu537.fto.kadaster.nl,pdok,pdok-intern,10.60.62.19,10.252.120.115,fto,WSP_1_0_7_0,10.60.119.221,1,1.96 GB,PDOK,pdok-intern-dar:1.0.4.9,fto.kadaster.nl,28,Almere
+ftu538.fto.kadaster.nl,pdok,pdok-intern,10.60.62.20,10.252.120.114,fto,WSP_1_0_7_0,10.60.119.221,1,1.96 GB,PDOK,pdok-intern-dar:1.0.4.8,fto.kadaster.nl,28,Amsterdam
+ftu552.fto.kadaster.nl,pdok,pdok-viewer,10.60.62.34,10.252.120.111,fto,WSP_1_0_7_0,10.60.119.253,2,3.87 GB,PDOK,pdok-viewer-dar:1.0.2.57,fto.kadaster.nl,28,Amsterdam
+ftu554.fto.kadaster.nl,pdok,pdok-apps,10.60.62.36,10.252.120.109,fto,JAP_4_0_12_0,10.60.119.238,2,3.87 GB,PDOK,pdok-apps-dar:1.0.1.43,fto.kadaster.nl,28,Amsterdam
+ftu556.fto.kadaster.nl,pdok,pdok-dginvector,10.60.62.38,10.252.120.106,fto,JAP_4_0_12_0,10.60.119.207,4,3.87 GB,PDOK,pdok-dginvector-dar:1.0.1.14,fto.kadaster.nl,28,Amsterdam
+ftu558.fto.kadaster.nl,pdok,pdok-dginvector,10.60.62.40,10.252.120.107,fto,JAP_4_0_12_0,10.60.119.207,4,3.87 GB,PDOK,pdok-dginvector-dar:1.0.1.14,fto.kadaster.nl,28,Amsterdam
+ftu559.fto.kadaster.nl,pdok,pdok-viewer,10.60.62.41,10.252.120.110,fto,WSP_1_0_7_0,10.60.119.253,2,3.87 GB,PDOK,pdok-viewer-dar:1.0.2.57,fto.kadaster.nl,28,Almere
+ftu560.fto.kadaster.nl,pdok,pdok-dmpublic,10.60.62.42,10.252.120.103,fto,JAP_4_0_12_0,10.60.119.182,4,3.87 GB,PDOK,pdok-dmpublic-dar:3.0.0.94,fto.kadaster.nl,28,Amsterdam
+ftu561.fto.kadaster.nl,pdok,pdok-apps,10.60.62.43,10.252.120.108,fto,JAP_4_0_12_0,10.60.119.238,2,3.87 GB,PDOK,pdok-apps-dar:1.0.1.43,fto.kadaster.nl,28,Almere
+ftu562.fto.kadaster.nl,pdok,pdok-dmregie,10.60.62.44,10.252.120.101,fto,JAP_4_0_12_0,10.60.119.136,4,3.87 GB,PDOK,pdok-dmregie-dar:3.0.0.94;pdok-catalogus:1.0.0.39,fto.kadaster.nl,28,Amsterdam
+ftu563.fto.kadaster.nl,pdok,pdok-dginvector,10.60.62.45,10.252.120.105,fto,JAP_4_0_12_0,10.60.119.207,4,3.87 GB,PDOK,pdok-dginvector-dar:1.0.1.14,fto.kadaster.nl,28,Almere
+ftu564.fto.kadaster.nl,pdok,pdok-geowebcache,10.60.62.46,10.252.120.99,fto,JAP_4_0_12_0,10.60.119.167,2,3.87 GB,PDOK,pdok-geowebcache-dar:1.0.1.25,fto.kadaster.nl,28,Amsterdam
+ftu565.fto.kadaster.nl,pdok,pdok-dginvector,10.60.62.47,10.252.120.104,fto,JAP_4_0_12_0,10.60.119.207,4,3.87 GB,PDOK,pdok-dginvector-dar:1.0.1.14,fto.kadaster.nl,28,Almere
+ftu566.fto.kadaster.nl,pdok,pdok-gsinvector,10.60.62.48,10.252.120.97,fto,JAP_4_0_12_0,10.60.119.241,4,3.87 GB,PDOK,pdok-gsinvector-dar:1.0.1.79,fto.kadaster.nl,28,Amsterdam
+ftu567.fto.kadaster.nl,pdok,pdok-dmpublic,10.60.62.49,10.252.120.102,fto,JAP_4_0_12_0,10.60.119.182,4,3.87 GB,PDOK,pdok-dmpublic-dar:3.0.0.94,fto.kadaster.nl,28,Almere
+ftu568.fto.kadaster.nl,pdok,pdok-gsinvector,10.60.62.50,10.252.120.96,fto,JAP_4_0_12_0,10.60.119.241,4,3.87 GB,PDOK,pdok-gsinvector-dar:1.0.1.79,fto.kadaster.nl,28,Amsterdam
+ftu569.fto.kadaster.nl,pdok,pdok-dmregie,10.60.62.51,10.252.120.100,fto,JAP_4_0_12_0,10.60.119.136,4,3.87 GB,PDOK,pdok-dmregie-dar:3.0.0.94;pdok-catalogus:1.0.0.39,fto.kadaster.nl,28,Almere
+ftu570.fto.kadaster.nl,pdok,pdok-gsnlraster,10.60.62.52,10.252.120.93,fto,JAP_4_0_12_0,10.60.119.158,2,3.87 GB,PDOK,pdok-gsnlraster-dar:1.0.1.79,fto.kadaster.nl,28,Amsterdam
+ftu571.fto.kadaster.nl,pdok,pdok-geowebcache,10.60.62.53,10.252.120.98,fto,JAP_4_0_12_0,10.60.119.167,2,3.87 GB,PDOK,pdok-geowebcache-dar:1.0.1.25,fto.kadaster.nl,28,Almere
+ftu572.fto.kadaster.nl,pdok,pdok-gsnlvector,10.60.62.54,10.252.120.91,fto,JAP_4_0_12_0,10.60.119.149,2,3.87 GB,PDOK,pdok-gsnlvector-dar:1.0.1.79,fto.kadaster.nl,28,Amsterdam
+ftu573.fto.kadaster.nl,pdok,pdok-gsinvector,10.60.62.55,10.252.120.94,fto,JAP_4_0_12_0,10.60.119.241,4,3.87 GB,PDOK,pdok-gsinvector-dar:1.0.1.79,fto.kadaster.nl,28,Almere
+ftu574.fto.kadaster.nl,pdok,pdok-gsnlvector,10.60.62.56,10.252.120.90,fto,JAP_4_0_12_0,10.60.119.149,2,3.87 GB,PDOK,pdok-gsnlvector-dar:1.0.1.79,fto.kadaster.nl,28,Amsterdam
+ftu575.fto.kadaster.nl,pdok,pdok-gsinvector,10.60.62.57,10.252.120.95,fto,JAP_4_0_12_0,10.60.119.241,4,3.87 GB,PDOK,pdok-gsinvector-dar:1.0.1.79,fto.kadaster.nl,28,Almere
+ftu576.fto.kadaster.nl,pdok,pdok-ngr,10.60.62.58,10.252.120.87,fto,JAP_4_0_12_0,10.60.119.155,4,3.87 GB,PDOK,pdok-ngr-dar:1.0.1.9,fto.kadaster.nl,28,Amsterdam
+ftu577.fto.kadaster.nl,pdok,pdok-gsnlraster,10.60.62.59,10.252.120.92,fto,JAP_4_0_12_0,10.60.119.158,2,3.87 GB,PDOK,pdok-gsnlraster-dar:1.0.1.79,fto.kadaster.nl,28,Almere
+ftu578.fto.kadaster.nl,gaa,gaa-test-app,10.60.62.60,10.252.120.84,fto,JAP_4_0_12_0,10.60.119.205,1,1.96 GB,GAA,gaa-test-app-dar:1.0.2.1,fto.kadaster.nl,28,Amsterdam
+ftu579.fto.kadaster.nl,pdok,pdok-gsnlvector,10.60.62.61,10.252.120.89,fto,JAP_4_0_12_0,10.60.119.149,2,3.87 GB,PDOK,pdok-gsnlvector-dar:1.0.1.79,fto.kadaster.nl,28,Almere
+ftu580.fto.kadaster.nl,lvbag,lvbag-web,10.60.62.62,10.252.120.82,fto,WSP_1_0_7_0,10.60.119.250,1,1.96 GB,BAG-LV,bag-wsp-dar:1.0.1.0,fto.kadaster.nl,28,Amsterdam
+ftu581.fto.kadaster.nl,pdok,pdok-gsnlvector,10.60.62.63,10.252.120.88,fto,JAP_4_0_12_0,10.60.119.149,2,3.87 GB,PDOK,pdok-gsnlvector-dar:1.0.1.79,fto.kadaster.nl,28,Almere
+ftu582.fto.kadaster.nl,woz,woz-as,10.60.62.64,10.252.120.79,fto,JAP_3_1_3_0,10.60.119.252,2,3.86 GB,LV WOZ,wozas-prd-appl-dar:7.1.2.0,fto.kadaster.nl,31,Amsterdam
+ftu583.fto.kadaster.nl,pdok,pdok-ngr,10.60.62.65,10.252.120.86,fto,JAP_4_0_12_0,10.60.119.155,4,3.87 GB,PDOK,pdok-ngr-dar:1.0.1.9,fto.kadaster.nl,28,Almere
+ftu584.fto.kadaster.nl,woz,woz-as-ato,10.60.62.66,10.252.120.77,fto,JAP_3_1_3_0,10.60.119.198,2,3.86 GB,LV WOZ ATO,wozas-ato-appl-dar:7.1.2.0,fto.kadaster.nl,31,Amsterdam
+ftu585.fto.kadaster.nl,gaa,gaa-test-app,10.60.62.67,10.252.120.83,fto,JAP_4_0_12_0,10.60.119.205,1,1.96 GB,GAA,gaa-test-app-dar:1.0.2.1,fto.kadaster.nl,28,Almere
+ftu586.fto.kadaster.nl,woz,woz-as-ct1,10.60.62.68,10.252.120.75,fto,JAP_3_1_3_0,10.60.119.231,2,3.86 GB,LV WOZ CTO,wozas-ct1-appl-dar:7.1.2.0,fto.kadaster.nl,31,Amsterdam
+ftu587.fto.kadaster.nl,lvbag,lvbag-web,10.60.62.69,10.252.120.81,fto,WSP_1_0_7_0,10.60.119.250,1,1.96 GB,BAG-LV,bag-wsp-dar:1.0.1.0,fto.kadaster.nl,28,Almere
+ftu588.fto.kadaster.nl,woz,woz-as-ct2,10.60.62.70,10.252.120.72,fto,JAP_3_1_3_0,10.60.119.194,2,3.86 GB,LV WOZ CTO,wozas-ct2-appl-dar:7.1.2.0,fto.kadaster.nl,31,Amsterdam
+ftu589.fto.kadaster.nl,woz,woz-as,10.60.62.71,10.252.120.78,fto,JAP_3_1_3_0,10.60.119.252,2,3.86 GB,LV WOZ,wozas-prd-appl-dar:7.1.2.0,fto.kadaster.nl,31,Almere
+ftu590.fto.kadaster.nl,woz,woz-as-eto,10.60.62.72,10.252.120.71,fto,JAP_3_1_3_0,10.60.119.232,2,3.86 GB,LV WOZ ETO,wozas-eto-appl-dar:7.1.2.0,fto.kadaster.nl,31,Amsterdam
+ftu591.fto.kadaster.nl,woz,woz-as-ato,10.60.62.73,10.252.120.76,fto,JAP_3_1_3_0,10.60.119.198,2,3.86 GB,LV WOZ ATO,wozas-ato-appl-dar:7.1.2.0,fto.kadaster.nl,31,Almere
+ftu592.fto.kadaster.nl,woz,woz-sw,10.60.62.74,10.252.120.68,fto,JAP_3_1_3_0,10.60.119.249,2,3.86 GB,LV WOZ,wozsw-prd-appl-dar:7.1.4.0,fto.kadaster.nl,31,Amsterdam
+ftu593.fto.kadaster.nl,woz,woz-as-ct1,10.60.62.75,10.252.120.74,fto,JAP_3_1_3_0,10.60.119.231,2,3.86 GB,LV WOZ CTO,wozas-ct1-appl-dar:7.1.2.0,fto.kadaster.nl,31,Almere
+ftu594.fto.kadaster.nl,woz,woz-dl-uit,10.60.62.76,10.252.120.64,fto,PLP_OT_1_0_9_0,10.60.119.196,2,3.86 GB,LV WOZ,,fto.kadaster.nl,31,Amsterdam
+ftu595.fto.kadaster.nl,woz,woz-as-ct2,10.60.62.77,10.252.120.73,fto,JAP_3_1_3_0,10.60.119.194,2,3.86 GB,LV WOZ CTO,wozas-ct2-appl-dar:7.1.2.0,fto.kadaster.nl,31,Almere
+ftu596.fto.kadaster.nl,woz,woz-ot,10.60.62.78,10.252.120.62,fto,PLP_OT_1_0_9_0,10.60.119.202,2,3.86 GB,LV WOZ,,fto.kadaster.nl,31,Amsterdam
+ftu597.fto.kadaster.nl,woz,woz-as-eto,10.60.62.79,10.252.120.70,fto,JAP_3_1_3_0,10.60.119.232,2,3.86 GB,LV WOZ ETO,wozas-eto-appl-dar:7.1.2.0,fto.kadaster.nl,31,Almere
+ftu598.fto.kadaster.nl,woz,woz-ot-ato,10.60.62.80,10.252.120.61,fto,PLP_OT_1_0_9_0,10.60.119.178,2,3.86 GB,LV WOZ ATO,,fto.kadaster.nl,31,Amsterdam
+ftu599.fto.kadaster.nl,woz,woz-sw,10.60.62.81,10.252.120.69,fto,JAP_3_1_3_0,10.60.119.249,2,3.86 GB,LV WOZ,wozsw-prd-appl-dar:7.1.4.0,fto.kadaster.nl,31,Almere
+ftu600.fto.kadaster.nl,woz,woz-ot-cto,10.60.62.82,10.252.120.58,fto,PLP_OT_1_0_9_0,10.60.119.150,2,3.86 GB,LV WOZ CTO,,fto.kadaster.nl,31,Amsterdam
+ftu601.fto.kadaster.nl,woz,woz-dl-uit,10.60.62.83,10.252.120.65,fto,PLP_OT_1_0_9_0,10.60.119.196,2,3.86 GB,LV WOZ,,fto.kadaster.nl,31,Almere
+ftu602.fto.kadaster.nl,woz,woz-ot-eto,10.60.62.84,10.252.120.56,fto,PLP_OT_1_0_9_0,10.60.119.197,2,3.86 GB,LV WOZ ETO,,fto.kadaster.nl,31,Amsterdam
+ftu603.fto.kadaster.nl,woz,woz-ot,10.60.62.85,10.252.120.63,fto,PLP_OT_1_0_9_0,10.60.119.202,2,3.86 GB,LV WOZ,,fto.kadaster.nl,31,Almere
+ftu604.fto.kadaster.nl,isps,isps-apprecht-ws,10.60.62.86,10.252.120.55,fto,JAP_4_0_12_0,10.60.119.160,1,1.96 GB,ISPS,isps-app-dar:0.0.0.9,fto.kadaster.nl,28,Amsterdam
+ftu605.fto.kadaster.nl,woz,woz-ot-ato,10.60.62.87,10.252.120.60,fto,PLP_OT_1_0_9_0,10.60.119.178,2,3.86 GB,LV WOZ ATO,,fto.kadaster.nl,31,Almere
+ftu606.fto.kadaster.nl,loc,brk-loc4,10.60.62.88,10.252.120.53,fto,JAP_4_0_12_0,10.60.119.224,2,3.87 GB,BRK-BAG Locatie,brk-loc-dar:1.5.2.1-20141106-054229,fto.kadaster.nl,28,Amsterdam
+ftu607.fto.kadaster.nl,woz,woz-ot-cto,10.60.62.89,10.252.120.59,fto,PLP_OT_1_0_9_0,10.60.119.150,2,3.86 GB,LV WOZ CTO,,fto.kadaster.nl,31,Almere
+ftu608.fto.kadaster.nl,loc,brk-lko4,10.60.62.90,10.252.120.51,fto,JAP_4_0_12_0,10.60.119.187,2,3.87 GB,BRK-BAG Locatie,,fto.kadaster.nl,28,Amsterdam
+ftu609.fto.kadaster.nl,woz,woz-ot-eto,10.60.62.91,10.252.120.57,fto,PLP_OT_1_0_9_0,10.60.119.197,2,3.86 GB,LV WOZ ETO,,fto.kadaster.nl,31,Almere
+ftu610.fto.kadaster.nl,dba,epc-db,10.60.62.92,10.252.120.43,fto,HDP_1_1_2_0,10.60.119.168,2,3.86 GB,EPC,,fto.kadaster.nl,151,Amsterdam
+ftu611.fto.kadaster.nl,isps,isps-apprecht-ws,10.60.62.93,10.252.120.54,fto,JAP_4_0_12_0,10.60.119.160,1,1.96 GB,ISPS,isps-app-dar:0.0.0.9,fto.kadaster.nl,28,Almere
+ftu612.fto.kadaster.nl,pdok,pdok-staging-tiling,10.60.62.94,10.252.120.42,fto,JAP_4_0_12_0,10.60.119.245,4,3.87 GB,PDOK,pdok-staging-tiling-dar:1.0.0.12,fto.kadaster.nl,28,Amsterdam
+ftu613.fto.kadaster.nl,loc,brk-loc4,10.60.62.95,10.252.120.52,fto,JAP_4_0_12_0,10.60.119.224,2,3.87 GB,BRK-BAG Locatie,brk-loc-dar:1.5.2.1-20141106-054229,fto.kadaster.nl,28,Almere
+ftu614.fto.kadaster.nl,nhr,nhr-appl,10.60.62.96,10.252.120.34,fto,JAP_4_0_12_0,10.60.119.227,1,1.96 GB,OR-KR,orkr-nhr-service-dar:0.0.1.15,fto.kadaster.nl,28,Amsterdam
+ftu615.fto.kadaster.nl,loc,brk-lko4,10.60.62.97,10.252.120.50,fto,JAP_4_0_12_0,10.60.119.187,2,3.87 GB,BRK-BAG Locatie,,fto.kadaster.nl,28,Almere
+ftu616.fto.kadaster.nl,bgt,bgt-app,10.60.62.98,10.252.120.32,fto,JAP_3_1_3_0,10.60.119.179,2,3.86 GB,BGT-LV,,fto.kadaster.nl,31,Amsterdam
+ftu617.fto.kadaster.nl,pdok,pdok-staging-tiling,10.60.62.99,10.252.120.41,fto,JAP_4_0_12_0,10.60.119.245,4,3.87 GB,PDOK,pdok-staging-tiling-dar:1.0.0.12,fto.kadaster.nl,28,Almere
+ftu618.fto.kadaster.nl,bgt,bgt-app-controle,10.60.62.100,10.252.120.30,fto,JAP_3_1_3_0,10.60.119.128,2,3.86 GB,BGT-LV,,fto.kadaster.nl,31,Amsterdam
+ftu619.fto.kadaster.nl,nhr,nhr-appl,10.60.62.101,10.252.120.33,fto,JAP_4_0_12_0,10.60.119.227,1,1.96 GB,OR-KR,orkr-nhr-service-dar:0.0.1.15,fto.kadaster.nl,28,Almere
+ftu620.fto.kadaster.nl,bgt,bgt-gpw,10.60.62.102,10.252.120.28,fto,JAP_4_0_12_0,10.60.119.244,1,1.96 GB,BGT-LV,,fto.kadaster.nl,28,Amsterdam
+ftu621.fto.kadaster.nl,bgt,bgt-app,10.60.62.103,10.252.120.31,fto,JAP_3_1_3_0,10.60.119.179,2,3.86 GB,BGT-LV,,fto.kadaster.nl,31,Almere
+ftu622.fto.kadaster.nl,bgt,bgt-gopubwf,10.60.62.104,10.252.120.26,fto,EAP_4_1_3_0,10.60.119.223,1,1.96 GB,BGT-LV,bgt-gpw-jboss-dar:0.0.7,fto.kadaster.nl,28,Amsterdam
+ftu623.fto.kadaster.nl,bgt,bgt-app-controle,10.60.62.105,10.252.120.29,fto,JAP_3_1_3_0,10.60.119.128,2,3.86 GB,BGT-LV,,fto.kadaster.nl,31,Almere
+ftu624.fto.kadaster.nl,lvwkpb,lvwkpb-all,10.60.62.106,10.252.120.24,fto,JAP_4_0_12_0,10.60.119.132,1,1.96 GB,WKPB-LV,,fto.kadaster.nl,28,Amsterdam
+ftu625.fto.kadaster.nl,bgt,bgt-gpw,10.60.62.107,10.252.120.27,fto,JAP_4_0_12_0,10.60.119.244,1,1.96 GB,BGT-LV,,fto.kadaster.nl,28,Almere
+ftu626.fto.kadaster.nl,lvwkpb,lvwkpb-web,10.60.62.108,10.252.120.22,fto,WSP_1_0_7_0,10.60.119.171,1,1.96 GB,WKPB-LV,,fto.kadaster.nl,28,Amsterdam
+ftu627.fto.kadaster.nl,bgt,bgt-gopubwf,10.60.62.109,10.252.120.25,fto,EAP_4_1_3_0,10.60.119.223,1,1.96 GB,BGT-LV,bgt-gpw-jboss-dar:0.0.7,fto.kadaster.nl,28,Almere
+ftu628.fto.kadaster.nl,loc,brk-aka4,10.60.62.110,10.252.120.20,fto,JAP_4_0_12_0,10.60.119.165,1,1.96 GB,BRK-BAG Locatie,brk-akra-dar:1.0.0.0-20141113-064219,fto.kadaster.nl,28,Amsterdam
+ftu629.fto.kadaster.nl,lvwkpb,lvwkpb-all,10.60.62.111,10.252.120.23,fto,JAP_4_0_12_0,10.60.119.132,1,1.96 GB,WKPB-LV,,fto.kadaster.nl,28,Almere
+ftu630.fto.kadaster.nl,bke,bke-ggi,10.60.62.112,10.252.120.15,fto,JAP_4_0_12_0,10.60.119.148,1,1.96 GB,BRK leveringen,leveringservice-dar:0.0.25;eventmanager-dar:0.0.0.9,fto.kadaster.nl,28,Amsterdam
+ftu631.fto.kadaster.nl,lvwkpb,lvwkpb-web,10.60.62.113,10.252.120.21,fto,WSP_1_0_7_0,10.60.119.171,1,1.96 GB,WKPB-LV,,fto.kadaster.nl,28,Almere
+ftu632.fto.kadaster.nl,bke,bke-mutatie,10.60.62.114,10.252.120.13,fto,JAP_4_0_12_0,10.60.119.145,2,3.87 GB,BRK leveringen,productieservice-mutatie-dar:2.1.0.10;mutatiesensor-dar:2.0.11,fto.kadaster.nl,28,Amsterdam
+ftu633.fto.kadaster.nl,loc,brk-aka4,10.60.62.115,10.252.120.19,fto,JAP_4_0_12_0,10.60.119.165,1,1.96 GB,BRK-BAG Locatie,brk-akra-dar:1.0.0.0-20141113-064219,fto.kadaster.nl,28,Almere
+ftu634.fto.kadaster.nl,bke,bke-stand,10.60.62.116,10.252.120.11,fto,JAP_4_0_12_0,10.60.119.237,2,3.87 GB,BRK leveringen,productieservice-stand-dar:2.1.0.13,fto.kadaster.nl,28,Amsterdam
+ftu635.fto.kadaster.nl,bke,bke-ggi,10.60.62.117,10.252.120.14,fto,JAP_4_0_12_0,10.60.119.148,1,1.96 GB,BRK leveringen,leveringservice-dar:0.0.25;eventmanager-dar:0.0.0.9,fto.kadaster.nl,28,Almere
+ftu636.fto.kadaster.nl,bke,bke-bestelgebied,10.60.62.118,10.252.120.9,fto,JAP_4_0_12_0,10.60.119.228,2,3.87 GB,BRK leveringen,gebied-beheer-dar:0.0.0.9,fto.kadaster.nl,28,Amsterdam
+ftu637.fto.kadaster.nl,bke,bke-mutatie,10.60.62.119,10.252.120.12,fto,JAP_4_0_12_0,10.60.119.145,2,3.87 GB,BRK leveringen,productieservice-mutatie-dar:2.1.0.10;mutatiesensor-dar:2.0.11,fto.kadaster.nl,28,Almere
+ftu638.fto.kadaster.nl,gds,gds-app4,10.60.62.120,10.252.120.7,fto,JAP_4_0_12_0,10.60.119.156,1,1.96 GB,Generieke Download Service (GDS2),gds-dar:3.0.0.10,fto.kadaster.nl,28,Amsterdam
+ftu639.fto.kadaster.nl,bke,bke-stand,10.60.62.121,10.252.120.10,fto,JAP_4_0_12_0,10.60.119.237,2,3.87 GB,BRK leveringen,productieservice-stand-dar:2.1.0.13,fto.kadaster.nl,28,Almere
+ftu640.fto.kadaster.nl,lvbag,lvbag-digilevering,10.60.62.122,10.252.120.5,fto,JAP_4_0_12_0,10.60.119.218,1,1.96 GB,BAG-LV,,fto.kadaster.nl,28,Amsterdam
+ftu641.fto.kadaster.nl,bke,bke-bestelgebied,10.60.62.123,10.252.120.8,fto,JAP_4_0_12_0,10.60.119.228,2,3.87 GB,BRK leveringen,gebied-beheer-dar:0.0.0.9,fto.kadaster.nl,28,Almere
+ftu642.fto.kadaster.nl,kpv,kpv-frontend,10.60.62.124,10.252.120.3,fto,JAP_4_0_12_0,10.60.119.162,2,3.87 GB,Kadastrale Perceelsvorming (KPV),grenscorrectie-dar:0.0.44.95,fto.kadaster.nl,28,Amsterdam
+ftu643.fto.kadaster.nl,gds,gds-app4,10.60.62.125,10.252.120.6,fto,JAP_4_0_12_0,10.60.119.156,1,1.96 GB,Generieke Download Service (GDS2),gds-dar:3.0.0.10,fto.kadaster.nl,28,Almere
+ftu644.fto.kadaster.nl,kpv,kpv-process,10.60.62.126,10.252.120.1,fto,JAP_4_0_12_0,10.60.119.153,2,3.87 GB,Kadastrale Perceelsvorming (KPV),,fto.kadaster.nl,28,Amsterdam
+ftu645.fto.kadaster.nl,lvbag,lvbag-digilevering,10.60.62.127,10.252.120.4,fto,JAP_4_0_12_0,10.60.119.218,1,1.96 GB,BAG-LV,,fto.kadaster.nl,28,Almere
+ftu646.fto.kadaster.nl,kpv,kpv-services,10.60.62.128,10.252.121.254,fto,JAP_4_0_12_0,10.60.119.147,2,3.87 GB,Kadastrale Perceelsvorming (KPV),kpv-services-dar:0.0.1.0,fto.kadaster.nl,28,Amsterdam
+ftu647.fto.kadaster.nl,kpv,kpv-frontend,10.60.62.129,10.252.120.2,fto,JAP_4_0_12_0,10.60.119.162,2,3.87 GB,Kadastrale Perceelsvorming (KPV),grenscorrectie-dar:0.0.44.95,fto.kadaster.nl,28,Almere
+ftu648.fto.kadaster.nl,kpv,kpv-web,10.60.62.130,10.252.121.251,fto,WSP_1_0_7_0,10.60.119.239,2,3.87 GB,Kadastrale Perceelsvorming (KPV),kpv-web-dar:0.0.1.0,fto.kadaster.nl,28,Amsterdam
+ftu649.fto.kadaster.nl,kpv,kpv-process,10.60.62.131,10.252.120.254,fto,JAP_4_0_12_0,10.60.119.153,2,3.87 GB,Kadastrale Perceelsvorming (KPV),,fto.kadaster.nl,28,Almere
+ftu650.fto.kadaster.nl,lvbag,lvbag-vs-em,10.60.62.132,10.252.121.242,fto,JAP_4_0_12_0,10.60.119.236,1,1.96 GB,BAG-LV,,fto.kadaster.nl,28,Amsterdam
+ftu651.fto.kadaster.nl,kpv,kpv-services,10.60.62.133,10.252.121.249,fto,JAP_4_0_12_0,10.60.119.147,2,3.87 GB,Kadastrale Perceelsvorming (KPV),kpv-services-dar:0.0.1.0,fto.kadaster.nl,28,Almere
+ftu653.fto.kadaster.nl,kpv,kpv-web,10.60.62.135,10.252.121.253,fto,WSP_1_0_7_0,10.60.119.239,2,3.87 GB,Kadastrale Perceelsvorming (KPV),kpv-web-dar:0.0.1.0,fto.kadaster.nl,28,Almere
+ftu655.fto.kadaster.nl,lvbag,lvbag-vs-em,10.60.62.137,10.252.121.243,fto,JAP_4_0_12_0,10.60.119.236,1,1.96 GB,BAG-LV,,fto.kadaster.nl,28,Almere
+inu265.in.kadaster.nl,pdok,pdok-nfs,10.103.55.5,10.251.122.173,int,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP Kadaster beheertooling,pdok-nfs-dar:1.0.1.6;pdok-nfstiles-dar:1.0.0.0,in.kadaster.nl,2665,Almere
+inu267.in.kadaster.nl,roo,roo-geoip1,10.103.55.7,10.251.121.197,int,PLP_ROO_1_0_12_0,10.103.119.154,1,1.96 GB,RO-online,roo-plp-geoip-dar:2.2.7.203,in.kadaster.nl,28,Almere
+inu280.in.kadaster.nl,dba,pdok-appsdb,10.103.55.20,10.251.120.85,int,HDP_1_1_2_0,10.103.118.149,2,3.86 GB,PDOK,,in.kadaster.nl,151,Amsterdam
+inu293.in.kadaster.nl,roo,roo-web,10.103.55.33,10.251.121.204,int,PLP_ROO_1_0_12_0,10.103.119.192,1,1.96 GB,RO-online,roo-plp-web-pilot-dar:2.2.7.203,in.kadaster.nl,28,Almere
+inu307.in.kadaster.nl,dba,wkpbi,10.103.55.47,10.251.123.176,int,HDP_1_1_2_0,10.103.119.207,2,3.86 GB,WKPB-LV,,in.kadaster.nl,148,Almere
+inu315.in.kadaster.nl,roo,roo-val,10.103.55.55,10.251.121.219,int,PLP_ROO_1_0_12_0,10.103.119.175,1,1.96 GB,RO-online,roo-plp-val-dar:2.2.7.203,in.kadaster.nl,28,Almere
+inu320.in.kadaster.nl,dba,pdok-ngrdb,10.103.55.60,10.251.121.44,int,HDP_1_1_2_0,10.103.118.138,2,3.86 GB,PDOK,,in.kadaster.nl,508,Amsterdam
+inu339.in.kadaster.nl,roo,roo-nfs,10.103.55.79,10.251.120.251,int,PLP_ROO_1_0_12_0,,1,1.96 GB,RO-online,,in.kadaster.nl,278,Almere
+inu344.in.kadaster.nl,dba,pdok-db,10.103.55.84,10.251.121.40,int,HDP_1_1_2_0,10.103.118.229,2,3.86 GB,PDOK,,in.kadaster.nl,508,Amsterdam
+inu345.in.kadaster.nl,kik,kik-inzage,10.103.55.85,10.251.121.218,int,JAP_4_0_12_0,10.103.118.177,1,1.96 GB,KIK Inzage (obv POL),kikinzage-dar:2.0.0.6,in.kadaster.nl,28,Almere
+inu349.in.kadaster.nl,roo,roo-geoip2,10.103.55.89,10.251.121.198,int,PLP_ROO_1_0_12_0,10.103.119.216,1,1.96 GB,RO-online,roo-plp-geoip-unreg-dar:2.2.7.203,in.kadaster.nl,28,Almere
+inu354.in.kadaster.nl,kik,kik-inzage,10.103.55.94,10.251.120.102,int,JAP_4_0_12_0,10.103.118.177,1,1.96 GB,KIK Inzage (obv POL),kikinzage-dar:2.0.0.6,in.kadaster.nl,28,Amsterdam
+inu419.in.kadaster.nl,aa,aa-mail,10.103.55.109,10.251.120.78,int,JAP_4_0_12_0,10.103.119.241,1,1.96 GB,AA,massale-mail-malware-dar:1.1.0-20140915-091235,in.kadaster.nl,28,Almere
+inu421.in.kadaster.nl,dba,roodb,10.103.55.111,10.251.120.209,int,HDP_1_1_2_0,10.103.119.179,2,3.86 GB,RO-online,,in.kadaster.nl,148,Almere
+inu439.in.kadaster.nl,dba,dbproxy-ora,10.103.55.129,10.251.123.161,int,PLP_ORA_2_0_1_0,,1,1.83 GB,PLP beheertooling,bgt-controle-dar:2.0.63.05;splits-gbkn-wms-geoserver-dar:4.1.0.4-20140908-155217;brk-mutatieservice-dar:1.5.2.32;grenscorrectie-eto-dar:0.0.44.95;grenscorrectie-dar:0.0.44.95;bgt-dar:2.0.63.05;dbo-bhd-dar:1.1.0.2;splits-dar:4.1.4.0;splits-eto-dar:4.1.4.0,in.kadaster.nl,65,Almere
+inu449.in.kadaster.nl,roo,roo-imp,10.103.55.139,10.251.121.206,int,PLP_ROO_1_0_12_0,10.103.119.158,1,1.96 GB,RO-online,roo-plp-imp-dar:2.2.7.203,in.kadaster.nl,28,Almere
+inu451.in.kadaster.nl,roo,roo-geosec,10.103.55.141,10.251.121.201,int,PLP_ROO_1_0_12_0,10.103.119.198,1,1.96 GB,RO-online,roo-plp-geosec-dar:2.2.7.203,in.kadaster.nl,28,Almere
+inu456.in.kadaster.nl,dba,roodb,10.103.55.146,10.251.120.210,int,HDP_1_1_2_0,10.103.119.179,2,3.86 GB,RO-online,,in.kadaster.nl,148,Amsterdam
+inu469.in.kadaster.nl,kadnl,kadnl-nfs,10.103.55.159,10.251.123.16,int,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP Kadaster beheertooling,,in.kadaster.nl,38,Almere
+inu502.in.kadaster.nl,aa,aa-mail,10.103.55.192,10.251.120.86,int,JAP_4_0_12_0,10.103.119.241,1,1.96 GB,AA,massale-mail-malware-dar:1.1.0-20140915-091235,in.kadaster.nl,28,Amsterdam
+inu520.in.kadaster.nl,jap,jap-platform-4,10.103.55.210,10.251.120.161,int,JAP_4_0_12_0,10.103.118.213,1,1.96 GB,PLP beheertooling,java-example-app-dar:2.0.0.8,in.kadaster.nl,28,Amsterdam
+inu522.in.kadaster.nl,wov,wov-app,10.103.55.212,10.251.121.47,int,JAP_4_0_12_0,10.103.119.215,1,1.96 GB,WOZ-viewer,woz-viewer-dar:2.1.0.2,in.kadaster.nl,28,Amsterdam
+inu524.in.kadaster.nl,lvbag,lvbag-vs-bw,10.103.55.214,10.251.121.154,int,JAP_4_0_12_0,10.103.118.225,1,1.96 GB,BAG-LV,bag-vs-dar:4.0.0.8,in.kadaster.nl,28,Amsterdam
+inu526.in.kadaster.nl,splits,splits-geos-perc-wms,10.103.55.216,10.251.121.26,int,JAP_4_0_12_0,10.103.119.239,3,5.84 GB,Kadastrale Perceelsvorming (KPV),splits-perceel-wms-geoserver-dar:4.1.1.4,in.kadaster.nl,28,Amsterdam
+inu527.in.kadaster.nl,pdok,pdok-loket,10.103.55.217,10.251.121.36,int,PLP_PDOK_1_0_7_0,,1,1.96 GB,PDOK,pdok-loket-dar:1.0.3.15,in.kadaster.nl,75,Almere
+inu528.in.kadaster.nl,splits,splits-geos-perc-wfs,10.103.55.218,10.251.121.73,int,JAP_4_0_12_0,10.103.118.212,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-perceel-wfs-geoserver-dar:4.1.1.2,in.kadaster.nl,28,Amsterdam
+inu529.in.kadaster.nl,pdok,pdok-fme,10.103.55.219,10.251.123.140,int,PLP_PDOK_1_0_7_0,,8,15.70 GB,PDOK,,in.kadaster.nl,528,Almere
+inu530.in.kadaster.nl,splits,splits-geos-gbkn-wms,10.103.55.220,10.251.121.71,int,JAP_4_0_12_0,10.103.118.156,3,5.84 GB,Kadastrale Perceelsvorming (KPV),splits-gbkn-wms-geoserver-dar:4.1.0.3,in.kadaster.nl,28,Amsterdam
+inu532.in.kadaster.nl,splits,splits-geos-gbkn-wfs,10.103.55.222,10.251.121.69,int,JAP_4_0_12_0,10.103.118.184,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-gbkn-wfs-geoserver-dar:4.1.0.3,in.kadaster.nl,28,Amsterdam
+inu533.in.kadaster.nl,dba,pdok-db,10.103.55.223,10.251.122.70,int,HDP_1_1_2_0,10.103.118.229,2,3.86 GB,PDOK,,in.kadaster.nl,508,Almere
+inu534.in.kadaster.nl,lki,lki-hvk-process,10.103.55.224,10.251.120.180,int,JAP_4_0_12_0,10.103.119.221,2,3.87 GB,LKI,hvk-aanvragen-dar:1.0.0.42,in.kadaster.nl,28,Amsterdam
+inu535.in.kadaster.nl,dba,pdok-ngrdb,10.103.55.225,10.251.121.43,int,HDP_1_1_2_0,10.103.118.138,2,3.86 GB,PDOK,,in.kadaster.nl,508,Almere
+inu536.in.kadaster.nl,lki,lki-process,10.103.55.226,10.251.120.149,int,JAP_4_0_12_0,10.103.118.222,2,3.87 GB,LKI,brk-fingis-mutatieservice-dar:1.3.0.4,in.kadaster.nl,28,Amsterdam
+inu538.in.kadaster.nl,lki,lki-brk-ws,10.103.55.228,10.251.121.80,int,JAP_4_0_12_0,10.103.118.194,2,3.87 GB,LKI,lki-brk-ws-dar:1.0.1.0,in.kadaster.nl,28,Amsterdam
+inu540.in.kadaster.nl,splits,splits-process,10.103.55.230,10.251.122.213,int,JAP_4_0_12_0,10.103.118.203,3,5.84 GB,Kadastrale Perceelsvorming (KPV),brk-mutatieservice-dar:1.5.2.32,in.kadaster.nl,28,Amsterdam
+inu542.in.kadaster.nl,splits,splits-app-web,10.103.55.232,10.251.120.58,int,JAP_4_0_12_0,10.103.118.175,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-dar:4.1.4.0,in.kadaster.nl,28,Amsterdam
+inu544.in.kadaster.nl,splits,splits-app-eto,10.103.55.234,10.251.121.18,int,JAP_4_0_12_0,10.103.118.227,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-eto-dar:4.1.4.0,in.kadaster.nl,28,Amsterdam
+inu546.in.kadaster.nl,lki,lki-brk-geo-beh,10.103.55.236,10.251.120.173,int,JAP_4_0_12_0,10.103.119.152,1,1.96 GB,LKI,beheerindelingen-dar:1.0.0.17,in.kadaster.nl,28,Amsterdam
+inu548.in.kadaster.nl,aa,aa-mmalware,10.103.55.238,10.251.120.24,int,JAP_3_1_3_0,10.103.119.181,1,1.96 GB,AA,,in.kadaster.nl,31,Amsterdam
+inu549.in.kadaster.nl,jap,jap-platform-4,10.103.55.239,10.251.120.160,int,JAP_4_0_12_0,10.103.118.213,1,1.96 GB,PLP beheertooling,java-example-app-dar:2.0.0.8,in.kadaster.nl,28,Almere
+inu550.in.kadaster.nl,iad,iad-web,10.103.55.240,10.251.122.118,int,JAP_4_0_12_0,10.103.119.171,1,1.96 GB,Inzage Archief Documenten ,iad-dar:1.3.0.5,in.kadaster.nl,28,Amsterdam
+inu551.in.kadaster.nl,wov,wov-app,10.103.55.241,10.251.121.32,int,JAP_4_0_12_0,10.103.119.215,1,1.96 GB,WOZ-viewer,woz-viewer-dar:2.1.0.2,in.kadaster.nl,28,Almere
+inu552.in.kadaster.nl,isps,isps-apprecht-ws,10.103.55.242,10.251.120.252,int,JAP_4_0_12_0,10.103.118.157,1,1.96 GB,ISPS,isps-app-dar:0.0.0.9,in.kadaster.nl,28,Amsterdam
+inu553.in.kadaster.nl,jap,jap-nfs,10.103.55.243,10.251.121.116,int,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP Kadaster beheertooling,,in.kadaster.nl,38,Almere
+inu554.in.kadaster.nl,kpv,kpv-frontend-opl,10.103.55.244,10.251.121.157,int,JAP_4_0_12_0,10.103.119.230,2,3.87 GB,Kadastrale Perceelsvorming (KPV),grenscorrectie-eto-dar:0.0.44.95,in.kadaster.nl,28,Amsterdam
+inu555.in.kadaster.nl,lvbag,lvbag-vs-bw,10.103.55.245,10.251.120.104,int,JAP_4_0_12_0,10.103.118.225,1,1.96 GB,BAG-LV,bag-vs-dar:4.0.0.8,in.kadaster.nl,28,Almere
+inu556.in.kadaster.nl,kpv,kpv-services,10.103.55.246,10.251.123.178,int,JAP_4_0_12_0,10.103.119.188,2,3.87 GB,Kadastrale Perceelsvorming (KPV),kpv-services-dar:0.0.1.1,in.kadaster.nl,28,Amsterdam
+inu557.in.kadaster.nl,splits,splits-geos-perc-wms,10.103.55.247,10.251.121.27,int,JAP_4_0_12_0,10.103.119.239,3,5.84 GB,Kadastrale Perceelsvorming (KPV),splits-perceel-wms-geoserver-dar:4.1.1.4,in.kadaster.nl,28,Almere
+inu558.in.kadaster.nl,bke,bke-mutatie,10.103.55.248,10.251.120.211,int,JAP_4_0_12_0,10.103.119.129,2,3.87 GB,BRK leveringen,productieservice-mutatie-dar:2.1.0.10;mutatiesensor-dar:2.0.11,in.kadaster.nl,28,Amsterdam
+inu559.in.kadaster.nl,splits,splits-geos-perc-wfs,10.103.55.249,10.251.121.68,int,JAP_4_0_12_0,10.103.118.212,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-perceel-wfs-geoserver-dar:4.1.1.2,in.kadaster.nl,28,Almere
+inu560.in.kadaster.nl,lki,lki-wdv-app,10.103.55.250,10.251.120.228,int,JAP_4_0_12_0,10.103.119.249,1,1.96 GB,LKI,wdv-dar:2.1.0.2,in.kadaster.nl,28,Amsterdam
+inu561.in.kadaster.nl,splits,splits-geos-gbkn-wms,10.103.55.251,10.251.121.24,int,JAP_4_0_12_0,10.103.118.156,3,5.84 GB,Kadastrale Perceelsvorming (KPV),splits-gbkn-wms-geoserver-dar:4.1.0.3,in.kadaster.nl,28,Almere
+inu562.in.kadaster.nl,wkpb,wkpb-lv,10.103.55.252,10.251.122.86,int,JAP_4_0_12_0,10.103.119.203,1,1.96 GB,WKPB-LV,wkpb-dar:1.0.0.3,in.kadaster.nl,28,Amsterdam
+inu563.in.kadaster.nl,splits,splits-geos-gbkn-wfs,10.103.55.253,10.251.121.74,int,JAP_4_0_12_0,10.103.118.184,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-gbkn-wfs-geoserver-dar:4.1.0.3,in.kadaster.nl,28,Almere
+inu564.in.kadaster.nl,gds,gds-app,10.103.53.1,10.251.122.128,int,JAP_3_1_3_0,10.103.119.193,1,1.96 GB,Generieke Download Service (GDS2),gds-dar:2.7.0.8,in.kadaster.nl,31,Amsterdam
+inu565.in.kadaster.nl,lki,lki-hvk-process,10.103.53.2,10.251.122.218,int,JAP_4_0_12_0,10.103.119.221,2,3.87 GB,LKI,hvk-aanvragen-dar:1.0.0.42,in.kadaster.nl,28,Almere
+inu566.in.kadaster.nl,woz,woz-pdok-koppeling,10.103.53.3,10.251.123.250,int,JAP_4_0_12_0,10.103.118.230,1,1.96 GB,LV WOZ,woz-pdok-integration-dar:1.1.0.0,in.kadaster.nl,28,Amsterdam
+inu567.in.kadaster.nl,lki,lki-process,10.103.53.4,10.251.122.217,int,JAP_4_0_12_0,10.103.118.222,2,3.87 GB,LKI,brk-fingis-mutatieservice-dar:1.3.0.4,in.kadaster.nl,28,Almere
+inu568.in.kadaster.nl,lvbag,lvbag-vs-audit,10.103.53.5,10.251.121.15,int,JAP_4_0_12_0,10.103.118.167,1,1.96 GB,BAG-LV,bag-audit-dar:2.13.0.3-20141120-083035,in.kadaster.nl,28,Amsterdam
+inu569.in.kadaster.nl,lki,lki-brk-ws,10.103.53.6,10.251.122.76,int,JAP_4_0_12_0,10.103.118.194,2,3.87 GB,LKI,lki-brk-ws-dar:1.0.1.0,in.kadaster.nl,28,Almere
+inu570.in.kadaster.nl,lvbag,lvbag-web,10.103.53.7,10.251.122.131,int,WSP_1_0_7_0,10.103.118.139,1,1.96 GB,BAG-LV,bag-wsp-dar:1.0.1.1-20141113-074331,in.kadaster.nl,28,Amsterdam
+inu571.in.kadaster.nl,splits,splits-process,10.103.53.8,10.251.122.209,int,JAP_4_0_12_0,10.103.118.203,3,5.84 GB,Kadastrale Perceelsvorming (KPV),brk-mutatieservice-dar:1.5.2.32,in.kadaster.nl,28,Almere
+inu572.in.kadaster.nl,bgt,bgt-app-controle,10.103.53.9,10.251.123.129,int,JAP_3_1_3_0,10.103.118.249,2,3.86 GB,BGT-LV,,in.kadaster.nl,31,Amsterdam
+inu573.in.kadaster.nl,splits,splits-app-web,10.103.53.10,10.251.120.59,int,JAP_4_0_12_0,10.103.118.175,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-dar:4.1.4.0,in.kadaster.nl,28,Almere
+inu574.in.kadaster.nl,bgt,bgt-gopubwf,10.103.53.11,10.251.123.123,int,EAP_4_1_3_0,10.103.119.164,1,1.96 GB,BGT-LV,bgt-gpw-jboss-dar:0.0.7,in.kadaster.nl,28,Amsterdam
+inu575.in.kadaster.nl,splits,splits-app-eto,10.103.53.12,10.251.122.221,int,JAP_4_0_12_0,10.103.118.227,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-eto-dar:4.1.4.0,in.kadaster.nl,28,Almere
+inu576.in.kadaster.nl,bgt,bgt-app,10.103.53.13,10.251.123.122,int,JAP_3_1_3_0,10.103.119.140,2,3.86 GB,BGT-LV,,in.kadaster.nl,31,Amsterdam
+inu577.in.kadaster.nl,lki,lki-brk-geo-beh,10.103.53.14,10.251.120.230,int,JAP_4_0_12_0,10.103.119.152,1,1.96 GB,LKI,beheerindelingen-dar:1.0.0.17,in.kadaster.nl,28,Almere
+inu578.in.kadaster.nl,bgt,bgt-gpw,10.103.53.15,10.251.123.120,int,JAP_4_0_12_0,10.103.119.238,2,3.87 GB,BGT-LV,,in.kadaster.nl,28,Amsterdam
+inu579.in.kadaster.nl,aa,aa-mmalware,10.103.53.16,10.251.120.25,int,JAP_3_1_3_0,10.103.119.181,1,1.96 GB,AA,,in.kadaster.nl,31,Almere
+inu580.in.kadaster.nl,gaa,gaa-test-app,10.103.53.17,10.251.123.115,int,JAP_4_0_12_0,10.103.119.225,1,1.96 GB,GAA,gaa-test-app-dar:1.0.2.1,in.kadaster.nl,28,Amsterdam
+inu581.in.kadaster.nl,iad,iad-web,10.103.53.18,10.251.120.253,int,JAP_4_0_12_0,10.103.119.171,1,1.96 GB,Inzage Archief Documenten ,iad-dar:1.3.0.5,in.kadaster.nl,28,Almere
+inu582.in.kadaster.nl,loc,brk-loc4,10.103.53.19,10.251.123.47,int,JAP_4_0_12_0,10.103.118.185,2,3.87 GB,BRK-BAG Locatie,brk-loc-dar:1.5.2.1-20141114-144526,in.kadaster.nl,28,Amsterdam
+inu583.in.kadaster.nl,isps,isps-apprecht-ws,10.103.53.20,10.251.120.197,int,JAP_4_0_12_0,10.103.118.157,1,1.96 GB,ISPS,isps-app-dar:0.0.0.9,in.kadaster.nl,28,Almere
+inu584.in.kadaster.nl,loc,brk-lko4,10.103.53.21,10.251.122.249,int,JAP_4_0_12_0,10.103.118.237,2,3.87 GB,BRK-BAG Locatie,brk-lko-dar:1.1.6.1-20141119-094628,in.kadaster.nl,28,Amsterdam
+inu585.in.kadaster.nl,kpv,kpv-frontend-opl,10.103.53.22,10.251.122.147,int,JAP_4_0_12_0,10.103.119.230,2,3.87 GB,Kadastrale Perceelsvorming (KPV),grenscorrectie-eto-dar:0.0.44.95,in.kadaster.nl,28,Almere
+inu586.in.kadaster.nl,loc,brk-aka4,10.103.53.23,10.251.123.28,int,JAP_4_0_12_0,10.103.118.148,1,1.96 GB,BRK-BAG Locatie,brk-akra-dar:1.0.0.0-20141120-142928,in.kadaster.nl,28,Amsterdam
+inu587.in.kadaster.nl,kpv,kpv-services,10.103.53.24,10.251.121.161,int,JAP_4_0_12_0,10.103.119.188,2,3.87 GB,Kadastrale Perceelsvorming (KPV),kpv-services-dar:0.0.1.1,in.kadaster.nl,28,Almere
+inu588.in.kadaster.nl,kadnl,kadnl-edit,10.103.53.25,10.251.123.60,int,JAP_4_0_12_0,10.103.119.186,1,1.96 GB,Kadaster.nl,kadnl-dar:9.20.3.27,in.kadaster.nl,28,Amsterdam
+inu589.in.kadaster.nl,bke,bke-mutatie,10.103.53.26,10.251.121.184,int,JAP_4_0_12_0,10.103.119.129,2,3.87 GB,BRK leveringen,productieservice-mutatie-dar:2.1.0.10;mutatiesensor-dar:2.0.11,in.kadaster.nl,28,Almere
+inu590.in.kadaster.nl,kadnl,kadnl-web,10.103.53.27,10.251.123.19,int,JAP_4_0_12_0,10.103.118.215,1,1.96 GB,Kadaster.nl,kadnl-dar:9.20.3.27,in.kadaster.nl,28,Amsterdam
+inu591.in.kadaster.nl,lki,lki-wdv-app,10.103.53.28,10.251.120.172,int,JAP_4_0_12_0,10.103.119.249,1,1.96 GB,LKI,wdv-dar:2.1.0.2,in.kadaster.nl,28,Almere
+inu592.in.kadaster.nl,pdok,pdok-apps,10.103.53.29,10.251.123.14,int,JAP_4_0_12_0,10.103.118.206,2,3.87 GB,PDOK,pdok-apps-dar:1.0.1.48,in.kadaster.nl,28,Amsterdam
+inu593.in.kadaster.nl,wkpb,wkpb-lv,10.103.53.30,10.251.122.90,int,JAP_4_0_12_0,10.103.119.203,1,1.96 GB,WKPB-LV,wkpb-dar:1.0.0.3,in.kadaster.nl,28,Almere
+inu594.in.kadaster.nl,pdok,pdok-dginvector,10.103.53.31,10.251.123.11,int,JAP_4_0_12_0,10.103.118.137,2,3.87 GB,PDOK,pdok-dginvector-dar:1.0.1.14,in.kadaster.nl,28,Amsterdam
+inu595.in.kadaster.nl,gds,gds-app,10.103.53.32,10.251.122.129,int,JAP_3_1_3_0,10.103.119.193,1,1.96 GB,Generieke Download Service (GDS2),gds-dar:2.7.0.8,in.kadaster.nl,31,Almere
+inu596.in.kadaster.nl,pdok,pdok-dmpublic,10.103.53.33,10.251.123.9,int,JAP_4_0_12_0,10.103.118.239,1,1.96 GB,PDOK,pdok-dmpublic-dar:3.0.0.94,in.kadaster.nl,28,Amsterdam
+inu597.in.kadaster.nl,woz,woz-pdok-koppeling,10.103.53.34,10.251.121.180,int,JAP_4_0_12_0,10.103.118.230,1,1.96 GB,LV WOZ,woz-pdok-integration-dar:1.1.0.0,in.kadaster.nl,28,Almere
+inu598.in.kadaster.nl,pdok,pdok-dmregie,10.103.53.35,10.251.123.8,int,JAP_4_0_12_0,10.103.118.223,2,3.87 GB,PDOK,pdok-dmregie-dar:3.0.0.94;pdok-catalogus:1.0.0.41,in.kadaster.nl,28,Amsterdam
+inu599.in.kadaster.nl,lvbag,lvbag-vs-audit,10.103.53.36,10.251.121.17,int,JAP_4_0_12_0,10.103.118.167,1,1.96 GB,BAG-LV,bag-audit-dar:2.13.0.3-20141120-083035,in.kadaster.nl,28,Almere
+inu600.in.kadaster.nl,pdok,pdok-geowebcache,10.103.53.37,10.251.123.6,int,JAP_4_0_12_0,10.103.119.159,2,3.87 GB,PDOK,pdok-geowebcache-dar:1.0.1.25,in.kadaster.nl,28,Amsterdam
+inu601.in.kadaster.nl,lvbag,lvbag-web,10.103.53.38,10.251.122.130,int,WSP_1_0_7_0,10.103.118.139,1,1.96 GB,BAG-LV,bag-wsp-dar:1.0.1.1-20141113-074331,in.kadaster.nl,28,Almere
+inu602.in.kadaster.nl,pdok,pdok-gsinvector,10.103.53.39,10.251.121.172,int,JAP_4_0_12_0,10.103.118.247,2,3.87 GB,PDOK,pdok-gsinvector-dar:1.0.1.79,in.kadaster.nl,28,Amsterdam
+inu603.in.kadaster.nl,bgt,bgt-app-controle,10.103.53.40,10.251.123.130,int,JAP_3_1_3_0,10.103.118.249,2,3.86 GB,BGT-LV,,in.kadaster.nl,31,Almere
+inu604.in.kadaster.nl,pdok,pdok-gsnlraster,10.103.53.41,10.251.121.170,int,JAP_4_0_12_0,10.103.118.128,2,3.87 GB,PDOK,pdok-gsnlraster-dar:1.0.1.79,in.kadaster.nl,28,Amsterdam
+inu605.in.kadaster.nl,bgt,bgt-gopubwf,10.103.53.42,10.251.123.121,int,EAP_4_1_3_0,10.103.119.164,1,1.96 GB,BGT-LV,bgt-gpw-jboss-dar:0.0.7,in.kadaster.nl,28,Almere
+inu606.in.kadaster.nl,pdok,pdok-gsnlvector,10.103.53.43,10.251.122.236,int,JAP_4_0_12_0,10.103.118.214,2,3.87 GB,PDOK,pdok-gsnlvector-dar:1.0.1.79,in.kadaster.nl,28,Amsterdam
+inu607.in.kadaster.nl,bgt,bgt-app,10.103.53.44,10.251.123.118,int,JAP_3_1_3_0,10.103.119.140,2,3.86 GB,BGT-LV,,in.kadaster.nl,31,Almere
+inu608.in.kadaster.nl,pdok,pdok-ngr,10.103.53.45,10.251.122.228,int,JAP_4_0_12_0,10.103.119.240,3,5.84 GB,PDOK,pdok-ngr-dar:1.0.1.15,in.kadaster.nl,28,Amsterdam
+inu609.in.kadaster.nl,bgt,bgt-gpw,10.103.53.46,10.251.123.239,int,JAP_4_0_12_0,10.103.119.238,2,3.87 GB,BGT-LV,,in.kadaster.nl,28,Almere
+inu610.in.kadaster.nl,pdok,pdok-intern,10.103.53.47,10.251.122.226,int,WSP_1_0_7_0,10.103.118.176,1,1.96 GB,PDOK,pdok-intern-dar:1.0.4.1,in.kadaster.nl,28,Amsterdam
+inu611.in.kadaster.nl,gaa,gaa-test-app,10.103.53.48,10.251.123.116,int,JAP_4_0_12_0,10.103.119.225,1,1.96 GB,GAA,gaa-test-app-dar:1.0.2.1,in.kadaster.nl,28,Almere
+inu612.in.kadaster.nl,bgt,bgt-app-cs,10.103.53.49,10.251.120.84,int,JAP_4_0_12_0,10.103.118.216,2,3.87 GB,BGT-LV,bgt-controle-dar:2.0.63.05,in.kadaster.nl,28,Amsterdam
+inu613.in.kadaster.nl,loc,brk-loc4,10.103.53.50,10.251.123.46,int,JAP_4_0_12_0,10.103.118.185,2,3.87 GB,BRK-BAG Locatie,brk-loc-dar:1.5.2.1-20141114-144526,in.kadaster.nl,28,Almere
+inu614.in.kadaster.nl,pdok,pdok-viewer,10.103.53.51,10.251.120.146,int,WSP_1_0_7_0,10.103.118.238,2,3.87 GB,PDOK,pdok-viewer-dar:1.0.2.57,in.kadaster.nl,28,Amsterdam
+inu616.in.kadaster.nl,woz,woz-as,10.103.53.53,10.251.122.247,int,JAP_3_1_3_0,10.103.119.195,2,3.86 GB,LV WOZ,wozas-prd-appl-dar:7.1.2.0,in.kadaster.nl,31,Amsterdam
+inu618.in.kadaster.nl,woz,woz-as-ato,10.103.53.55,10.251.121.209,int,JAP_3_1_3_0,10.103.119.223,2,3.86 GB,LV WOZ ATO,wozas-ato-appl-dar:7.1.2.0,in.kadaster.nl,31,Amsterdam
+inu620.in.kadaster.nl,woz,woz-as-ct1,10.103.53.57,10.251.122.245,int,JAP_3_1_3_0,10.103.119.176,2,3.86 GB,LV WOZ CTO,wozas-ct1-appl-dar:7.1.2.0,in.kadaster.nl,31,Amsterdam
+inu622.in.kadaster.nl,woz,woz-as-ct2,10.103.53.59,10.251.123.31,int,JAP_3_1_3_0,10.103.119.187,2,3.86 GB,LV WOZ CTO,wozas-ct2-appl-dar:7.1.2.0,in.kadaster.nl,31,Amsterdam
+inu624.in.kadaster.nl,woz,woz-as-eto,10.103.53.61,10.251.122.239,int,JAP_3_1_3_0,10.103.119.204,2,3.86 GB,LV WOZ ETO,wozas-eto-appl-dar:7.1.2.0,in.kadaster.nl,31,Amsterdam
+inu626.in.kadaster.nl,gvf,gvf-app,10.103.53.63,10.251.121.140,int,JAP_4_0_12_0,10.103.119.226,2,3.87 GB,Componenten GVF,gvf-app-dar:2.0.0.9-20141029-164429,in.kadaster.nl,28,Amsterdam
+inu628.in.kadaster.nl,woz,woz-sw,10.103.53.65,10.251.120.219,int,JAP_3_1_3_0,10.103.119.178,2,3.86 GB,LV WOZ,wozsw-prd-appl-dar:7.1.4.0,in.kadaster.nl,31,Amsterdam
+inu664.in.kadaster.nl,kpv,kpv-frontend,10.103.53.101,10.251.122.93,int,JAP_4_0_12_0,10.103.119.231,2,3.87 GB,Kadastrale Perceelsvorming (KPV),grenscorrectie-dar:0.0.44.95,in.kadaster.nl,28,Amsterdam
+inu665.in.kadaster.nl,loc,brk-lko4,10.103.53.102,10.251.123.23,int,JAP_4_0_12_0,10.103.118.237,2,3.87 GB,BRK-BAG Locatie,brk-lko-dar:1.1.6.1-20141119-094628,in.kadaster.nl,28,Almere
+inu666.in.kadaster.nl,gvf,gvf-wfs-geoserver,10.103.53.103,10.251.122.0,int,JAP_4_0_12_0,10.103.119.177,1,1.96 GB,Componenten GVF,gvf-wfs-geoserver-dar:2.0.0.5-20141014-221128,in.kadaster.nl,28,Amsterdam
+inu667.in.kadaster.nl,loc,brk-aka4,10.103.53.104,10.251.123.27,int,JAP_4_0_12_0,10.103.118.148,1,1.96 GB,BRK-BAG Locatie,brk-akra-dar:1.0.0.0-20141120-142928,in.kadaster.nl,28,Almere
+inu668.in.kadaster.nl,woz,woz-dl-uit,10.103.53.105,10.251.123.40,int,PLP_OT_1_0_9_0,10.103.119.165,2,3.86 GB,LV WOZ,,in.kadaster.nl,31,Amsterdam
+inu669.in.kadaster.nl,kadnl,kadnl-edit,10.103.53.106,10.251.123.26,int,JAP_4_0_12_0,10.103.119.186,1,1.96 GB,Kadaster.nl,kadnl-dar:9.20.3.27,in.kadaster.nl,28,Almere
+inu670.in.kadaster.nl,woz,woz-ot,10.103.53.107,10.251.121.159,int,PLP_OT_1_0_9_0,10.103.119.234,2,3.86 GB,LV WOZ,,in.kadaster.nl,31,Amsterdam
+inu671.in.kadaster.nl,kadnl,kadnl-web,10.103.53.108,10.251.123.20,int,JAP_4_0_12_0,10.103.118.215,1,1.96 GB,Kadaster.nl,kadnl-dar:9.20.3.27,in.kadaster.nl,28,Almere
+inu672.in.kadaster.nl,woz,woz-ot-ato,10.103.53.109,10.251.123.148,int,PLP_OT_1_0_9_0,10.103.119.232,2,3.86 GB,LV WOZ ATO,,in.kadaster.nl,31,Amsterdam
+inu673.in.kadaster.nl,pdok,pdok-apps,10.103.53.110,10.251.123.13,int,JAP_4_0_12_0,10.103.118.206,2,3.87 GB,PDOK,pdok-apps-dar:1.0.1.48,in.kadaster.nl,28,Almere
+inu674.in.kadaster.nl,woz,woz-ot-cto,10.103.53.111,10.251.123.186,int,PLP_OT_1_0_9_0,10.103.119.210,2,3.86 GB,LV WOZ CTO,,in.kadaster.nl,31,Amsterdam
+inu675.in.kadaster.nl,pdok,pdok-dginvector,10.103.53.112,10.251.123.12,int,JAP_4_0_12_0,10.103.118.137,2,3.87 GB,PDOK,pdok-dginvector-dar:1.0.1.14,in.kadaster.nl,28,Almere
+inu676.in.kadaster.nl,woz,woz-ot-eto,10.103.53.113,10.251.122.176,int,PLP_OT_1_0_9_0,10.103.119.247,2,3.86 GB,LV WOZ ETO,,in.kadaster.nl,31,Amsterdam
+inu677.in.kadaster.nl,pdok,pdok-dmpublic,10.103.53.114,10.251.123.10,int,JAP_4_0_12_0,10.103.118.239,1,1.96 GB,PDOK,pdok-dmpublic-dar:3.0.0.94,in.kadaster.nl,28,Almere
+inu678.in.kadaster.nl,dba,epc-db,10.103.53.115,10.251.122.231,int,HDP_1_1_2_0,10.103.118.158,2,3.86 GB,EPC,,in.kadaster.nl,151,Amsterdam
+inu679.in.kadaster.nl,pdok,pdok-dmregie,10.103.53.116,10.251.123.7,int,JAP_4_0_12_0,10.103.118.223,2,3.87 GB,PDOK,pdok-dmregie-dar:3.0.0.94;pdok-catalogus:1.0.0.41,in.kadaster.nl,28,Almere
+inu680.in.kadaster.nl,pdok,pdok-staging-tiling,10.103.53.117,10.251.122.193,int,JAP_4_0_12_0,10.103.119.150,4,3.87 GB,PDOK,pdok-staging-tiling-dar:1.0.0.20,in.kadaster.nl,28,Amsterdam
+inu681.in.kadaster.nl,pdok,pdok-geowebcache,10.103.53.118,10.251.121.171,int,JAP_4_0_12_0,10.103.119.159,2,3.87 GB,PDOK,pdok-geowebcache-dar:1.0.1.25,in.kadaster.nl,28,Almere
+inu682.in.kadaster.nl,nhr,nhr-appl,10.103.53.119,10.251.122.89,int,JAP_4_0_12_0,10.103.118.166,1,1.96 GB,OR-KR,orkr-nhr-service-dar:0.0.1.16-20141121-115101,in.kadaster.nl,28,Amsterdam
+inu683.in.kadaster.nl,pdok,pdok-gsinvector,10.103.53.120,10.251.121.168,int,JAP_4_0_12_0,10.103.118.247,2,3.87 GB,PDOK,pdok-gsinvector-dar:1.0.1.79,in.kadaster.nl,28,Almere
+inu684.in.kadaster.nl,klic,klic-adr,10.103.53.121,10.251.123.234,int,JAP_4_0_12_0,10.103.118.193,1,1.96 GB,KLIC,adr-dar:2.0.0.21,in.kadaster.nl,28,Amsterdam
+inu685.in.kadaster.nl,pdok,pdok-gsnlraster,10.103.53.122,10.251.121.173,int,JAP_4_0_12_0,10.103.118.128,2,3.87 GB,PDOK,pdok-gsnlraster-dar:1.0.1.79,in.kadaster.nl,28,Almere
+inu686.in.kadaster.nl,klic,klic-blg-zoek,10.103.53.123,10.251.123.108,int,JAP_4_0_12_0,10.103.119.212,2,3.87 GB,KLIC,blg-backend-dar:2.0.0.1,in.kadaster.nl,28,Amsterdam
+inu687.in.kadaster.nl,pdok,pdok-gsnlvector,10.103.53.124,10.251.122.235,int,JAP_4_0_12_0,10.103.118.214,2,3.87 GB,PDOK,pdok-gsnlvector-dar:1.0.1.79,in.kadaster.nl,28,Almere
+inu688.in.kadaster.nl,klic,klic-blg,10.103.53.125,10.251.123.201,int,JAP_4_0_12_0,10.103.118.129,1,1.96 GB,KLIC,blg-frontend-dar:2.0.0.19,in.kadaster.nl,28,Amsterdam
+inu689.in.kadaster.nl,pdok,pdok-ngr,10.103.53.126,10.251.122.227,int,JAP_4_0_12_0,10.103.119.240,3,5.84 GB,PDOK,pdok-ngr-dar:1.0.1.15,in.kadaster.nl,28,Almere
+inu690.in.kadaster.nl,klic,klic-gbkn,10.103.53.127,10.251.122.69,int,JAP_4_0_12_0,10.103.118.248,3,5.84 GB,KLIC,klic-gbkn-geoserver-dar:2.0.0.5,in.kadaster.nl,28,Amsterdam
+inu691.in.kadaster.nl,pdok,pdok-intern,10.103.53.128,10.251.123.73,int,WSP_1_0_7_0,10.103.118.176,1,1.96 GB,PDOK,pdok-intern-dar:1.0.4.1,in.kadaster.nl,28,Almere
+inu692.in.kadaster.nl,klic,klic-geo,10.103.53.129,10.251.122.65,int,JAP_4_0_12_0,10.103.118.196,1,1.96 GB,KLIC,klic-geoserver-dar:2.0.0.2,in.kadaster.nl,28,Amsterdam
+inu693.in.kadaster.nl,bgt,bgt-app-cs,10.103.53.130,10.251.123.145,int,JAP_4_0_12_0,10.103.118.216,2,3.87 GB,BGT-LV,bgt-controle-dar:2.0.63.05,in.kadaster.nl,28,Almere
+inu694.in.kadaster.nl,klic,klic-lev,10.103.53.131,10.251.122.64,int,JAP_4_0_12_0,10.103.119.168,2,3.87 GB,KLIC,klic-backend-dar:2.0.0.12,in.kadaster.nl,28,Amsterdam
+inu695.in.kadaster.nl,pdok,pdok-viewer,10.103.53.132,10.251.122.244,int,WSP_1_0_7_0,10.103.118.238,2,3.87 GB,PDOK,pdok-viewer-dar:1.0.2.57,in.kadaster.nl,28,Almere
+inu696.in.kadaster.nl,klic,klic-nbs,10.103.53.133,10.251.123.202,int,JAP_4_0_12_0,10.103.118.224,2,3.87 GB,KLIC,klic-netbeheerdersimulator-dar:2.0.0.4,in.kadaster.nl,28,Amsterdam
+inu697.in.kadaster.nl,woz,woz-as,10.103.53.134,10.251.123.74,int,JAP_3_1_3_0,10.103.119.195,2,3.86 GB,LV WOZ,wozas-prd-appl-dar:7.1.2.0,in.kadaster.nl,31,Almere
+inu698.in.kadaster.nl,klic,klic-ntd,10.103.53.135,10.251.123.71,int,JAP_4_0_12_0,10.103.118.205,2,3.87 GB,KLIC,klic-ntd-dar:2.0.0.7,in.kadaster.nl,28,Amsterdam
+inu699.in.kadaster.nl,woz,woz-as-ato,10.103.53.136,10.251.121.196,int,JAP_3_1_3_0,10.103.119.223,2,3.86 GB,LV WOZ ATO,wozas-ato-appl-dar:7.1.2.0,in.kadaster.nl,31,Almere
+inu800.in.kadaster.nl,klic,klic-poc,10.103.53.137,10.251.122.29,int,JAP_4_0_12_0,10.103.119.220,1,1.96 GB,KLIC,,in.kadaster.nl,28,Amsterdam
+inu801.in.kadaster.nl,woz,woz-as-ct1,10.103.53.138,10.251.123.36,int,JAP_3_1_3_0,10.103.119.176,2,3.86 GB,LV WOZ CTO,wozas-ct1-appl-dar:7.1.2.0,in.kadaster.nl,31,Almere
+inu802.in.kadaster.nl,klic,klic-web,10.103.53.139,10.251.121.222,int,JAP_4_0_12_0,10.103.118.204,2,3.87 GB,KLIC,klic-frontend-dar:2.0.0.25,in.kadaster.nl,28,Amsterdam
+inu803.in.kadaster.nl,woz,woz-as-ct2,10.103.53.140,10.251.123.59,int,JAP_3_1_3_0,10.103.119.187,2,3.86 GB,LV WOZ CTO,wozas-ct2-appl-dar:7.1.2.0,in.kadaster.nl,31,Almere
+inu804.in.kadaster.nl,gds,gds-app4,10.103.53.141,10.251.123.102,int,JAP_4_0_12_0,10.103.119.148,1,1.96 GB,Generieke Download Service (GDS2),gds-dar:3.0.0.10,in.kadaster.nl,28,Amsterdam
+inu805.in.kadaster.nl,woz,woz-as-eto,10.103.53.142,10.251.123.24,int,JAP_3_1_3_0,10.103.119.204,2,3.86 GB,LV WOZ ETO,wozas-eto-appl-dar:7.1.2.0,in.kadaster.nl,31,Almere
+inu806.in.kadaster.nl,lvwkpb,lvwkpb-all,10.103.53.143,10.251.123.158,int,JAP_4_0_12_0,10.103.119.200,1,1.96 GB,WKPB-LV,wkpb-dar:1.0.0.6,in.kadaster.nl,28,Amsterdam
+inu807.in.kadaster.nl,gvf,gvf-app,10.103.53.144,10.251.122.1,int,JAP_4_0_12_0,10.103.119.226,2,3.87 GB,Componenten GVF,gvf-app-dar:2.0.0.9-20141029-164429,in.kadaster.nl,28,Almere
+inu808.in.kadaster.nl,lvwkpb,lvwkpb-web,10.103.53.145,10.251.123.106,int,WSP_1_0_7_0,10.103.119.149,1,1.96 GB,WKPB-LV,,in.kadaster.nl,28,Amsterdam
+inu809.in.kadaster.nl,woz,woz-sw,10.103.53.146,10.251.122.200,int,JAP_3_1_3_0,10.103.119.178,2,3.86 GB,LV WOZ,wozsw-prd-appl-dar:7.1.4.0,in.kadaster.nl,31,Almere
+inu810.in.kadaster.nl,gvf,gvf-wms-geoserver,10.103.53.147,10.251.121.137,int,JAP_4_0_12_0,10.103.118.195,1,1.96 GB,Componenten GVF,gvf-wms-geoserver-dar:2.0.0.5-20141014-221131,in.kadaster.nl,28,Amsterdam
+inu811.in.kadaster.nl,kpv,kpv-frontend,10.103.53.148,10.251.122.99,int,JAP_4_0_12_0,10.103.119.231,2,3.87 GB,Kadastrale Perceelsvorming (KPV),grenscorrectie-dar:0.0.44.95,in.kadaster.nl,28,Almere
+inu812.in.kadaster.nl,bke,bke-stand,10.103.53.149,10.251.121.185,int,JAP_4_0_12_0,10.103.118.165,2,3.87 GB,BRK leveringen,productieservice-stand-dar:2.1.0.13,in.kadaster.nl,28,Amsterdam
+inu813.in.kadaster.nl,gvf,gvf-wfs-geoserver,10.103.53.150,10.251.121.139,int,JAP_4_0_12_0,10.103.119.177,1,1.96 GB,Componenten GVF,gvf-wfs-geoserver-dar:2.0.0.5-20141014-221128,in.kadaster.nl,28,Almere
+inu814.in.kadaster.nl,bke,bke-ggi,10.103.53.151,10.251.121.188,int,JAP_4_0_12_0,10.103.118.221,1,1.96 GB,BRK leveringen,leveringservice-dar:0.0.25;eventmanager-dar:0.0.0.9,in.kadaster.nl,28,Amsterdam
+inu815.in.kadaster.nl,woz,woz-dl-uit,10.103.53.152,10.251.122.205,int,PLP_OT_1_0_9_0,10.103.119.165,2,3.86 GB,LV WOZ,,in.kadaster.nl,31,Almere
+inu816.in.kadaster.nl,bke,bke-bestelgebied,10.103.53.153,10.251.121.250,int,JAP_4_0_12_0,10.103.119.211,2,3.87 GB,BRK leveringen,gebied-beheer-dar:0.0.0.9,in.kadaster.nl,28,Amsterdam
+inu817.in.kadaster.nl,woz,woz-ot,10.103.53.154,10.251.123.149,int,PLP_OT_1_0_9_0,10.103.119.234,2,3.86 GB,LV WOZ,,in.kadaster.nl,31,Almere
+inu818.in.kadaster.nl,lvbag,lvbag-digilevering,10.103.53.155,10.251.122.141,int,JAP_4_0_12_0,10.103.119.248,1,1.96 GB,BAG-LV,,in.kadaster.nl,28,Amsterdam
+inu819.in.kadaster.nl,woz,woz-ot-ato,10.103.53.156,10.251.122.185,int,PLP_OT_1_0_9_0,10.103.119.232,2,3.86 GB,LV WOZ ATO,,in.kadaster.nl,31,Almere
+inu820.in.kadaster.nl,kpv,kpv-process,10.103.53.157,10.251.120.222,int,JAP_4_0_12_0,10.103.119.131,2,3.87 GB,Kadastrale Perceelsvorming (KPV),,in.kadaster.nl,28,Amsterdam
+inu821.in.kadaster.nl,woz,woz-ot-cto,10.103.53.158,10.251.123.185,int,PLP_OT_1_0_9_0,10.103.119.210,2,3.86 GB,LV WOZ CTO,,in.kadaster.nl,31,Almere
+inu822.in.kadaster.nl,kpv,kpv-web,10.103.53.159,10.251.120.187,int,WSP_1_0_7_0,10.103.119.250,2,3.87 GB,Kadastrale Perceelsvorming (KPV),kpv-web-dar:0.0.1.0,in.kadaster.nl,28,Amsterdam
+inu823.in.kadaster.nl,woz,woz-ot-eto,10.103.53.160,10.251.122.187,int,PLP_OT_1_0_9_0,10.103.119.247,2,3.86 GB,LV WOZ ETO,,in.kadaster.nl,31,Almere
+inu824.in.kadaster.nl,lvbag,lvbag-vs-em,10.103.53.161,10.251.121.54,int,JAP_4_0_12_0,10.103.118.130,1,1.96 GB,BAG-LV,bag-viewer-dar:0.0.0.1-20141109-111724,in.kadaster.nl,28,Amsterdam
+inu825.in.kadaster.nl,pdok,pdok-staging-tiling,10.103.53.162,10.251.122.194,int,JAP_4_0_12_0,10.103.119.150,4,3.87 GB,PDOK,pdok-staging-tiling-dar:1.0.0.20,in.kadaster.nl,28,Almere
+inu826.in.kadaster.nl,bgt,bgt-app-rs,10.103.53.163,10.251.120.101,int,JAP_4_0_12_0,10.103.118.240,2,3.87 GB,BGT-LV,bgt-dar:2.0.63.05,in.kadaster.nl,28,Amsterdam
+inu827.in.kadaster.nl,nhr,nhr-appl,10.103.53.164,10.251.123.67,int,JAP_4_0_12_0,10.103.118.166,1,1.96 GB,OR-KR,orkr-nhr-service-dar:0.0.1.16-20141121-115101,in.kadaster.nl,28,Almere
+inu829.in.kadaster.nl,klic,klic-adr,10.103.53.166,10.251.123.109,int,JAP_4_0_12_0,10.103.118.193,1,1.96 GB,KLIC,adr-dar:2.0.0.21,in.kadaster.nl,28,Almere
+inu831.in.kadaster.nl,klic,klic-blg-zoek,10.103.53.168,10.251.120.119,int,JAP_4_0_12_0,10.103.119.212,2,3.87 GB,KLIC,blg-backend-dar:2.0.0.1,in.kadaster.nl,28,Almere
+inu833.in.kadaster.nl,klic,klic-blg,10.103.53.170,10.251.123.33,int,JAP_4_0_12_0,10.103.118.129,1,1.96 GB,KLIC,blg-frontend-dar:2.0.0.19,in.kadaster.nl,28,Almere
+inu835.in.kadaster.nl,klic,klic-gbkn,10.103.53.172,10.251.122.67,int,JAP_4_0_12_0,10.103.118.248,3,5.84 GB,KLIC,klic-gbkn-geoserver-dar:2.0.0.5,in.kadaster.nl,28,Almere
+inu837.in.kadaster.nl,klic,klic-geo,10.103.53.174,10.251.122.66,int,JAP_4_0_12_0,10.103.118.196,1,1.96 GB,KLIC,klic-geoserver-dar:2.0.0.2,in.kadaster.nl,28,Almere
+inu839.in.kadaster.nl,klic,klic-lev,10.103.53.176,10.251.122.63,int,JAP_4_0_12_0,10.103.119.168,2,3.87 GB,KLIC,klic-backend-dar:2.0.0.12,in.kadaster.nl,28,Almere
+inu841.in.kadaster.nl,klic,klic-nbs,10.103.53.178,10.251.123.139,int,JAP_4_0_12_0,10.103.118.224,2,3.87 GB,KLIC,klic-netbeheerdersimulator-dar:2.0.0.4,in.kadaster.nl,28,Almere
+inu843.in.kadaster.nl,klic,klic-ntd,10.103.53.180,10.251.122.50,int,JAP_4_0_12_0,10.103.118.205,2,3.87 GB,KLIC,klic-ntd-dar:2.0.0.7,in.kadaster.nl,28,Almere
+inu845.in.kadaster.nl,klic,klic-poc,10.103.53.182,10.251.122.17,int,JAP_4_0_12_0,10.103.119.220,1,1.96 GB,KLIC,,in.kadaster.nl,28,Almere
+inu847.in.kadaster.nl,klic,klic-web,10.103.53.184,10.251.122.13,int,JAP_4_0_12_0,10.103.118.204,2,3.87 GB,KLIC,klic-frontend-dar:2.0.0.25,in.kadaster.nl,28,Almere
+inu849.in.kadaster.nl,gds,gds-app4,10.103.53.186,10.251.123.160,int,JAP_4_0_12_0,10.103.119.148,1,1.96 GB,Generieke Download Service (GDS2),gds-dar:3.0.0.10,in.kadaster.nl,28,Almere
+inu851.in.kadaster.nl,lvwkpb,lvwkpb-all,10.103.53.188,10.251.123.92,int,JAP_4_0_12_0,10.103.119.200,1,1.96 GB,WKPB-LV,wkpb-dar:1.0.0.6,in.kadaster.nl,28,Almere
+inu853.in.kadaster.nl,lvwkpb,lvwkpb-web,10.103.53.190,10.251.123.135,int,WSP_1_0_7_0,10.103.119.149,1,1.96 GB,WKPB-LV,,in.kadaster.nl,28,Almere
+inu855.in.kadaster.nl,gvf,gvf-wms-geoserver,10.103.53.192,10.251.121.141,int,JAP_4_0_12_0,10.103.118.195,1,1.96 GB,Componenten GVF,gvf-wms-geoserver-dar:2.0.0.5-20141014-221131,in.kadaster.nl,28,Almere
+inu857.in.kadaster.nl,bke,bke-stand,10.103.53.194,10.251.121.174,int,JAP_4_0_12_0,10.103.118.165,2,3.87 GB,BRK leveringen,productieservice-stand-dar:2.1.0.13,in.kadaster.nl,28,Almere
+inu859.in.kadaster.nl,bke,bke-ggi,10.103.53.196,10.251.121.175,int,JAP_4_0_12_0,10.103.118.221,1,1.96 GB,BRK leveringen,leveringservice-dar:0.0.25;eventmanager-dar:0.0.0.9,in.kadaster.nl,28,Almere
+inu861.in.kadaster.nl,bke,bke-bestelgebied,10.103.53.198,10.251.121.186,int,JAP_4_0_12_0,10.103.119.211,2,3.87 GB,BRK leveringen,gebied-beheer-dar:0.0.0.9,in.kadaster.nl,28,Almere
+inu863.in.kadaster.nl,lvbag,lvbag-digilevering,10.103.53.200,10.251.123.154,int,JAP_4_0_12_0,10.103.119.248,1,1.96 GB,BAG-LV,,in.kadaster.nl,28,Almere
+inu865.in.kadaster.nl,kpv,kpv-process,10.103.53.202,10.251.120.221,int,JAP_4_0_12_0,10.103.119.131,2,3.87 GB,Kadastrale Perceelsvorming (KPV),,in.kadaster.nl,28,Almere
+inu867.in.kadaster.nl,kpv,kpv-web,10.103.53.204,10.251.121.86,int,WSP_1_0_7_0,10.103.119.250,2,3.87 GB,Kadastrale Perceelsvorming (KPV),kpv-web-dar:0.0.1.0,in.kadaster.nl,28,Almere
+inu869.in.kadaster.nl,lvbag,lvbag-vs-em,10.103.53.206,10.251.120.162,int,JAP_4_0_12_0,10.103.118.130,1,1.96 GB,BAG-LV,bag-viewer-dar:0.0.0.1-20141109-111724,in.kadaster.nl,28,Almere
+inu871.in.kadaster.nl,bgt,bgt-app-rs,10.103.53.208,10.251.120.77,int,JAP_4_0_12_0,10.103.118.240,2,3.87 GB,BGT-LV,bgt-dar:2.0.63.05,in.kadaster.nl,28,Almere
+provisioning-plp-1.bhr.kadaster.nl,plp,puppetmaster,10.250.123.109,,bhr,PLP_BEHEER_2_0_21_0,,8,7.69 GB,PLP beheertooling,,bhr.kadaster.nl,65,Amsterdam
+provisioning-plp-2.bhr.kadaster.nl,plp,puppetmaster,10.250.123.108,,bhr,PLP_BEHEER_2_0_21_0,,8,7.69 GB,PLP beheertooling,,bhr.kadaster.nl,65,Almere
+provisioning-plp-db.bhr.kadaster.nl,plp,puppetdb,10.250.123.107,,bhr,PLP_BEHEER_2_0_21_0,,8,7.69 GB,PLP beheertooling,,bhr.kadaster.nl,265,Amsterdam
+sou283.so.kadaster.nl,splits,splits-geos-perc-wms,10.103.8.83,10.251.122.114,ont,JAP_4_0_12_0,10.103.118.91,3,5.84 GB,Kadastrale Perceelsvorming (KPV),splits-perceel-wms-geoserver-dar:4.1.1.4,so.kadaster.nl,28,Almere
+sou285.so.kadaster.nl,gvf,gvf-app,10.103.8.85,10.251.121.146,ont,JAP_4_0_12_0,10.103.119.43,2,3.87 GB,Componenten GVF,gvf-app-dar:2.0.0.9-20141029-164429,so.kadaster.nl,28,Almere
+sou289.so.kadaster.nl,javateam,java-example-jap4,10.103.8.89,10.251.120.87,ont,JAP_4_0_12_0,10.103.119.58,1,1.96 GB,GAA,java-example-app-dar:2.0.0.9-20140730-095502,so.kadaster.nl,28,Almere
+sou293.so.kadaster.nl,roo,web1,10.103.8.93,10.251.120.184,ont,PLP_ROO_1_0_12_0,10.103.119.124,1,1.96 GB,RO-online,,so.kadaster.nl,28,Almere
+sou294.so.kadaster.nl,lvwkpb,lvwkpb-all,10.103.8.94,10.251.123.194,ont,JAP_4_0_12_0,10.103.118.73,1,1.96 GB,WKPB-LV,wkpb-dar:1.0.0.6,so.kadaster.nl,28,Amsterdam
+sou295.so.kadaster.nl,ota,ota-javatest,10.103.8.95,10.251.123.179,ont,JAP_4_0_12_0,10.103.118.31,2,3.87 GB,OTA,jenkins-ci:1.583.0.0,so.kadaster.nl,28,Almere
+sou296.so.kadaster.nl,gima,gima-yoda3,10.103.8.96,10.251.120.74,ont,PLP_YODA_1_0_5_0,,4,15.70 GB,GIS Maatwerk Werkomgeving,,so.kadaster.nl,528,Amsterdam
+sou298.so.kadaster.nl,ota,ota-dotnetbuild-nfs,10.103.8.98,10.251.120.167,ont,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP Kadaster beheertooling,jenkins-ci:1.583.0.1,so.kadaster.nl,328,Amsterdam
+sou300.so.kadaster.nl,gvf,gvf-wms-geoserver,10.103.8.100,10.251.122.32,ont,JAP_4_0_12_0,10.103.119.67,1,1.96 GB,Componenten GVF,gvf-wms-geoserver-dar:2.0.0.5-20141014-221131,so.kadaster.nl,28,Amsterdam
+sou303.so.kadaster.nl,bke,bke-stand,10.103.8.103,10.251.122.174,ont,JAP_4_0_12_0,10.103.118.32,2,3.87 GB,BRK leveringen,productieservice-stand-dar:2.1.0.14-20141120-235704,so.kadaster.nl,28,Almere
+sou304.so.kadaster.nl,gima,gima-maatwerk,10.103.8.104,10.251.122.111,ont,WSP_1_0_7_0,10.103.118.74,1,1.96 GB,GIS Maatwerk Werkomgeving,,so.kadaster.nl,28,Amsterdam
+sou313.so.kadaster.nl,bgt,bgt-app-cs,10.103.8.113,10.251.120.98,ont,JAP_4_0_12_0,10.103.118.75,2,3.87 GB,BGT-LV,,so.kadaster.nl,28,Almere
+sou317.so.kadaster.nl,dba,pdokdb,10.103.8.117,10.251.123.207,ont,HDP_1_1_2_0,10.103.119.6,2,3.86 GB,PDOK,,so.kadaster.nl,388,Almere
+sou320.so.kadaster.nl,gima,gima-yoda5,10.103.8.120,10.251.120.93,ont,PLP_YODA_1_0_5_0,,4,15.70 GB,GIS Maatwerk Werkomgeving,,so.kadaster.nl,528,Amsterdam
+sou323.so.kadaster.nl,dba,wkpbo,10.103.8.123,10.251.123.177,ont,HDP_1_1_2_0,10.103.119.46,2,3.86 GB,WKPB-LV,,so.kadaster.nl,148,Almere
+sou330.so.kadaster.nl,jap,jap-platform-4,10.103.8.130,10.251.122.177,ont,JAP_4_0_12_0,10.103.119.28,1,1.96 GB,PLP beheertooling,,so.kadaster.nl,28,Amsterdam
+sou332.so.kadaster.nl,kpv,kpv-frontend,10.103.8.132,10.251.122.106,ont,JAP_4_0_12_0,10.103.119.96,2,3.87 GB,Kadastrale Perceelsvorming (KPV),grenscorrectie-dar:0.0.44.95,so.kadaster.nl,28,Amsterdam
+sou338.so.kadaster.nl,gds,gds-app4,10.103.8.138,10.251.123.103,ont,JAP_4_0_12_0,10.103.119.64,1,1.96 GB,Generieke Download Service (GDS2),gds-dar:3.0.0.10,so.kadaster.nl,28,Amsterdam
+sou339.so.kadaster.nl,pdok,pdok-nfs,10.103.8.139,10.251.122.153,ont,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP Kadaster beheertooling,pdok-nfs-dar:1.0.1.6;pdok-nfstiles-dar:1.0.0.0,so.kadaster.nl,1293,Almere
+sou342.so.kadaster.nl,bgt,bgt-app-cs,10.103.8.142,10.251.120.99,ont,JAP_4_0_12_0,10.103.118.75,2,3.87 GB,BGT-LV,,so.kadaster.nl,28,Amsterdam
+sou345.so.kadaster.nl,jap,jap-platform-3,10.103.8.145,10.251.121.128,ont,JAP_3_1_3_0,10.103.118.110,1,1.96 GB,PLP beheertooling,,so.kadaster.nl,31,Almere
+sou348.so.kadaster.nl,gvf,gvf-wfs-geoserver,10.103.8.148,10.251.121.144,ont,JAP_4_0_12_0,10.103.118.12,1,1.96 GB,Componenten GVF,gvf-wfs-geoserver-dar:2.0.0.5-20141014-221128,so.kadaster.nl,28,Amsterdam
+sou355.so.kadaster.nl,jap,jap-nfs,10.103.8.155,10.251.121.33,ont,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP Kadaster beheertooling,,so.kadaster.nl,38,Almere
+sou357.so.kadaster.nl,kpv,kpv-services,10.103.8.157,10.251.121.148,ont,JAP_4_0_12_0,10.103.118.40,2,3.87 GB,Kadastrale Perceelsvorming (KPV),kpv-services-dar:0.0.1.1,so.kadaster.nl,28,Almere
+sou367.so.kadaster.nl,dba,dbproxy-ora,10.103.8.167,10.251.123.162,ont,PLP_ORA_2_0_1_0,,1,1.83 GB,PLP beheertooling,brk-mutatieservice-dar:1.4.0.20;grenscorrectie-dar:0.0.0.60;brk-akra-dar:1.0.0.0-20141121-064222;brk-lko-dar:1.1.6.1-20141121-064222;dbo-bhd-dar:1.1.0.2;splits-dar:4.1.1.7,so.kadaster.nl,65,Almere
+sou368.so.kadaster.nl,kik,kik-inzage,10.103.8.168,10.251.121.169,ont,JAP_4_0_12_0,10.103.118.94,1,1.96 GB,KIK Inzage (obv POL),kikinzage-dar:2.0.0.6,so.kadaster.nl,28,Amsterdam
+sou370.so.kadaster.nl,javateam,java-example-jap4,10.103.8.170,10.251.120.89,ont,JAP_4_0_12_0,10.103.119.58,1,1.96 GB,GAA,java-example-app-dar:2.0.0.9-20140730-095502,so.kadaster.nl,28,Amsterdam
+sou374.so.kadaster.nl,plp,jap-yoda1,10.103.8.174,10.251.122.248,ont,PLP_YODA_1_0_5_0,,2,3.87 GB,PLP beheertooling,,so.kadaster.nl,128,Amsterdam
+sou375.so.kadaster.nl,gds,gds-app4,10.103.8.175,10.251.123.107,ont,JAP_4_0_12_0,10.103.119.64,1,1.96 GB,Generieke Download Service (GDS2),gds-dar:3.0.0.10,so.kadaster.nl,28,Almere
+sou376.so.kadaster.nl,gvf,gvf-app,10.103.8.176,10.251.122.45,ont,JAP_4_0_12_0,10.103.119.43,2,3.87 GB,Componenten GVF,gvf-app-dar:2.0.0.9-20141029-164429,so.kadaster.nl,28,Amsterdam
+sou381.so.kadaster.nl,dba,pemsrvr,10.103.8.181,10.251.123.137,ont,HDP_1_1_2_0,,2,3.86 GB,PLP beheertooling,,so.kadaster.nl,148,Almere
+sou383.so.kadaster.nl,ota,ota-nfs,10.103.8.183,10.251.123.138,ont,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP Kadaster beheertooling,jenkins-ci:1.583.0.1,so.kadaster.nl,115,Almere
+sou385.so.kadaster.nl,kpv,kpv-frontend-opl,10.103.8.185,10.251.121.249,ont,JAP_4_0_12_0,10.103.118.68,2,3.87 GB,Kadastrale Perceelsvorming (KPV),grenscorrectie-eto-dar:0.0.44.95,so.kadaster.nl,28,Almere
+sou389.so.kadaster.nl,kpv,kpv-frontend,10.103.8.189,10.251.122.92,ont,JAP_4_0_12_0,10.103.119.96,2,3.87 GB,Kadastrale Perceelsvorming (KPV),grenscorrectie-dar:0.0.44.95,so.kadaster.nl,28,Almere
+sou390.so.kadaster.nl,splits,splits-geos-perc-wms,10.103.8.190,10.251.121.30,ont,JAP_4_0_12_0,10.103.118.91,3,5.84 GB,Kadastrale Perceelsvorming (KPV),splits-perceel-wms-geoserver-dar:4.1.1.4,so.kadaster.nl,28,Amsterdam
+sou392.so.kadaster.nl,splits,splits-geos-gbkn-wfs,10.103.8.192,10.251.120.135,ont,JAP_4_0_12_0,10.103.118.65,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-gbkn-wfs-geoserver-dar:4.1.0.3,so.kadaster.nl,28,Amsterdam
+sou395.so.kadaster.nl,dba,pdoko,10.103.8.195,10.251.123.128,ont,HDP_1_1_2_0,10.103.119.40,2,3.86 GB,PDOK,,so.kadaster.nl,158,Almere
+sou396.so.kadaster.nl,dba,pdok-appsdb,10.103.8.196,10.251.120.90,ont,HDP_1_1_2_0,10.103.118.3,2,3.86 GB,PDOK,,so.kadaster.nl,151,Amsterdam
+sou397.so.kadaster.nl,kadnl,kadnl-nfs,10.103.8.197,10.251.120.195,ont,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP Kadaster beheertooling,,so.kadaster.nl,38,Almere
+sou398.so.kadaster.nl,ota,ota-javatest-nfs,10.103.8.198,10.251.121.102,ont,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP Kadaster beheertooling,jenkins-ci:1.583.0.0,so.kadaster.nl,328,Amsterdam
+sou403.so.kadaster.nl,bke,bke-ggi,10.103.8.203,10.251.122.145,ont,JAP_4_0_12_0,10.103.118.100,1,1.96 GB,BRK leveringen,leveringservice-dar:0.0.24-20141118-121251;eventmanager-dar:0.0.0.9-20140919-102457,so.kadaster.nl,28,Almere
+sou404.so.kadaster.nl,bke,bke-bestelgebied,10.103.8.204,10.251.122.143,ont,JAP_4_0_12_0,10.103.119.48,2,3.87 GB,BRK leveringen,gebied-beheer-dar:0.0.0.10-20141120-223038,so.kadaster.nl,28,Amsterdam
+sou408.so.kadaster.nl,gima,gima-yoda1,10.103.8.208,10.251.123.219,ont,PLP_YODA_1_0_5_0,,4,3.87 GB,GIS Maatwerk Werkomgeving,,so.kadaster.nl,128,Amsterdam
+sou413.so.kadaster.nl,kpv,kpv-web,10.103.8.213,10.251.122.107,ont,WSP_1_0_7_0,10.103.118.103,2,3.87 GB,Kadastrale Perceelsvorming (KPV),kpv-web-dar:0.0.1.0,so.kadaster.nl,28,Almere
+sou414.so.kadaster.nl,ota,ota-svn,10.103.8.214,10.251.120.240,ont,PLP_BEHEER_2_0_21_0,,2,3.87 GB,OTA,,so.kadaster.nl,328,Amsterdam
+sou419.so.kadaster.nl,splits,splits-geos-gbkn-wms,10.103.8.219,10.251.120.136,ont,JAP_4_0_12_0,10.103.118.37,3,5.84 GB,Kadastrale Perceelsvorming (KPV),splits-gbkn-wms-geoserver-dar:4.1.1.2-20141103-163922,so.kadaster.nl,28,Almere
+sou420.so.kadaster.nl,gima,gima-yoda2,10.103.8.220,10.251.120.75,ont,PLP_YODA_1_0_5_0,,4,15.70 GB,GIS Maatwerk Werkomgeving,,so.kadaster.nl,528,Amsterdam
+sou422.so.kadaster.nl,ota,ota-dotnetbuild,10.103.8.222,10.251.123.252,ont,JAP_4_0_12_0,10.103.118.83,2,3.87 GB,OTA,jenkins-ci:1.583.0.1,so.kadaster.nl,28,Amsterdam
+sou427.so.kadaster.nl,pdok,pdok-fme,10.103.8.227,10.251.121.41,ont,PLP_PDOK_1_0_7_0,,1,1.96 GB,PDOK,,so.kadaster.nl,165,Almere
+sou429.so.kadaster.nl,lvwkpb,lvwkpb-all,10.103.8.229,10.251.123.159,ont,JAP_4_0_12_0,10.103.118.73,1,1.96 GB,WKPB-LV,wkpb-dar:1.0.0.6,so.kadaster.nl,28,Almere
+sou431.so.kadaster.nl,bke,bke-mutatie,10.103.8.231,10.251.122.139,ont,JAP_4_0_12_0,10.103.118.84,2,3.87 GB,BRK leveringen,productieservice-mutatie-dar:2.1.0.11-20141121-000723;mutatiesensor-dar:2.0.11,so.kadaster.nl,28,Almere
+sou432.so.kadaster.nl,bke,bke-stand,10.103.8.232,10.251.122.138,ont,JAP_4_0_12_0,10.103.118.32,2,3.87 GB,BRK leveringen,productieservice-stand-dar:2.1.0.14-20141120-235704,so.kadaster.nl,28,Amsterdam
+sou439.so.kadaster.nl,gvf,gvf-wfs-geoserver,10.103.8.239,10.251.121.147,ont,JAP_4_0_12_0,10.103.118.12,1,1.96 GB,Componenten GVF,gvf-wfs-geoserver-dar:2.0.0.5-20141014-221128,so.kadaster.nl,28,Almere
+sou441.so.kadaster.nl,kpv,kpv-process,10.103.8.241,10.251.122.110,ont,JAP_4_0_12_0,10.103.118.51,2,3.87 GB,Kadastrale Perceelsvorming (KPV),,so.kadaster.nl,28,Almere
+sou442.so.kadaster.nl,kpv,kpv-web,10.103.8.242,10.251.123.171,ont,WSP_1_0_7_0,10.103.118.103,2,3.87 GB,Kadastrale Perceelsvorming (KPV),kpv-web-dar:0.0.1.0,so.kadaster.nl,28,Amsterdam
+sou449.so.kadaster.nl,lvbag,lvbag-digilevering,10.103.8.249,10.251.123.57,ont,JAP_4_0_12_0,10.103.118.122,1,1.96 GB,BAG-LV,bag-digilevering-dar:2.0.0.5,so.kadaster.nl,28,Almere
+sou450.so.kadaster.nl,lvbag,lvbag-digilevering,10.103.8.250,10.251.121.0,ont,JAP_4_0_12_0,10.103.118.122,1,1.96 GB,BAG-LV,bag-digilevering-dar:2.0.0.5,so.kadaster.nl,28,Amsterdam
+sou458.so.kadaster.nl,lvbag,lvbag-vs-em,10.103.8.4,10.251.122.98,ont,JAP_4_0_12_0,10.103.118.59,1,1.96 GB,BAG-LV,bag-viewer-dar:0.0.0.1-20141114-095546,so.kadaster.nl,28,Amsterdam
+sou459.so.kadaster.nl,kik,kik-inzage,10.103.8.5,10.251.123.4,ont,JAP_4_0_12_0,10.103.118.94,1,1.96 GB,KIK Inzage (obv POL),kikinzage-dar:2.0.0.6,so.kadaster.nl,28,Almere
+sou460.so.kadaster.nl,bke,bke-ggi,10.103.8.6,10.251.122.144,ont,JAP_4_0_12_0,10.103.118.100,1,1.96 GB,BRK leveringen,leveringservice-dar:0.0.24-20141118-121251;eventmanager-dar:0.0.0.9-20140919-102457,so.kadaster.nl,28,Amsterdam
+sou462.so.kadaster.nl,jap,jap-wsp,10.103.8.8,10.251.121.49,ont,WSP_1_0_7_0,10.103.118.82,1,1.96 GB,PLP beheertooling,cdit-dashboard-dar:1.0.0.26,so.kadaster.nl,28,Amsterdam
+sou467.so.kadaster.nl,gvf,gvf-wms-geoserver,10.103.8.13,10.251.122.16,ont,JAP_4_0_12_0,10.103.119.67,1,1.96 GB,Componenten GVF,gvf-wms-geoserver-dar:2.0.0.5-20141014-221131,so.kadaster.nl,28,Almere
+sou468.so.kadaster.nl,dba,dba-pgtest-brec,10.103.8.14,10.251.121.124,ont,HDP_1_1_2_0,10.103.118.42,2,3.86 GB,DC beheertooling,,so.kadaster.nl,151,Amsterdam
+sou470.so.kadaster.nl,java,java-yoda1,10.103.8.16,10.251.120.255,ont,PLP_YODA_1_0_5_0,,1,1.96 GB,OTA,,so.kadaster.nl,48,Amsterdam
+sou472.so.kadaster.nl,splits,splits-geos-gbkn-wms,10.103.8.18,10.251.122.117,ont,JAP_4_0_12_0,10.103.118.37,3,5.84 GB,Kadastrale Perceelsvorming (KPV),splits-gbkn-wms-geoserver-dar:4.1.1.2-20141103-163922,so.kadaster.nl,28,Amsterdam
+sou473.so.kadaster.nl,jap,jap-platform-4,10.103.8.19,10.251.121.160,ont,JAP_4_0_12_0,10.103.119.28,1,1.96 GB,PLP beheertooling,,so.kadaster.nl,28,Almere
+sou474.so.kadaster.nl,lki,lki-process,10.103.8.20,10.251.122.105,ont,JAP_4_0_12_0,10.103.119.38,2,3.87 GB,LKI,brk-fingis-mutatieservice-dar:1.3.0.4,so.kadaster.nl,28,Amsterdam
+sou475.so.kadaster.nl,splits,splits-geos-perc-wfs,10.103.8.21,10.251.122.115,ont,JAP_4_0_12_0,10.103.118.9,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-perceel-wfs-geoserver-dar:4.1.1.2,so.kadaster.nl,28,Almere
+sou476.so.kadaster.nl,kpv,kpv-frontend-opl,10.103.8.22,10.251.122.3,ont,JAP_4_0_12_0,10.103.118.68,2,3.87 GB,Kadastrale Perceelsvorming (KPV),grenscorrectie-eto-dar:0.0.44.95,so.kadaster.nl,28,Amsterdam
+sou477.so.kadaster.nl,ota,ota-dotnetbuild,10.103.8.23,10.251.123.203,ont,JAP_4_0_12_0,10.103.118.83,2,3.87 GB,OTA,jenkins-ci:1.583.0.1,so.kadaster.nl,28,Almere
+sou478.so.kadaster.nl,gima,gima-yoda4,10.103.8.24,10.251.120.97,ont,PLP_YODA_1_0_5_0,,4,15.70 GB,GIS Maatwerk Werkomgeving,,so.kadaster.nl,528,Amsterdam
+sou480.so.kadaster.nl,wov,wov-app,10.103.8.26,10.251.122.113,ont,JAP_4_0_12_0,10.103.119.105,1,1.96 GB,WOZ-viewer,woz-viewer-dar:2.1.0.4-20141120-164243,so.kadaster.nl,28,Amsterdam
+sou486.so.kadaster.nl,ota,ota-javatest,10.103.8.32,10.251.123.195,ont,JAP_4_0_12_0,10.103.118.31,2,3.87 GB,OTA,jenkins-ci:1.583.0.0,so.kadaster.nl,28,Amsterdam
+sou487.so.kadaster.nl,dba,dba-pgtest-brec,10.103.8.33,10.251.123.157,ont,HDP_1_1_2_0,10.103.118.42,2,3.86 GB,DC beheertooling,,so.kadaster.nl,151,Almere
+sou489.so.kadaster.nl,bke,bke-bestelgebied,10.103.8.35,10.251.122.169,ont,JAP_4_0_12_0,10.103.119.48,2,3.87 GB,BRK leveringen,gebied-beheer-dar:0.0.0.10-20141120-223038,so.kadaster.nl,28,Almere
+sou490.so.kadaster.nl,jap,jap-platform-3,10.103.8.36,10.251.120.241,ont,JAP_3_1_3_0,10.103.118.110,1,1.96 GB,PLP beheertooling,,so.kadaster.nl,31,Amsterdam
+sou491.so.kadaster.nl,wov,wov-app,10.103.8.37,10.251.122.101,ont,JAP_4_0_12_0,10.103.119.105,1,1.96 GB,WOZ-viewer,woz-viewer-dar:2.1.0.4-20141120-164243,so.kadaster.nl,28,Almere
+sou495.so.kadaster.nl,lvbag,lvbag-vs-em,10.103.8.41,10.251.120.176,ont,JAP_4_0_12_0,10.103.118.59,1,1.96 GB,BAG-LV,bag-viewer-dar:0.0.0.1-20141114-095546,so.kadaster.nl,28,Almere
+sou499.so.kadaster.nl,bgt,bgt-app-rs,10.103.8.45,10.251.120.96,ont,JAP_4_0_12_0,10.103.118.70,2,3.87 GB,BGT-LV,,so.kadaster.nl,28,Almere
+sou500.so.kadaster.nl,kpv,kpv-services,10.103.8.46,10.251.122.44,ont,JAP_4_0_12_0,10.103.118.40,2,3.87 GB,Kadastrale Perceelsvorming (KPV),kpv-services-dar:0.0.1.1,so.kadaster.nl,28,Amsterdam
+sou504.so.kadaster.nl,bke,bke-mutatie,10.103.8.50,10.251.122.140,ont,JAP_4_0_12_0,10.103.118.84,2,3.87 GB,BRK leveringen,productieservice-mutatie-dar:2.1.0.11-20141121-000723;mutatiesensor-dar:2.0.11,so.kadaster.nl,28,Amsterdam
+sou513.so.kadaster.nl,gima,gima-maatwerk,10.103.8.59,10.251.120.202,ont,WSP_1_0_7_0,10.103.118.74,1,1.96 GB,GIS Maatwerk Werkomgeving,,so.kadaster.nl,28,Almere
+sou514.so.kadaster.nl,kpv,kpv-process,10.103.8.60,10.251.120.205,ont,JAP_4_0_12_0,10.103.118.51,2,3.87 GB,Kadastrale Perceelsvorming (KPV),,so.kadaster.nl,28,Amsterdam
+sou516.so.kadaster.nl,splits,splits-geos-perc-wfs,10.103.8.62,10.251.122.116,ont,JAP_4_0_12_0,10.103.118.9,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-perceel-wfs-geoserver-dar:4.1.1.2,so.kadaster.nl,28,Amsterdam
+sou518.so.kadaster.nl,lki,lki-hvk-process,10.103.8.64,10.251.122.109,ont,JAP_4_0_12_0,10.103.118.1,2,3.87 GB,LKI,hvk-aanvragen-dar:1.0.0.42,so.kadaster.nl,28,Amsterdam
+sou521.so.kadaster.nl,pdok,pdok-loket,10.103.8.67,10.251.121.252,ont,PLP_PDOK_1_0_7_0,,1,1.96 GB,PDOK,pdok-loket-dar:1.0.3.15,so.kadaster.nl,38,Almere
+sou524.so.kadaster.nl,bgt,bgt-app-rs,10.103.8.70,10.251.120.95,ont,JAP_4_0_12_0,10.103.118.70,2,3.87 GB,BGT-LV,,so.kadaster.nl,28,Amsterdam
+sou527.so.kadaster.nl,jap,jap-wsp,10.103.8.73,10.251.121.31,ont,WSP_1_0_7_0,10.103.118.82,1,1.96 GB,PLP beheertooling,cdit-dashboard-dar:1.0.0.26,so.kadaster.nl,28,Almere
+sou529.so.kadaster.nl,splits,splits-geos-gbkn-wfs,10.103.9.1,10.251.122.108,ont,JAP_4_0_12_0,10.103.118.65,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-gbkn-wfs-geoserver-dar:4.1.0.3,so.kadaster.nl,28,Almere
+sou530.so.kadaster.nl,bgt,bgt-gopubwf,10.103.9.2,10.251.123.168,ont,EAP_4_1_3_0,10.103.119.110,1,1.96 GB,BGT-LV,bgt-gpw-jboss-dar:0.0.7,so.kadaster.nl,28,Amsterdam
+sou531.so.kadaster.nl,lki,lki-hvk-process,10.103.9.3,10.251.122.102,ont,JAP_4_0_12_0,10.103.118.1,2,3.87 GB,LKI,hvk-aanvragen-dar:1.0.0.42,so.kadaster.nl,28,Almere
+sou532.so.kadaster.nl,splits,splits-app-web,10.103.9.4,10.251.122.79,ont,JAP_4_0_12_0,10.103.118.56,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-dar:4.1.4.0,so.kadaster.nl,28,Amsterdam
+sou533.so.kadaster.nl,lki,lki-process,10.103.9.5,10.251.121.108,ont,JAP_4_0_12_0,10.103.119.38,2,3.87 GB,LKI,brk-fingis-mutatieservice-dar:1.3.0.4,so.kadaster.nl,28,Almere
+sou534.so.kadaster.nl,splits,splits-process,10.103.9.6,10.251.120.181,ont,JAP_4_0_12_0,10.103.118.28,3,5.84 GB,Kadastrale Perceelsvorming (KPV),brk-mutatieservice-dar:1.5.2.32,so.kadaster.nl,28,Amsterdam
+sou535.so.kadaster.nl,bgt,bgt-gopubwf,10.103.9.7,10.251.121.226,ont,EAP_4_1_3_0,10.103.119.110,1,1.96 GB,BGT-LV,bgt-gpw-jboss-dar:0.0.7,so.kadaster.nl,28,Almere
+sou536.so.kadaster.nl,lki,lki-brk-ws,10.103.9.8,10.251.120.215,ont,JAP_4_0_12_0,10.103.119.87,2,3.87 GB,LKI,lki-brk-ws-dar:1.0.1.1;vg-nummeruitgifteservice-dar:2.0.1.2-20141120-222255,so.kadaster.nl,28,Amsterdam
+sou537.so.kadaster.nl,splits,splits-app-web,10.103.9.9,10.251.121.109,ont,JAP_4_0_12_0,10.103.118.56,2,3.87 GB,Kadastrale Perceelsvorming (KPV),splits-dar:4.1.4.0,so.kadaster.nl,28,Almere
+sou538.so.kadaster.nl,gds,gds-app,10.103.9.10,10.251.121.79,ont,JAP_3_1_3_0,10.103.119.92,1,1.96 GB,Generieke Download Service (GDS2),gds-dar:2.7.0.8,so.kadaster.nl,31,Amsterdam
+sou539.so.kadaster.nl,splits,splits-process,10.103.9.11,10.251.122.135,ont,JAP_4_0_12_0,10.103.118.28,3,5.84 GB,Kadastrale Perceelsvorming (KPV),brk-mutatieservice-dar:1.5.2.32,so.kadaster.nl,28,Almere
+sou540.so.kadaster.nl,lki,lki-brk-geo-beh,10.103.9.12,10.251.120.111,ont,JAP_4_0_12_0,10.103.119.12,1,1.96 GB,LKI,beheerindelingen-dar:1.0.0.18,so.kadaster.nl,28,Amsterdam
+sou541.so.kadaster.nl,lki,lki-brk-ws,10.103.9.13,10.251.122.134,ont,JAP_4_0_12_0,10.103.119.87,2,3.87 GB,LKI,lki-brk-ws-dar:1.0.1.1;vg-nummeruitgifteservice-dar:2.0.1.2-20141120-222255,so.kadaster.nl,28,Almere
+sou542.so.kadaster.nl,lki,lki-wdv-app,10.103.9.14,10.251.121.76,ont,JAP_4_0_12_0,10.103.119.18,1,1.96 GB,LKI,wdv-dar:2.1.0.2,so.kadaster.nl,28,Amsterdam
+sou543.so.kadaster.nl,gds,gds-app,10.103.9.15,10.251.122.75,ont,JAP_3_1_3_0,10.103.119.92,1,1.96 GB,Generieke Download Service (GDS2),gds-dar:2.7.0.8,so.kadaster.nl,31,Almere
+sou545.so.kadaster.nl,lki,lki-brk-geo-beh,10.103.9.17,10.251.120.29,ont,JAP_4_0_12_0,10.103.119.12,1,1.96 GB,LKI,beheerindelingen-dar:1.0.0.18,so.kadaster.nl,28,Almere
+sou546.so.kadaster.nl,klic,klic-adr,10.103.9.18,10.251.120.177,ont,JAP_4_0_12_0,10.103.118.69,1,1.96 GB,KLIC,adr-dar:2.0.0.21,so.kadaster.nl,28,Amsterdam
+sou547.so.kadaster.nl,lki,lki-wdv-app,10.103.9.19,10.251.120.26,ont,JAP_4_0_12_0,10.103.119.18,1,1.96 GB,LKI,wdv-dar:2.1.0.2,so.kadaster.nl,28,Almere
+sou548.so.kadaster.nl,klic,klic-blg-zoek,10.103.9.20,10.251.120.150,ont,JAP_4_0_12_0,10.103.119.75,2,3.87 GB,KLIC,blg-backend-dar:2.0.0.1,so.kadaster.nl,28,Amsterdam
+sou550.so.kadaster.nl,klic,klic-blg,10.103.9.22,10.251.120.151,ont,JAP_4_0_12_0,10.103.118.11,1,1.96 GB,KLIC,blg-frontend-dar:2.0.0.19,so.kadaster.nl,28,Amsterdam
+sou551.so.kadaster.nl,klic,klic-adr,10.103.9.23,10.251.121.81,ont,JAP_4_0_12_0,10.103.118.69,1,1.96 GB,KLIC,adr-dar:2.0.0.21,so.kadaster.nl,28,Almere
+sou552.so.kadaster.nl,klic,klic-lev,10.103.9.24,10.251.122.219,ont,JAP_4_0_12_0,10.103.118.66,2,3.87 GB,KLIC,klic-backend-dar:2.0.0.12,so.kadaster.nl,28,Amsterdam
+sou553.so.kadaster.nl,klic,klic-blg-zoek,10.103.9.25,10.251.122.220,ont,JAP_4_0_12_0,10.103.119.75,2,3.87 GB,KLIC,blg-backend-dar:2.0.0.1,so.kadaster.nl,28,Almere
+sou554.so.kadaster.nl,klic,klic-nbs,10.103.9.26,10.251.121.75,ont,JAP_4_0_12_0,10.103.118.120,2,3.87 GB,KLIC,klic-netbeheerdersimulator-dar:2.0.0.4,so.kadaster.nl,28,Amsterdam
+sou555.so.kadaster.nl,klic,klic-blg,10.103.9.27,10.251.120.179,ont,JAP_4_0_12_0,10.103.118.11,1,1.96 GB,KLIC,blg-frontend-dar:2.0.0.19,so.kadaster.nl,28,Almere
+sou556.so.kadaster.nl,klic,klic-ntd,10.103.9.28,10.251.120.79,ont,JAP_4_0_12_0,10.103.119.127,2,3.87 GB,KLIC,klic-ntd-dar:2.0.0.7,so.kadaster.nl,28,Amsterdam
+sou557.so.kadaster.nl,klic,klic-lev,10.103.9.29,10.251.121.77,ont,JAP_4_0_12_0,10.103.118.66,2,3.87 GB,KLIC,klic-backend-dar:2.0.0.12,so.kadaster.nl,28,Almere
+sou558.so.kadaster.nl,klic,klic-web,10.103.9.30,10.251.121.28,ont,JAP_4_0_12_0,10.103.118.119,2,3.87 GB,KLIC,klic-frontend-dar:2.0.0.25,so.kadaster.nl,28,Amsterdam
+sou559.so.kadaster.nl,klic,klic-nbs,10.103.9.31,10.251.120.83,ont,JAP_4_0_12_0,10.103.118.120,2,3.87 GB,KLIC,klic-netbeheerdersimulator-dar:2.0.0.4,so.kadaster.nl,28,Almere
+sou560.so.kadaster.nl,klic,klic-gbkn,10.103.9.32,10.251.121.72,ont,JAP_4_0_12_0,10.103.118.57,3,5.84 GB,KLIC,klic-gbkn-geoserver-dar:2.0.0.5,so.kadaster.nl,28,Amsterdam
+sou561.so.kadaster.nl,klic,klic-ntd,10.103.9.33,10.251.120.76,ont,JAP_4_0_12_0,10.103.119.127,2,3.87 GB,KLIC,klic-ntd-dar:2.0.0.7,so.kadaster.nl,28,Almere
+sou562.so.kadaster.nl,klic,klic-geo,10.103.9.34,10.251.121.67,ont,JAP_4_0_12_0,10.103.118.92,1,1.96 GB,KLIC,klic-geoserver-dar:2.0.0.2,so.kadaster.nl,28,Amsterdam
+sou563.so.kadaster.nl,klic,klic-web,10.103.9.35,10.251.121.29,ont,JAP_4_0_12_0,10.103.118.119,2,3.87 GB,KLIC,klic-frontend-dar:2.0.0.25,so.kadaster.nl,28,Almere
+sou564.so.kadaster.nl,klic,klic-poc,10.103.9.36,10.251.122.212,ont,JAP_4_0_12_0,10.103.118.29,1,1.96 GB,KLIC,klic-bw-frontend-dar:0.0.0.6,so.kadaster.nl,28,Amsterdam
+sou565.so.kadaster.nl,klic,klic-gbkn,10.103.9.37,10.251.121.70,ont,JAP_4_0_12_0,10.103.118.57,3,5.84 GB,KLIC,klic-gbkn-geoserver-dar:2.0.0.5,so.kadaster.nl,28,Almere
+sou566.so.kadaster.nl,aa,aa-mmalware,10.103.9.38,10.251.122.214,ont,JAP_3_1_3_0,10.103.119.77,1,1.96 GB,AA,massale-mail-malware-dar:1.0.11,so.kadaster.nl,31,Amsterdam
+sou567.so.kadaster.nl,klic,klic-geo,10.103.9.39,10.251.121.25,ont,JAP_4_0_12_0,10.103.118.92,1,1.96 GB,KLIC,klic-geoserver-dar:2.0.0.2,so.kadaster.nl,28,Almere
+sou568.so.kadaster.nl,iad,iad-web,10.103.9.40,10.251.122.215,ont,JAP_4_0_12_0,10.103.119.120,1,1.96 GB,Inzage Archief Documenten ,iad-dar:1.3.0.26-20141121-013307,so.kadaster.nl,28,Amsterdam
+sou569.so.kadaster.nl,klic,klic-poc,10.103.9.41,10.251.122.211,ont,JAP_4_0_12_0,10.103.118.29,1,1.96 GB,KLIC,klic-bw-frontend-dar:0.0.0.6,so.kadaster.nl,28,Almere
+sou570.so.kadaster.nl,isps,isps-apprecht-ws,10.103.9.42,10.251.120.153,ont,JAP_4_0_12_0,10.103.118.48,1,1.96 GB,ISPS,isps-app-dar:0.0.0.9,so.kadaster.nl,28,Amsterdam
+sou571.so.kadaster.nl,aa,aa-mmalware,10.103.9.43,10.251.122.222,ont,JAP_3_1_3_0,10.103.119.77,1,1.96 GB,AA,massale-mail-malware-dar:1.0.11,so.kadaster.nl,31,Almere
+sou573.so.kadaster.nl,iad,iad-web,10.103.9.45,10.251.121.21,ont,JAP_4_0_12_0,10.103.119.120,1,1.96 GB,Inzage Archief Documenten ,iad-dar:1.3.0.26-20141121-013307,so.kadaster.nl,28,Almere
+sou575.so.kadaster.nl,isps,isps-apprecht-ws,10.103.9.47,10.251.122.210,ont,JAP_4_0_12_0,10.103.118.48,1,1.96 GB,ISPS,isps-app-dar:0.0.0.9,so.kadaster.nl,28,Almere
+sou578.so.kadaster.nl,kadnl,kadnl-edit,10.103.9.50,10.251.122.83,ont,JAP_4_0_12_0,10.103.119.35,1,1.96 GB,Kadaster.nl,kadnl-dar:9.20.3.27,so.kadaster.nl,28,Amsterdam
+sou580.so.kadaster.nl,kadnl,kadnl-web,10.103.9.52,10.251.122.87,ont,JAP_4_0_12_0,10.103.119.5,1,1.96 GB,Kadaster.nl,kadnl-dar:9.20.3.27,so.kadaster.nl,28,Amsterdam
+sou582.so.kadaster.nl,plp,plp_deployit_server,10.103.9.54,10.251.121.207,ont,PLP_KADASTER_1_0_1_0,,2,7.81 GB,PLP Kadaster beheertooling,,so.kadaster.nl,48,Amsterdam
+sou583.so.kadaster.nl,kadnl,kadnl-edit,10.103.9.55,10.251.122.85,ont,JAP_4_0_12_0,10.103.119.35,1,1.96 GB,Kadaster.nl,kadnl-dar:9.20.3.27,so.kadaster.nl,28,Almere
+sou584.so.kadaster.nl,ota,ota-jenkins-slave,10.103.9.56,10.251.120.207,ont,WSP_1_0_7_0,10.103.118.39,2,3.87 GB,OTA,jenkins-ci:1.583.0.1,so.kadaster.nl,28,Amsterdam
+sou585.so.kadaster.nl,kadnl,kadnl-web,10.103.9.57,10.251.122.88,ont,JAP_4_0_12_0,10.103.119.5,1,1.96 GB,Kadaster.nl,kadnl-dar:9.20.3.27,so.kadaster.nl,28,Almere
+sou586.so.kadaster.nl,woz,woz-pdok-koppeling,10.103.9.58,10.251.120.231,ont,JAP_4_0_12_0,10.103.118.67,1,1.96 GB,LV WOZ,woz-pdok-integration-dar:1.1.0.0,so.kadaster.nl,28,Amsterdam
+sou587.so.kadaster.nl,woz,woz-pdok-koppeling,10.103.9.59,10.251.122.91,ont,JAP_4_0_12_0,10.103.118.67,1,1.96 GB,LV WOZ,woz-pdok-integration-dar:1.1.0.0,so.kadaster.nl,28,Almere
+sou588.so.kadaster.nl,ota,ota-pipeline,10.103.9.60,10.251.121.22,ont,JAP_4_0_12_0,10.103.119.91,2,3.87 GB,OTA,jenkins-ci:1.583.0.1,so.kadaster.nl,28,Amsterdam
+sou589.so.kadaster.nl,ota,ota-pipeline,10.103.9.61,10.251.121.214,ont,JAP_4_0_12_0,10.103.119.91,2,3.87 GB,OTA,jenkins-ci:1.583.0.1,so.kadaster.nl,28,Almere
+sou590.so.kadaster.nl,pdok,pdok-perftest,10.103.9.62,10.251.120.193,ont,PLP_YODA_1_0_5_0,,4,3.87 GB,PDOK,,so.kadaster.nl,48,Amsterdam
+sou591.so.kadaster.nl,lvbag,lvbag-vs-audit,10.103.9.63,10.251.121.16,ont,JAP_4_0_12_0,10.103.118.58,1,1.96 GB,BAG-LV,bag-audit-dar:2.13.0.3-20141120-083035,so.kadaster.nl,28,Almere
+sou592.so.kadaster.nl,pdok,pdok-etl,10.103.9.64,10.251.120.194,ont,PLP_YODA_1_0_5_0,,4,3.87 GB,PDOK,,so.kadaster.nl,228,Amsterdam
+sou593.so.kadaster.nl,ota,ota-jenkins-slave,10.103.9.65,10.251.120.208,ont,WSP_1_0_7_0,10.103.118.39,2,3.87 GB,OTA,jenkins-ci:1.583.0.1,so.kadaster.nl,28,Almere
+sou594.so.kadaster.nl,lvbag,lvbag-vs-audit,10.103.9.66,10.251.121.14,ont,JAP_4_0_12_0,10.103.118.58,1,1.96 GB,BAG-LV,bag-audit-dar:2.13.0.3-20141120-083035,so.kadaster.nl,28,Amsterdam
+sou595.so.kadaster.nl,lvbag,lvbag-vs-bw,10.103.9.67,10.251.121.165,ont,JAP_4_0_12_0,10.103.118.112,1,1.96 GB,BAG-LV,bag-vs-dar:4.0.0.8,so.kadaster.nl,28,Almere
+sou596.so.kadaster.nl,lvbag,lvbag-vs-bw,10.103.9.68,10.251.121.166,ont,JAP_4_0_12_0,10.103.118.112,1,1.96 GB,BAG-LV,bag-vs-dar:4.0.0.8,so.kadaster.nl,28,Amsterdam
+sou597.so.kadaster.nl,bgt,bgt-app,10.103.9.69,10.251.123.127,ont,JAP_3_1_3_0,10.103.119.69,2,3.86 GB,BGT-LV,,so.kadaster.nl,31,Almere
+sou598.so.kadaster.nl,bgt,bgt-app,10.103.9.70,10.251.123.167,ont,JAP_3_1_3_0,10.103.119.69,2,3.86 GB,BGT-LV,,so.kadaster.nl,31,Amsterdam
+sou599.so.kadaster.nl,bgt,bgt-gpw,10.103.9.71,10.251.123.124,ont,JAP_4_0_12_0,10.103.119.11,2,3.87 GB,BGT-LV,,so.kadaster.nl,28,Almere
+sou600.so.kadaster.nl,bgt,bgt-gpw,10.103.9.72,10.251.123.125,ont,JAP_4_0_12_0,10.103.119.11,2,3.87 GB,BGT-LV,,so.kadaster.nl,28,Amsterdam
+sou601.so.kadaster.nl,gaa,gaa-test-app,10.103.9.73,10.251.123.119,ont,JAP_4_0_12_0,10.103.119.36,1,1.96 GB,GAA,gaa-test-app-dar:1.0.2.1,so.kadaster.nl,28,Almere
+sou602.so.kadaster.nl,gaa,gaa-test-app,10.103.9.74,10.251.123.117,ont,JAP_4_0_12_0,10.103.119.36,1,1.96 GB,GAA,gaa-test-app-dar:1.0.2.1,so.kadaster.nl,28,Amsterdam
+sou603.so.kadaster.nl,woz,woz-as,10.103.9.75,10.251.121.155,ont,JAP_3_1_3_0,10.103.119.95,1,1.96 GB,LV WOZ,,so.kadaster.nl,31,Almere
+sou604.so.kadaster.nl,woz,woz-as,10.103.9.76,10.251.123.112,ont,JAP_3_1_3_0,10.103.119.95,1,1.96 GB,LV WOZ,,so.kadaster.nl,31,Amsterdam
+sou605.so.kadaster.nl,pdok,pdok-apps,10.103.9.77,10.251.123.113,ont,JAP_4_0_12_0,10.103.118.121,2,3.87 GB,PDOK,pdok-apps-dar:1.0.1.48,so.kadaster.nl,28,Almere
+sou606.so.kadaster.nl,pdok,pdok-apps,10.103.9.78,10.251.123.110,ont,JAP_4_0_12_0,10.103.118.121,2,3.87 GB,PDOK,pdok-apps-dar:1.0.1.48,so.kadaster.nl,28,Amsterdam
+sou607.so.kadaster.nl,pdok,pdok-dginvector,10.103.9.79,10.251.123.105,ont,JAP_4_0_12_0,10.103.119.50,2,3.87 GB,PDOK,pdok-dginvector-dar:1.0.1.16,so.kadaster.nl,28,Almere
+sou608.so.kadaster.nl,pdok,pdok-dginvector,10.103.9.80,10.251.123.104,ont,JAP_4_0_12_0,10.103.119.50,2,3.87 GB,PDOK,pdok-dginvector-dar:1.0.1.16,so.kadaster.nl,28,Amsterdam
+sou609.so.kadaster.nl,pdok,pdok-staging-tiling,10.103.9.81,10.251.123.68,ont,JAP_4_0_12_0,10.103.118.30,4,3.87 GB,PDOK,pdok-staging-tiling-dar:1.0.0.20,so.kadaster.nl,28,Almere
+sou610.so.kadaster.nl,dba,epc-db,10.103.9.82,10.251.122.183,ont,HDP_1_1_2_0,10.103.118.10,2,3.86 GB,EPC,,so.kadaster.nl,151,Amsterdam
+sou611.so.kadaster.nl,pdok,pdok-dmregie,10.103.9.83,10.251.123.79,ont,JAP_4_0_12_0,10.103.119.117,2,3.87 GB,PDOK,pdok-dmregie-dar:3.0.0.94;pdok-catalogus:1.0.0.41,so.kadaster.nl,28,Almere
+sou612.so.kadaster.nl,pdok,pdok-dmregie,10.103.9.84,10.251.123.132,ont,JAP_4_0_12_0,10.103.119.117,2,3.87 GB,PDOK,pdok-dmregie-dar:3.0.0.94;pdok-catalogus:1.0.0.41,so.kadaster.nl,28,Amsterdam
+sou613.so.kadaster.nl,pdok,pdok-geowebcache,10.103.9.85,10.251.123.213,ont,JAP_4_0_12_0,10.103.119.60,2,3.87 GB,PDOK,pdok-geowebcache-dar:1.0.1.25,so.kadaster.nl,28,Almere
+sou614.so.kadaster.nl,pdok,pdok-geowebcache,10.103.9.86,10.251.123.78,ont,JAP_4_0_12_0,10.103.119.60,2,3.87 GB,PDOK,pdok-geowebcache-dar:1.0.1.25,so.kadaster.nl,28,Amsterdam
+sou615.so.kadaster.nl,pdok,pdok-gsinvector,10.103.9.87,10.251.123.214,ont,JAP_4_0_12_0,10.103.119.44,2,3.87 GB,PDOK,pdok-gsinvector-dar:1.0.1.79,so.kadaster.nl,28,Almere
+sou616.so.kadaster.nl,pdok,pdok-gsinvector,10.103.9.88,10.251.123.72,ont,JAP_4_0_12_0,10.103.119.44,2,3.87 GB,PDOK,pdok-gsinvector-dar:1.0.1.79,so.kadaster.nl,28,Amsterdam
+sou617.so.kadaster.nl,pdok,pdok-gsnlraster,10.103.9.89,10.251.121.150,ont,JAP_4_0_12_0,10.103.119.119,2,3.87 GB,PDOK,pdok-gsnlraster-dar:1.0.1.79,so.kadaster.nl,28,Almere
+sou618.so.kadaster.nl,pdok,pdok-gsnlraster,10.103.9.90,10.251.123.216,ont,JAP_4_0_12_0,10.103.119.119,2,3.87 GB,PDOK,pdok-gsnlraster-dar:1.0.1.79,so.kadaster.nl,28,Amsterdam
+sou619.so.kadaster.nl,pdok,pdok-gsnlvector,10.103.9.91,10.251.123.208,ont,JAP_4_0_12_0,10.103.119.57,2,3.87 GB,PDOK,pdok-gsnlvector-dar:1.0.1.79,so.kadaster.nl,28,Almere
+sou620.so.kadaster.nl,pdok,pdok-gsnlvector,10.103.9.92,10.251.123.210,ont,JAP_4_0_12_0,10.103.119.57,2,3.87 GB,PDOK,pdok-gsnlvector-dar:1.0.1.79,so.kadaster.nl,28,Amsterdam
+sou621.so.kadaster.nl,pdok,pdok-ngr,10.103.9.93,10.251.123.215,ont,JAP_4_0_12_0,10.103.118.111,3,5.84 GB,PDOK,pdok-ngr-dar:1.0.1.15,so.kadaster.nl,28,Almere
+sou622.so.kadaster.nl,pdok,pdok-ngr,10.103.9.94,10.251.123.58,ont,JAP_4_0_12_0,10.103.118.111,3,5.84 GB,PDOK,pdok-ngr-dar:1.0.1.15,so.kadaster.nl,28,Amsterdam
+sou623.so.kadaster.nl,pdok,pdok-intern,10.103.9.95,10.251.123.54,ont,WSP_1_0_7_0,10.103.118.19,1,1.96 GB,PDOK,pdok-intern-dar:1.0.4.9,so.kadaster.nl,28,Almere
+sou624.so.kadaster.nl,pdok,pdok-intern,10.103.9.96,10.251.123.55,ont,WSP_1_0_7_0,10.103.118.19,1,1.96 GB,PDOK,pdok-intern-dar:1.0.4.5,so.kadaster.nl,28,Amsterdam
+sou627.so.kadaster.nl,pdok,pdok-viewer,10.103.9.99,10.251.123.51,ont,WSP_1_0_7_0,10.103.119.101,2,3.87 GB,PDOK,pdok-viewer-dar:1.0.2.57,so.kadaster.nl,28,Almere
+sou628.so.kadaster.nl,pdok,pdok-viewer,10.103.9.100,10.251.123.50,ont,WSP_1_0_7_0,10.103.119.101,2,3.87 GB,PDOK,pdok-viewer-dar:1.0.2.57,so.kadaster.nl,28,Amsterdam
+sou629.so.kadaster.nl,loc,brk-loc4,10.103.9.101,10.251.123.48,ont,JAP_4_0_12_0,10.103.118.41,2,3.87 GB,BRK-BAG Locatie,brk-loc-dar:1.5.2.1-20141121-054220,so.kadaster.nl,28,Almere
+sou630.so.kadaster.nl,loc,brk-loc4,10.103.9.102,10.251.123.49,ont,JAP_4_0_12_0,10.103.118.41,2,3.87 GB,BRK-BAG Locatie,brk-loc-dar:1.5.2.1-20141121-054220,so.kadaster.nl,28,Amsterdam
+sou631.so.kadaster.nl,loc,brk-lko4,10.103.9.103,10.251.123.45,ont,JAP_4_0_12_0,10.103.118.93,2,3.87 GB,BRK-BAG Locatie,brk-lko-dar:1.1.6.1-20141121-064222,so.kadaster.nl,28,Almere
+sou632.so.kadaster.nl,loc,brk-lko4,10.103.9.104,10.251.123.44,ont,JAP_4_0_12_0,10.103.118.93,2,3.87 GB,BRK-BAG Locatie,brk-lko-dar:1.1.6.1-20141121-064222,so.kadaster.nl,28,Amsterdam
+sou633.so.kadaster.nl,loc,brk-aka4,10.103.9.105,10.251.123.29,ont,JAP_4_0_12_0,10.103.118.60,2,3.87 GB,BRK-BAG Locatie,brk-akra-dar:1.0.0.0-20141121-064222,so.kadaster.nl,28,Almere
+sou634.so.kadaster.nl,loc,brk-aka4,10.103.9.106,10.251.123.30,ont,JAP_4_0_12_0,10.103.118.60,2,3.87 GB,BRK-BAG Locatie,brk-akra-dar:1.0.0.0-20141121-064222,so.kadaster.nl,28,Amsterdam
+sou635.so.kadaster.nl,pdok,pdok-dmpublic,10.103.9.107,10.251.122.157,ont,JAP_4_0_12_0,10.103.118.20,2,3.87 GB,PDOK,pdok-dmpublic-dar:3.0.0.94,so.kadaster.nl,28,Almere
+sou636.so.kadaster.nl,pdok,pdok-dmpublic,10.103.9.108,10.251.122.158,ont,JAP_4_0_12_0,10.103.118.20,2,3.87 GB,PDOK,pdok-dmpublic-dar:3.0.0.94,so.kadaster.nl,28,Amsterdam
+sou637.so.kadaster.nl,wkpb,wkpb-lv,10.103.9.109,10.251.122.156,ont,JAP_4_0_12_0,10.103.118.101,1,1.96 GB,WKPB-LV,,so.kadaster.nl,28,Almere
+sou638.so.kadaster.nl,wkpb,wkpb-lv,10.103.9.110,10.251.120.218,ont,JAP_4_0_12_0,10.103.118.101,1,1.96 GB,WKPB-LV,,so.kadaster.nl,28,Amsterdam
+sou639.so.kadaster.nl,aa,aa-mail,10.103.9.111,10.251.122.152,ont,JAP_4_0_12_0,10.103.118.49,1,1.96 GB,AA,massale-mail-malware-dar:1.1.0-20140915-091235,so.kadaster.nl,28,Almere
+sou640.so.kadaster.nl,pdok,pdok-staging-tiling,10.103.9.112,10.251.123.96,ont,JAP_4_0_12_0,10.103.118.30,4,3.87 GB,PDOK,pdok-staging-tiling-dar:1.0.0.20,so.kadaster.nl,28,Amsterdam
+sou641.so.kadaster.nl,ota,ota-javabuild,10.103.9.113,10.251.123.62,ont,JAP_4_0_12_0,10.103.118.47,2,3.87 GB,OTA,jenkins-ci:1.582.0.0,so.kadaster.nl,28,Almere
+sou642.so.kadaster.nl,gima,yoda-host2,10.103.9.114,10.251.122.161,ont,PLP_YODA_1_0_5_0,,1,1.96 GB,GIS Maatwerk Werkomgeving,,so.kadaster.nl,48,Amsterdam
+sou643.so.kadaster.nl,jap,backup-test,10.103.9.115,10.251.121.254,ont,JAP_4_0_12_0,10.103.118.21,1,1.96 GB,PLP beheertooling,,so.kadaster.nl,33,Almere
+sou644.so.kadaster.nl,aa,aa-mail,10.103.9.116,10.251.122.151,ont,JAP_4_0_12_0,10.103.118.49,1,1.96 GB,AA,massale-mail-malware-dar:1.1.0-20140915-091235,so.kadaster.nl,28,Amsterdam
+sou645.so.kadaster.nl,nhr,nhr-appl,10.103.9.117,10.251.122.84,ont,JAP_4_0_12_0,10.103.119.114,1,1.96 GB,OR-KR,orkr-nhr-service-dar:0.0.1.16-20141120-225157,so.kadaster.nl,28,Almere
+sou646.so.kadaster.nl,ota,ota-javabuild,10.103.9.118,10.251.123.21,ont,JAP_4_0_12_0,10.103.118.47,2,3.87 GB,OTA,jenkins-ci:1.582.0.0,so.kadaster.nl,28,Amsterdam
+sou648.so.kadaster.nl,jap,backup-test,10.103.9.120,10.251.123.111,ont,JAP_4_0_12_0,10.103.118.21,1,1.96 GB,PLP beheertooling,,so.kadaster.nl,28,Amsterdam
+sou650.so.kadaster.nl,nhr,nhr-appl,10.103.9.122,10.251.121.253,ont,JAP_4_0_12_0,10.103.119.114,1,1.96 GB,OR-KR,orkr-nhr-service-dar:0.0.1.16-20141120-225157,so.kadaster.nl,28,Amsterdam
+sou652.so.kadaster.nl,ota,ota-javabuild-nfs,10.103.9.124,10.251.123.225,ont,PLP_BEHEER_2_0_21_0,,1,1.96 GB,PLP Kadaster beheertooling,jenkins-ci:1.582.0.0,so.kadaster.nl,428,Amsterdam
